@@ -1,0 +1,179 @@
+{
+  "generado": "2026-08-15T16:30:02Z",
+  "fuente": "Google Trends (cliente no oficial pytrends)",
+  "ventana": "today 5-y",
+  "paises": {
+    "ES": "Espana",
+    "MX": "Mexico",
+    "AR": "Argentina",
+    "CO": "Colombia",
+    "US": "Estados Unidos",
+    "BR": "Brasil"
+  },
+  "interes_temporal": {},
+  "interes_por_pais": {},
+  "incompletos": [
+    {
+      "pais": "ES",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "ES",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "ES",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    },
+    {
+      "pais": "MX",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "MX",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "MX",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    },
+    {
+      "pais": "AR",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "AR",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "AR",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    },
+    {
+      "pais": "CO",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "CO",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "CO",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    },
+    {
+      "pais": "US",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "US",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "US",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    },
+    {
+      "pais": "BR",
+      "terminos": [
+        "botox",
+        "acido hialuronico",
+        "hilos tensores",
+        "hifu",
+        "radiofrecuencia facial"
+      ]
+    },
+    {
+      "pais": "BR",
+      "terminos": [
+        "botox",
+        "laser co2",
+        "bioestimulador colageno",
+        "criolipolisis",
+        "emsculpt"
+      ]
+    },
+    {
+      "pais": "BR",
+      "terminos": [
+        "botox",
+        "ondas de choque celulitis"
+      ]
+    }
+  ]
+}

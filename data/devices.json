@@ -1,0 +1,220 @@
+{
+  "generado": "2026-08-15T16:29:54Z",
+  "fuente": "openFDA - registro 510(k) de dispositivos medicos",
+  "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
+  "por_tratamiento": {
+    "toxina-botulinica": [],
+    "acido-hialuronico": [
+      {
+        "nombre": "Hyaluronic Acid Vaginal Suppository (HA 5 mg); Hyaluronic Acid Vaginal Suppository (HA 10 mg)",
+        "fabricante": "Hudi Pharma Srl",
+        "k_number": "K260007",
+        "fecha_decision": "2026-04-01",
+        "ano": "2026",
+        "pais": "IT"
+      },
+      {
+        "nombre": "Nitrile Powder-Free Exam Gloves with Hyaluronic Acid, and tested for Use with Chemotherapy Drugs, Opioid Fentanyl Citrate, Simulated Gastric Acid and Xylazine in Fentanyl Citrate",
+        "fabricante": "Basic Medical Technology, Inc.",
+        "k_number": "K250630",
+        "fecha_decision": "2025-05-22",
+        "ano": "2025",
+        "pais": "US"
+      },
+      {
+        "nombre": "Nitrile Patient Examination Gloves with Hyaluronic Acid Blue Colored and Tested for Use with Chemotherapy Drugs and Fentanyl Citrate, aka Synguard C+ Nitrile Exam Gloves",
+        "fabricante": "Anhui Intco Medical Products Co., Ltd.",
+        "k_number": "K231365",
+        "fecha_decision": "2024-03-01",
+        "ano": "2024",
+        "pais": "CN"
+      },
+      {
+        "nombre": "HYALURONIC ACID TOPICAL WOUND CREAM",
+        "fabricante": "Virchow Biotech Pvt, Ltd.",
+        "k_number": "K172747",
+        "fecha_decision": "2018-04-27",
+        "ano": "2018",
+        "pais": "US"
+      }
+    ],
+    "hilos-pdo": [],
+    "hifu": [],
+    "radiofrecuencia-microneedling": [],
+    "laser-co2-fraccionado": [
+      {
+        "nombre": "Dermatological Carbon Dioxide Laser Systems",
+        "fabricante": "Zhuolu Jontelaser Manufacturing Technology Co., Ltd.",
+        "k_number": "K202250",
+        "fecha_decision": "2020-11-25",
+        "ano": "2020",
+        "pais": "CN"
+      },
+      {
+        "nombre": "ACUPULSE 30 AND 40 CARBON DIOXIDE LASER SYSTEM",
+        "fabricante": "Lumenis, Inc.",
+        "k_number": "K082809",
+        "fecha_decision": "2008-12-18",
+        "ano": "2008",
+        "pais": "US"
+      },
+      {
+        "nombre": "LASERPRO CO2 CARBON DIOXIDE LASER SYSTEM",
+        "fabricante": "Photo Medex, Inc.",
+        "k_number": "K040234",
+        "fecha_decision": "2004-04-02",
+        "ano": "2004",
+        "pais": "US"
+      },
+      {
+        "nombre": "ACCU-PULSE CARBON DIOXIDE LASER SYSTEM",
+        "fabricante": "Argus Photonics Group",
+        "k_number": "K971830",
+        "fecha_decision": "1997-08-14",
+        "ano": "1997",
+        "pais": "US"
+      },
+      {
+        "nombre": "CARBON DIOXIDE LASER SYSTEMS W/WAVEGUIDE DELIVERY",
+        "fabricante": "Heraeus Lasersonics, Inc.",
+        "k_number": "K910530",
+        "fecha_decision": "1991-10-31",
+        "ano": "1991",
+        "pais": "US"
+      },
+      {
+        "nombre": "CARBON DIOXIDE LASER SYSTEMS W/ARTHOGUIDE CO2 DEL.",
+        "fabricante": "Heraeus Lasersonics, Inc.",
+        "k_number": "K910496",
+        "fecha_decision": "1991-05-06",
+        "ano": "1991",
+        "pais": "US"
+      },
+      {
+        "nombre": "SURGICAL CARBON DIOXIDE LASER SYST MODEL 20-CH",
+        "fabricante": "Directed Energy, Inc.",
+        "k_number": "K904930",
+        "fecha_decision": "1991-03-21",
+        "ano": "1991",
+        "pais": "US"
+      },
+      {
+        "nombre": "MODEL 20-CH CARBON DIOXIDE LASER W/ADD'L USES",
+        "fabricante": "Pfizer Laser Systems",
+        "k_number": "K900253",
+        "fecha_decision": "1990-04-05",
+        "ano": "1990",
+        "pais": "US"
+      },
+      {
+        "nombre": "35 WATT SURGICAL CARBON DIOXIDE LASER SYSTEM",
+        "fabricante": "Pfizer Laser Systems",
+        "k_number": "K896049",
+        "fecha_decision": "1990-01-11",
+        "ano": "1990",
+        "pais": "US"
+      },
+      {
+        "nombre": "MODEL 20-CH CARBON DIOXIDE LASER W/ACCESSORIES",
+        "fabricante": "Pfizer Laser Systems",
+        "k_number": "K885291",
+        "fecha_decision": "1989-02-03",
+        "ano": "1989",
+        "pais": "US"
+      },
+      {
+        "nombre": "CARBON DIOXIDE LASER SYSTEM MODEL 20-CX W/ATTACH.",
+        "fabricante": "Directed Energy, Inc.",
+        "k_number": "K883738",
+        "fecha_decision": "1988-11-15",
+        "ano": "1988",
+        "pais": "US"
+      },
+      {
+        "nombre": "SURGICAL CARBON DIOXIDE LASER SYS. #20B ULTRALIGHT",
+        "fabricante": "Directed Energy, Inc.",
+        "k_number": "K855210",
+        "fecha_decision": "1986-05-02",
+        "ano": "1986",
+        "pais": "US"
+      },
+      {
+        "nombre": "CARBON DIOXIDE LASER ML 825",
+        "fabricante": "Merrimack Laboratories",
+        "k_number": "K833528",
+        "fecha_decision": "1985-02-19",
+        "ano": "1985",
+        "pais": "US"
+      },
+      {
+        "nombre": "MODEL ML-820 CARBON DIOXIDE LASER SYSTEM FOR SURGERY",
+        "fabricante": "Merrimack Laboratories",
+        "k_number": "K827506",
+        "fecha_decision": "1982-06-11",
+        "ano": "1982",
+        "pais": "US"
+      },
+      {
+        "nombre": "ML-810 CARBON DIOXIDE LASER SYSTEM",
+        "fabricante": "Merrimack Laboratories",
+        "k_number": "K827442",
+        "fecha_decision": "1982-05-19",
+        "ano": "1982",
+        "pais": "US"
+      }
+    ],
+    "bioestimuladores": [],
+    "criolipolisis": [],
+    "emsculpt": [],
+    "ondas-choque": [
+      {
+        "nombre": "Extracorporeal Shock Wave Lithotripter (U200)",
+        "fabricante": "Shenzhen Wikkon Precision Technologies Co., Ltd.",
+        "k_number": "K242922",
+        "fecha_decision": "2025-06-18",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "EXTRACORPOREAL SHOCK WAVE LITHOTRIPTER",
+        "fabricante": "Osmunda Medical Device Consulting Co., Ltd.",
+        "k_number": "K131817",
+        "fecha_decision": "2014-09-26",
+        "ano": "2014",
+        "pais": "CN"
+      },
+      {
+        "nombre": "EXTRACORPOREAL SHOCK WAVE LITHOTRIPTER, COMED ASADAL-M1",
+        "fabricante": "Comed Medical Systems Co., Ltd.",
+        "k_number": "K131721",
+        "fecha_decision": "2014-07-22",
+        "ano": "2014",
+        "pais": "US"
+      },
+      {
+        "nombre": "GENESTONE EXEL (XL) EXTRACORPOREAL SHOCK WAVE LITHOTRIPTER",
+        "fabricante": "Genemed, Inc.",
+        "k_number": "K042427",
+        "fecha_decision": "2004-12-03",
+        "ano": "2004",
+        "pais": "US"
+      },
+      {
+        "nombre": "TWINHEADS TH-103 EXTRACORPOREAL SHOCK WAVE LITHOTRIPTER",
+        "fabricante": "Fmd, LLC",
+        "k_number": "K042561",
+        "fecha_decision": "2004-10-12",
+        "ano": "2004",
+        "pais": "US"
+      },
+      {
+        "nombre": "TWINHEADS TH-101 EXTRACORPOREAL SHOCK WAVE LITHOTRIPTER",
+        "fabricante": "Fmd, LLC",
+        "k_number": "K030346",
+        "fecha_decision": "2003-05-02",
+        "ano": "2003",
+        "pais": "US"
+      }
+    ]
+  }
+}

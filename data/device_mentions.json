@@ -1,0 +1,242 @@
+{
+  "generado": "2026-08-15T16:28:36Z",
+  "fuente": "Menciones detectadas en abstracts recientes de PubMed",
+  "por_tratamiento": {
+    "toxina-botulinica": [
+      {
+        "equipo": "Microagujas",
+        "menciones": 6
+      },
+      {
+        "equipo": "Laser CO2 fraccionado",
+        "menciones": 2
+      },
+      {
+        "equipo": "Ultherapy",
+        "menciones": 1
+      }
+    ],
+    "acido-hialuronico": [
+      {
+        "equipo": "HIFU",
+        "menciones": 6
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 2
+      },
+      {
+        "equipo": "Alexandrita 755 nm",
+        "menciones": 1
+      },
+      {
+        "equipo": "Pico laser",
+        "menciones": 1
+      }
+    ],
+    "hilos-pdo": [
+      {
+        "equipo": "HIFU",
+        "menciones": 3
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 2
+      },
+      {
+        "equipo": "Ultherapy",
+        "menciones": 1
+      }
+    ],
+    "hifu": [
+      {
+        "equipo": "HIFU",
+        "menciones": 509
+      },
+      {
+        "equipo": "Ultherapy",
+        "menciones": 12
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 12
+      },
+      {
+        "equipo": "Radiofrecuencia monopolar",
+        "menciones": 8
+      },
+      {
+        "equipo": "IPL",
+        "menciones": 7
+      },
+      {
+        "equipo": "Nd:YAG 1064 nm",
+        "menciones": 2
+      },
+      {
+        "equipo": "UltraPulse",
+        "menciones": 1
+      },
+      {
+        "equipo": "Diodo 808 nm",
+        "menciones": 1
+      },
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 1
+      }
+    ],
+    "radiofrecuencia-microneedling": [
+      {
+        "equipo": "Microagujas",
+        "menciones": 241
+      },
+      {
+        "equipo": "Er:YAG 2940 nm",
+        "menciones": 31
+      },
+      {
+        "equipo": "Laser CO2 fraccionado",
+        "menciones": 14
+      },
+      {
+        "equipo": "IPL",
+        "menciones": 12
+      },
+      {
+        "equipo": "Nd:YAG 1064 nm",
+        "menciones": 11
+      },
+      {
+        "equipo": "HIFU",
+        "menciones": 11
+      },
+      {
+        "equipo": "Morpheus8",
+        "menciones": 5
+      },
+      {
+        "equipo": "Pico laser",
+        "menciones": 3
+      },
+      {
+        "equipo": "Alexandrita 755 nm",
+        "menciones": 2
+      },
+      {
+        "equipo": "Diodo 808 nm",
+        "menciones": 2
+      },
+      {
+        "equipo": "Radiofrecuencia monopolar",
+        "menciones": 2
+      }
+    ],
+    "laser-co2-fraccionado": [
+      {
+        "equipo": "Laser CO2 fraccionado",
+        "menciones": 216
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 37
+      },
+      {
+        "equipo": "Nd:YAG 1064 nm",
+        "menciones": 28
+      },
+      {
+        "equipo": "IPL",
+        "menciones": 17
+      },
+      {
+        "equipo": "Pico laser",
+        "menciones": 16
+      },
+      {
+        "equipo": "Er:YAG 2940 nm",
+        "menciones": 12
+      },
+      {
+        "equipo": "UltraPulse",
+        "menciones": 2
+      }
+    ],
+    "bioestimuladores": [
+      {
+        "equipo": "Microagujas",
+        "menciones": 11
+      },
+      {
+        "equipo": "Pico laser",
+        "menciones": 1
+      },
+      {
+        "equipo": "Radiofrecuencia monopolar",
+        "menciones": 1
+      }
+    ],
+    "criolipolisis": [
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 510
+      },
+      {
+        "equipo": "CoolSculpting",
+        "menciones": 29
+      },
+      {
+        "equipo": "HIFU",
+        "menciones": 6
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 3
+      },
+      {
+        "equipo": "Emsculpt",
+        "menciones": 2
+      },
+      {
+        "equipo": "Ultherapy",
+        "menciones": 1
+      },
+      {
+        "equipo": "Morpheus8",
+        "menciones": 1
+      },
+      {
+        "equipo": "HIFEM",
+        "menciones": 1
+      }
+    ],
+    "emsculpt": [
+      {
+        "equipo": "HIFEM",
+        "menciones": 183
+      },
+      {
+        "equipo": "Emsculpt",
+        "menciones": 13
+      },
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 6
+      },
+      {
+        "equipo": "HIFU",
+        "menciones": 1
+      }
+    ],
+    "ondas-choque": [
+      {
+        "equipo": "HIFU",
+        "menciones": 5
+      },
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 4
+      }
+    ]
+  }
+}
