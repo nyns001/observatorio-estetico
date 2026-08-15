@@ -322,10 +322,10 @@ function renderPanel(id){
       <p class="empty" style="padding:12px 18px">Escala relativa de 0 a 100 dentro de cada pais. No es comparable en valor absoluto entre paises.</p>
     </section>
 
-    <section class="card">
+    ${t.usa_maquinaria === false ? '' : `<section class="card">
       <div class="card-head"><h3>Maquinaria y equipo</h3><span class="eyebrow">openFDA + mineria de abstracts</span></div>
       ${equipos}
-    </section>
+    </section>`}
 
     <section class="card">
       <div class="card-head"><h3>Protocolo clinico</h3><span class="eyebrow">Contenido curado — pendiente de revision medica</span></div>
