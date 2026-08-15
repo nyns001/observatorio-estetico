@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Observatorio de medicina estetica — evidencia, tendencias y equipos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --porcelain:#EDF0EE; --paper:#FFFFFF; --ink:#101614; --muted:#5A6866;
+  --steel:#CBD4D1; --surgical:#0C6B5E; --deep:#06403A; --signal:#B3306B; --amber:#A9670A;
+  --display:'Bricolage Grotesque',system-ui,sans-serif;
+  --body:'IBM Plex Sans',system-ui,sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--porcelain);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:var(--surgical)}
+button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
+:focus-visible{outline:2px solid var(--surgical);outline-offset:2px}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.eyebrow{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+
+/* ---------- cabecera: lectura de instrumento ---------- */
+.masthead{border-bottom:1px solid var(--steel);background:var(--paper)}
+.masthead-in{max-width:1360px;margin:0 auto;padding:22px 24px 0;display:flex;flex-wrap:wrap;gap:24px;align-items:flex-end;justify-content:space-between}
+.wordmark{font-family:var(--display);font-weight:800;font-size:clamp(26px,3.4vw,40px);line-height:1;letter-spacing:-.025em}
+.wordmark span{color:var(--surgical)}
+.tagline{color:var(--muted);font-size:13.5px;margin-top:7px;max-width:46ch}
+.status{display:flex;gap:20px;flex-wrap:wrap;padding-bottom:4px}
+.status-item{min-width:96px}
+.status-item .v{font-family:var(--mono);font-size:13px;font-weight:500;display:flex;align-items:center;gap:6px}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--surgical);flex:none}
+.dot.off{background:var(--amber)}
+.controls{max-width:1360px;margin:0 auto;padding:18px 24px 16px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.seg{display:flex;border:1px solid var(--steel);border-radius:2px;overflow:hidden;background:var(--paper)}
+.seg button{padding:7px 15px;font-size:12.5px;font-weight:500;color:var(--muted);border-right:1px solid var(--steel)}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--deep);color:#fff}
+select,input[type=search]{font:inherit;font-size:13px;padding:7px 11px;border:1px solid var(--steel);border-radius:2px;background:var(--paper);color:var(--ink)}
+input[type=search]{min-width:190px;flex:1;max-width:280px}
+
+/* ---------- rejilla ---------- */
+.grid{max-width:1360px;margin:0 auto;padding:0 24px 80px;display:grid;grid-template-columns:300px 1fr;gap:28px;align-items:start}
+@media(max-width:960px){.grid{grid-template-columns:1fr;gap:20px}}
+
+/* ---------- rail de tratamientos ---------- */
+.rail{position:sticky;top:16px;max-height:calc(100vh - 32px);overflow-y:auto;border:1px solid var(--steel);background:var(--paper)}
+@media(max-width:960px){.rail{position:static;max-height:none}}
+.rail-head{padding:11px 14px;border-bottom:1px solid var(--steel);display:flex;justify-content:space-between;align-items:center}
+.tx{display:block;width:100%;text-align:left;padding:13px 14px;border-bottom:1px solid var(--steel);transition:background .12s}
+.tx:last-child{border-bottom:0}
+.tx:hover{background:var(--porcelain)}
+.tx[aria-current="true"]{background:var(--deep);color:#fff}
+.tx[aria-current="true"] .tx-meta,.tx[aria-current="true"] .eyebrow{color:#9FC4BD}
+.tx-name{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:-.01em;line-height:1.25}
+.tx-meta{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:5px;letter-spacing:.04em}
+/* mini banda de evidencia */
+.spark{display:flex;gap:1.5px;align-items:flex-end;height:16px;margin-top:8px}
+.spark i{flex:1;background:var(--surgical);min-height:1px;opacity:.75}
+.tx[aria-current="true"] .spark i{background:#5FB3A5;opacity:1}
+
+/* ---------- panel ---------- */
+.panel{display:flex;flex-direction:column;gap:22px;min-width:0}
+.card{background:var(--paper);border:1px solid var(--steel)}
+.card-head{padding:13px 18px;border-bottom:1px solid var(--steel);display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.card-body{padding:18px}
+h2.title{font-family:var(--display);font-weight:700;font-size:clamp(24px,3vw,34px);letter-spacing:-.03em;line-height:1.08}
+h3{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:-.01em}
+
+.hero{padding:22px 18px 18px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.chip{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;padding:4px 9px;border:1px solid var(--steel);color:var(--muted)}
+.chip.solid{background:var(--deep);color:#fff;border-color:var(--deep)}
+.readouts{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));border-top:1px solid var(--steel);margin-top:18px}
+.readout{padding:13px 18px;border-right:1px solid var(--steel)}
+.readout:last-child{border-right:0}
+.readout .n{font-family:var(--mono);font-size:21px;font-weight:600;letter-spacing:-.02em;margin-top:3px}
+.up{color:var(--surgical)} .down{color:var(--signal)}
+
+/* ---------- FIRMA: banda de evidencia tipo lectura de instrumento ---------- */
+.band{padding:18px}
+.band-plot{display:flex;align-items:flex-end;gap:3px;height:132px;border-bottom:1.5px solid var(--ink);padding-bottom:0}
+.bar{flex:1;position:relative;background:linear-gradient(180deg,var(--surgical) 0%,var(--deep) 100%);min-height:2px;transition:height .5s cubic-bezier(.2,.7,.3,1)}
+.bar::after{content:attr(data-n);position:absolute;top:-17px;left:50%;transform:translateX(-50%);font-family:var(--mono);font-size:10px;color:var(--muted);opacity:0;transition:opacity .15s}
+.bar:hover::after,.bar:focus::after{opacity:1}
+.bar.faint{background:var(--steel)}
+.band-axis{display:flex;gap:3px;margin-top:7px}
+.band-axis span{flex:1;font-family:var(--mono);font-size:9.5px;color:var(--muted);text-align:center;letter-spacing:-.02em}
+@media(prefers-reduced-motion:reduce){.bar{transition:none}}
+
+/* ---------- papers ---------- */
+.paper-item{padding:14px 18px;border-bottom:1px solid var(--steel)}
+.paper-item:last-child{border-bottom:0}
+.paper-item h4{font-size:14.5px;font-weight:600;line-height:1.4}
+.paper-item h4 a{text-decoration:none;color:var(--ink);border-bottom:1px solid var(--steel)}
+.paper-item h4 a:hover{border-color:var(--surgical);color:var(--surgical)}
+.paper-meta{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:6px;display:flex;gap:12px;flex-wrap:wrap}
+
+/* ---------- listas clinicas ---------- */
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:0}
+.col{padding:18px;border-right:1px solid var(--steel)}
+.col:last-child{border-right:0}
+@media(max-width:700px){.col{border-right:0;border-bottom:1px solid var(--steel)}}
+.col ul{list-style:none;margin-top:11px;display:flex;flex-direction:column;gap:8px}
+.col li{font-size:13.5px;padding-left:15px;position:relative;line-height:1.45}
+.col li::before{content:"";position:absolute;left:0;top:8px;width:7px;height:1.5px;background:var(--surgical)}
+.rel{display:flex;flex-wrap:wrap;gap:7px;margin-top:11px}
+.rel button{font-size:12.5px;padding:6px 11px;border:1px solid var(--steel);border-radius:2px;background:var(--porcelain)}
+.rel button:hover{border-color:var(--surgical);color:var(--surgical)}
+
+/* ---------- equipos ---------- */
+.dev-row{display:flex;justify-content:space-between;gap:14px;padding:11px 18px;border-bottom:1px solid var(--steel);align-items:baseline}
+.dev-row:last-child{border-bottom:0}
+.dev-name{font-size:13.5px;font-weight:500;line-height:1.35}
+.dev-sub{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:3px}
+.dev-tag{font-family:var(--mono);font-size:11px;color:var(--muted);white-space:nowrap;flex:none}
+.meter{height:5px;background:var(--porcelain);margin-top:6px;max-width:170px}
+.meter i{display:block;height:100%;background:var(--surgical)}
+
+/* ---------- trends ---------- */
+.geo{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:0}
+.geo-item{padding:14px 18px;border-right:1px solid var(--steel);border-bottom:1px solid var(--steel)}
+.geo-item .n{font-family:var(--mono);font-size:19px;font-weight:600;margin-top:3px}
+.geo-item .d{font-family:var(--mono);font-size:11px;margin-top:2px}
+
+/* ---------- vacio / error ---------- */
+.empty{padding:26px 18px;text-align:left;color:var(--muted);font-size:13.5px}
+.empty code{font-family:var(--mono);font-size:12px;background:var(--porcelain);padding:2px 6px;border:1px solid var(--steel)}
+.disclaimer{max-width:1360px;margin:0 auto;padding:0 24px 50px;color:var(--muted);font-size:12.5px;line-height:1.65;max-width:78ch}
+.disclaimer strong{color:var(--ink)}
+.skel{background:linear-gradient(90deg,var(--porcelain) 25%,#E3E8E6 50%,var(--porcelain) 75%);background-size:200% 100%;animation:sk 1.2s infinite;height:11px;margin:9px 0;border-radius:1px}
+@keyframes sk{to{background-position:-200% 0}}
+@media(prefers-reduced-motion:reduce){.skel{animation:none}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-in">
+    <div>
+      <div class="wordmark">Observatorio <span>estetico</span></div>
+      <p class="tagline">Evidencia publicada, interes de busqueda y equipos autorizados, tratamiento por tratamiento.</p>
+    </div>
+    <div class="status" id="status">
+      <div class="status-item"><div class="eyebrow">PubMed</div><div class="v"><span class="dot off"></span><span id="st-pubmed">—</span></div></div>
+      <div class="status-item"><div class="eyebrow">Google Trends</div><div class="v"><span class="dot off"></span><span id="st-trends">—</span></div></div>
+      <div class="status-item"><div class="eyebrow">openFDA</div><div class="v"><span class="dot off"></span><span id="st-fda">—</span></div></div>
+    </div>
+  </div>
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Filtrar por categoria">
+      <button data-cat="todos" aria-pressed="true">Todos</button>
+      <button data-cat="facial" aria-pressed="false">Facial</button>
+      <button data-cat="corporal" aria-pressed="false">Corporal</button>
+    </div>
+    <input type="search" id="q" placeholder="Buscar tratamiento o zona" aria-label="Buscar tratamiento o zona">
+    <select id="geo" aria-label="Pais para tendencias de busqueda"></select>
+  </div>
+</header>
+
+<main class="grid">
+  <nav class="rail" aria-label="Tratamientos">
+    <div class="rail-head"><span class="eyebrow">Tratamientos</span><span class="eyebrow mono" id="count">—</span></div>
+    <div id="list"></div>
+  </nav>
+
+  <div class="panel" id="panel"></div>
+</main>
+
+<p class="disclaimer">
+  <strong>Uso profesional.</strong> Este panel agrega literatura indexada en PubMed, interes de busqueda de Google Trends y
+  autorizaciones 510(k) de la FDA. Los tiempos de recuperacion, cuidados y combinaciones son contenido curado orientativo,
+  pendiente de revision por un medico colegiado: no sustituyen la valoracion individual de un paciente ni constituyen
+  indicacion clinica. El registro de la FDA es estadounidense y no refleja disponibilidad ni marcado CE en Europa.
+  Google Trends mide interes relativo de busqueda, no demanda ni volumen de procedimientos.
+</p>
+
+<script>
+const S = { treatments: [], trends: null, gtrends: null, devices: null, mentions: null,
+            cat: 'todos', q: '', geo: 'ES', current: null, cache: {} };
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+async function loadJSON(path){ try { const r = await fetch(path,{cache:'no-store'}); if(!r.ok) return null; return await r.json(); } catch { return null; } }
+
+function stamp(id, data, label){
+  const el = $(id); const dot = el.previousElementSibling;
+  if(!data){ el.textContent = 'sin datos'; return; }
+  dot.classList.remove('off');
+  el.textContent = (data.generado || '').slice(0,10) || label;
+}
+
+async function boot(){
+  const cat = await loadJSON('data/treatments.json');
+  if(!cat){ $('#panel').innerHTML = `<div class="card"><div class="empty">No se pudo cargar <code>data/treatments.json</code>. Comprueba que el fichero existe en el repositorio.</div></div>`; return; }
+  S.treatments = cat.tratamientos;
+
+  [S.trends, S.gtrends, S.devices, S.mentions] = await Promise.all([
+    loadJSON('data/pubmed_trends.json'), loadJSON('data/google_trends.json'),
+    loadJSON('data/devices.json'), loadJSON('data/device_mentions.json')
+  ]);
+  stamp('#st-pubmed', S.trends); stamp('#st-trends', S.gtrends); stamp('#st-fda', S.devices);
+
+  const geo = $('#geo');
+  const paises = (S.gtrends && S.gtrends.paises) || {ES:'Espana'};
+  geo.innerHTML = Object.entries(paises).map(([k,v]) => `<option value="${esc(k)}">${esc(v)}</option>`).join('');
+  S.geo = geo.value;
+
+  document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => {
+    S.cat = b.dataset.cat;
+    document.querySelectorAll('.seg button').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    renderList();
+  }));
+  $('#q').addEventListener('input', e => { S.q = e.target.value.toLowerCase().trim(); renderList(); });
+  geo.addEventListener('change', e => { S.geo = e.target.value; if(S.current) renderPanel(S.current); });
+
+  renderList();
+  select(S.treatments[0].id);
+}
+
+function filtered(){
+  return S.treatments.filter(t => {
+    if(S.cat !== 'todos' && t.categoria !== S.cat) return false;
+    if(!S.q) return true;
+    return (t.nombre + ' ' + t.familia + ' ' + t.zonas.join(' ')).toLowerCase().includes(S.q);
+  });
+}
+
+function renderList(){
+  const items = filtered();
+  $('#count').textContent = String(items.length).padStart(2,'0');
+  $('#list').innerHTML = items.map(t => {
+    const s = S.trends?.series?.[t.id];
+    const max = s ? Math.max(...s.conteos, 1) : 1;
+    const spark = s ? `<div class="spark">${s.conteos.map(n => `<i style="height:${Math.max(6, n/max*100)}%"></i>`).join('')}</div>` : '';
+    return `<button class="tx" data-id="${esc(t.id)}" aria-current="${t.id===S.current}">
+      <div class="tx-name">${esc(t.nombre)}</div>
+      <div class="tx-meta">${esc(t.categoria.toUpperCase())} · ${s ? s.total + ' PUBS' : 'SIN DATOS'}</div>${spark}</button>`;
+  }).join('') || `<div class="empty">Ningun tratamiento coincide con la busqueda.</div>`;
+  document.querySelectorAll('.tx').forEach(b => b.addEventListener('click', () => select(b.dataset.id)));
+}
+
+function select(id){ S.current = id; renderList(); renderPanel(id); }
+
+function renderPanel(id){
+  const t = S.treatments.find(x => x.id === id); if(!t) return;
+  const s = S.trends?.series?.[id];
+  const anos = S.trends?.anos || [];
+  const max = s ? Math.max(...s.conteos, 1) : 1;
+  const delta = s ? s.delta_3a : null;
+
+  const band = s
+    ? `<div class="band-plot">${s.conteos.map((n,i) => `<div class="bar ${i>=s.conteos.length-1?'faint':''}" style="height:${Math.max(2, n/max*100)}%" data-n="${n}" tabindex="0" aria-label="${anos[i]}: ${n} publicaciones"></div>`).join('')}</div>
+       <div class="band-axis">${anos.map(a => `<span>${String(a).slice(2)}</span>`).join('')}</div>
+       <p class="tx-meta" style="margin-top:11px">Publicaciones indexadas por ano. El ultimo tramo aparece atenuado porque el ano en curso esta incompleto.</p>`
+    : `<div class="empty">Sin serie historica todavia. Ejecuta <code>python scripts/update_pubmed.py</code> o lanza el workflow <code>Actualizar datos</code> en GitHub Actions.</div>`;
+
+  const gt = S.gtrends?.interes_por_pais?.[id]?.[S.geo];
+  const geoBlock = S.gtrends
+    ? `<div class="geo">${Object.entries(S.gtrends.paises).map(([code,name]) => {
+        const d = S.gtrends.interes_por_pais?.[id]?.[code];
+        return `<div class="geo-item"><div class="eyebrow">${esc(name)}</div>
+          <div class="n">${d ? d.media_12m : '—'}</div>
+          <div class="d ${d ? (d.delta_anual>=0?'up':'down') : ''}">${d ? (d.delta_anual>=0?'+':'') + d.delta_anual + '% interanual' : 'sin datos'}</div></div>`;
+      }).join('')}</div>`
+    : `<div class="empty">Sin datos de busqueda todavia. Ejecuta <code>python scripts/update_google_trends.py</code>.</div>`;
+
+  const fda = S.devices?.por_tratamiento?.[id] || [];
+  const cited = S.mentions?.por_tratamiento?.[id] || [];
+  const maxCite = Math.max(...cited.map(c => c.menciones), 1);
+
+  const equipos = (fda.length || cited.length)
+    ? `${cited.length ? `<div style="padding:14px 18px 6px"><div class="eyebrow">Citados en la evidencia reciente</div></div>` +
+        cited.map(c => `<div class="dev-row"><div><div class="dev-name">${esc(c.equipo)}</div>
+          <div class="meter"><i style="width:${c.menciones/maxCite*100}%"></i></div></div>
+          <div class="dev-tag">${c.menciones} menciones</div></div>`).join('') : ''}
+       ${fda.length ? `<div style="padding:16px 18px 6px;border-top:1px solid var(--steel)"><div class="eyebrow">Autorizaciones 510(k) recientes — FDA</div></div>` +
+        fda.slice(0,10).map(d => `<div class="dev-row"><div><div class="dev-name">${esc(d.nombre)}</div>
+          <div class="dev-sub">${esc(d.fabricante || 'fabricante no consignado')}</div></div>
+          <div class="dev-tag">${esc(d.ano)} · ${esc(d.k_number)}</div></div>`).join('') : ''}`
+    : `<div class="empty">Sin equipos registrados todavia. Ejecuta <code>python scripts/update_devices.py</code> y <code>update_pubmed.py</code>.</div>`;
+
+  const rel = (t.complementarios || []).map(rid => {
+    const r = S.treatments.find(x => x.id === rid);
+    return r ? `<button data-go="${esc(rid)}">${esc(r.nombre)}</button>` : '';
+  }).join('');
+
+  $('#panel').innerHTML = `
+    <section class="card">
+      <div class="hero">
+        <div class="eyebrow">${esc(t.familia)}</div>
+        <h2 class="title" style="margin-top:8px">${esc(t.nombre)}</h2>
+        <div class="chips"><span class="chip solid">${esc(t.categoria)}</span>${t.zonas.map(z => `<span class="chip">${esc(z)}</span>`).join('')}</div>
+      </div>
+      <div class="readouts">
+        <div class="readout"><div class="eyebrow">Publicaciones</div><div class="n">${s ? s.total : '—'}</div></div>
+        <div class="readout"><div class="eyebrow">Tendencia 3 anos</div><div class="n ${delta===null?'':(delta>=0?'up':'down')}">${delta===null?'—':(delta>=0?'+':'')+delta+'%'}</div></div>
+        <div class="readout"><div class="eyebrow">Baja social</div><div class="n">${esc(t.recuperacion.downtime)}</div></div>
+        <div class="readout"><div class="eyebrow">Duracion</div><div class="n" style="font-size:15px">${esc(t.recuperacion.duracion)}</div></div>
+        <div class="readout"><div class="eyebrow">Busqueda ${esc(S.geo)}</div><div class="n">${gt ? gt.media_12m : '—'}</div></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h3>Banda de evidencia</h3><span class="eyebrow">PubMed · E-utilities</span></div>
+      <div class="band">${band}</div>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h3>Publicaciones recientes</h3><span class="eyebrow" id="live">consultando…</span></div>
+      <div id="papers"><div style="padding:18px"><div class="skel" style="width:80%"></div><div class="skel" style="width:60%"></div><div class="skel" style="width:70%"></div></div></div>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h3>Interes de busqueda</h3><span class="eyebrow">Google Trends · 5 anos</span></div>
+      ${geoBlock}
+      <p class="empty" style="padding:12px 18px">Escala relativa de 0 a 100 dentro de cada pais. No es comparable en valor absoluto entre paises.</p>
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h3>Maquinaria y equipo</h3><span class="eyebrow">openFDA + mineria de abstracts</span></div>
+      ${equipos}
+    </section>
+
+    <section class="card">
+      <div class="card-head"><h3>Protocolo clinico</h3><span class="eyebrow">Contenido curado — pendiente de revision medica</span></div>
+      <div class="cols">
+        <div class="col">
+          <h3>Recuperacion</h3>
+          <ul>
+            <li><strong>Baja social:</strong> ${esc(t.recuperacion.downtime)}</li>
+            <li><strong>Efecto visible:</strong> ${esc(t.recuperacion.efecto_visible)}</li>
+            <li><strong>Duracion:</strong> ${esc(t.recuperacion.duracion)}</li>
+            <li>${esc(t.recuperacion.detalle)}</li>
+          </ul>
+        </div>
+        <div class="col">
+          <h3>Cuidados posteriores</h3>
+          <ul>${t.cuidados.map(c => `<li>${esc(c)}</li>`).join('')}</ul>
+        </div>
+        <div class="col">
+          <h3>Se combina con</h3>
+          <div class="rel">${rel || '<span class="tx-meta">Sin combinaciones registradas.</span>'}</div>
+        </div>
+      </div>
+    </section>`;
+
+  document.querySelectorAll('[data-go]').forEach(b => b.addEventListener('click', () => select(b.dataset.go)));
+  document.querySelectorAll('.bar').forEach((b,i) => b.title = `${anos[i]}: ${s.conteos[i]} publicaciones`);
+  fetchPapers(t);
+}
+
+/* ---- consulta en vivo a PubMed desde el navegador ---- */
+async function fetchPapers(t){
+  const box = $('#papers'), tag = $('#live');
+  if(S.cache[t.id]){ paintPapers(S.cache[t.id], box, tag); return; }
+  const base = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils';
+  try{
+    const sr = await fetch(`${base}/esearch.fcgi?db=pubmed&retmode=json&retmax=8&sort=date&term=${encodeURIComponent(t.pubmed_query)}`);
+    if(!sr.ok) throw new Error('esearch ' + sr.status);
+    const ids = (await sr.json()).esearchresult.idlist;
+    if(!ids.length){ box.innerHTML = `<div class="empty">La consulta no devuelve resultados. Revisa <code>pubmed_query</code> en treatments.json.</div>`; tag.textContent = '0 resultados'; return; }
+    const su = await fetch(`${base}/esummary.fcgi?db=pubmed&retmode=json&id=${ids.join(',')}`);
+    if(!su.ok) throw new Error('esummary ' + su.status);
+    const r = (await su.json()).result;
+    const papers = ids.map(id => r[id]).filter(Boolean);
+    S.cache[t.id] = papers;
+    paintPapers(papers, box, tag);
+  }catch(e){
+    box.innerHTML = `<div class="empty">No se pudo consultar PubMed en este momento (${esc(e.message)}). Vuelve a intentarlo o revisa tu conexion.</div>`;
+    tag.textContent = 'sin conexion';
+  }
+}
+
+function paintPapers(papers, box, tag){
+  tag.textContent = 'en vivo · ' + papers.length + ' articulos';
+  box.innerHTML = papers.map(p => {
+    const autores = (p.authors || []).slice(0,3).map(a => a.name).join(', ') + ((p.authors||[]).length > 3 ? ' et al.' : '');
+    return `<article class="paper-item">
+      <h4><a href="https://pubmed.ncbi.nlm.nih.gov/${esc(p.uid)}/" target="_blank" rel="noopener">${esc(p.title || 'Sin titulo')}</a></h4>
+      <div class="paper-meta"><span>${esc(autores || 'autoria no consignada')}</span><span>${esc(p.source || '')}</span><span>${esc((p.pubdate||'').slice(0,4))}</span><span>PMID ${esc(p.uid)}</span></div>
+    </article>`;
+  }).join('');
+}
+
+boot();
+</script>
+</body>
+</html>
