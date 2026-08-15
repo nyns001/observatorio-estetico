@@ -1,0 +1,43 @@
+name: Actualizar datos
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: PubMed - evidencia y equipos
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+        run: python scripts/update_pubmed.py
+      - name: Radar de tendencias emergentes
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+        run: python scripts/update_radar.py
+      - name: openFDA - dispositivos
+        env:
+          OPENFDA_API_KEY: ${{ secrets.OPENFDA_API_KEY }}
+        run: python scripts/update_devices.py
+      - name: EUDAMED - verificacion certificacion
+        continue-on-error: true
+        run: python scripts/verify_eudamed.py
+      - name: Google Trends
+        continue-on-error: true
+        run: python scripts/update_google_trends.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "datos: actualizacion automatica"
+          git push
