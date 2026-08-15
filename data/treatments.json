@@ -393,7 +393,7 @@
         "Brazos",
         "Rodillas"
       ],
-      "pubmed_query": "(endolift[Title/Abstract] OR endolaser[Title/Abstract] OR (subdermal[Title/Abstract] AND diode laser[Title/Abstract] AND skin laxity[Title/Abstract]))",
+      "pubmed_query": "(endolift[tiab] OR (subdermal[tiab] AND diode laser[tiab] AND (skin[tiab] OR facial[tiab] OR laxity[tiab] OR cellulite[tiab]))) NOT (retina*[tiab] OR macular[tiab] OR vitrectomy[tiab] OR vitreoretinal[tiab] OR ophthalm*[tiab] OR endophthalmitis[tiab] OR photocoagulation[tiab])",
       "trends_kw": "endolift",
       "fda_query": "diode laser subdermal",
       "recuperacion": {
