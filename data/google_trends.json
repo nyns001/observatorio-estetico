@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T16:30:02Z",
+  "generado": "2026-08-15T21:55:00Z",
   "fuente": "Google Trends (cliente no oficial pytrends)",
   "ventana": "today 5-y",
   "paises": {
@@ -37,7 +37,19 @@
       "pais": "ES",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "ES",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     },
     {
@@ -64,7 +76,19 @@
       "pais": "MX",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "MX",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     },
     {
@@ -91,7 +115,19 @@
       "pais": "AR",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "AR",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     },
     {
@@ -118,7 +154,19 @@
       "pais": "CO",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "CO",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     },
     {
@@ -145,7 +193,19 @@
       "pais": "US",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "US",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     },
     {
@@ -172,7 +232,19 @@
       "pais": "BR",
       "terminos": [
         "botox",
-        "ondas de choque celulitis"
+        "ondas de choque celulitis",
+        "endolift",
+        "rinomodelacion",
+        "aumento de labios"
+      ]
+    },
+    {
+      "pais": "BR",
+      "terminos": [
+        "botox",
+        "inductores de colageno",
+        "papada",
+        "lipovaser"
       ]
     }
   ]

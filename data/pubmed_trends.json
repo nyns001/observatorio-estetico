@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T16:28:36Z",
+  "generado": "2026-08-15T21:51:36Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        169
+        170
       ],
-      "total": 1380,
-      "delta_3a": 71.3
+      "total": 1381,
+      "delta_3a": 71.6
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        46
+        47
       ],
-      "total": 400,
-      "delta_3a": 44.7
+      "total": 401,
+      "delta_3a": 45.6
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -204,6 +204,120 @@
       ],
       "total": 3,
       "delta_3a": 0.0
+    },
+    "endolift": {
+      "categoria": "facial",
+      "conteos": [
+        20,
+        22,
+        17,
+        12,
+        16,
+        37,
+        36,
+        39,
+        28,
+        34,
+        48,
+        37
+      ],
+      "total": 346,
+      "delta_3a": 15.5
+    },
+    "rinomodelacion": {
+      "categoria": "facial",
+      "conteos": [
+        5,
+        7,
+        7,
+        13,
+        13,
+        25,
+        19,
+        32,
+        35,
+        43,
+        44,
+        16
+      ],
+      "total": 259,
+      "delta_3a": 19.8
+    },
+    "aumento-labios": {
+      "categoria": "facial",
+      "conteos": [
+        6,
+        6,
+        5,
+        4,
+        10,
+        11,
+        17,
+        11,
+        7,
+        23,
+        21,
+        16
+      ],
+      "total": 137,
+      "delta_3a": 71.4
+    },
+    "inductores-colageno": {
+      "categoria": "facial",
+      "conteos": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        3,
+        1,
+        7,
+        5,
+        7,
+        6
+      ],
+      "total": 36,
+      "delta_3a": 63.6
+    },
+    "liposuccion-papada": {
+      "categoria": "corporal",
+      "conteos": [
+        97,
+        117,
+        112,
+        128,
+        144,
+        146,
+        198,
+        194,
+        193,
+        219,
+        263,
+        184
+      ],
+      "total": 1995,
+      "delta_3a": 13.8
+    },
+    "lipovaser": {
+      "categoria": "corporal",
+      "conteos": [
+        4,
+        7,
+        9,
+        8,
+        5,
+        9,
+        8,
+        16,
+        19,
+        25,
+        27,
+        18
+      ],
+      "total": 155,
+      "delta_3a": 62.8
     }
   }
 }

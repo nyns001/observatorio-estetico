@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T16:29:54Z",
+  "generado": "2026-08-15T21:54:40Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -215,6 +215,78 @@
         "ano": "2003",
         "pais": "US"
       }
-    ]
+    ],
+    "endolift": [],
+    "rinomodelacion": [
+      {
+        "nombre": "Hyaluronic Acid Vaginal Suppository (HA 5 mg); Hyaluronic Acid Vaginal Suppository (HA 10 mg)",
+        "fabricante": "Hudi Pharma Srl",
+        "k_number": "K260007",
+        "fecha_decision": "2026-04-01",
+        "ano": "2026",
+        "pais": "IT"
+      },
+      {
+        "nombre": "Nitrile Powder-Free Exam Gloves with Hyaluronic Acid, and tested for Use with Chemotherapy Drugs, Opioid Fentanyl Citrate, Simulated Gastric Acid and Xylazine in Fentanyl Citrate",
+        "fabricante": "Basic Medical Technology, Inc.",
+        "k_number": "K250630",
+        "fecha_decision": "2025-05-22",
+        "ano": "2025",
+        "pais": "US"
+      },
+      {
+        "nombre": "Nitrile Patient Examination Gloves with Hyaluronic Acid Blue Colored and Tested for Use with Chemotherapy Drugs and Fentanyl Citrate, aka Synguard C+ Nitrile Exam Gloves",
+        "fabricante": "Anhui Intco Medical Products Co., Ltd.",
+        "k_number": "K231365",
+        "fecha_decision": "2024-03-01",
+        "ano": "2024",
+        "pais": "CN"
+      },
+      {
+        "nombre": "HYALURONIC ACID TOPICAL WOUND CREAM",
+        "fabricante": "Virchow Biotech Pvt, Ltd.",
+        "k_number": "K172747",
+        "fecha_decision": "2018-04-27",
+        "ano": "2018",
+        "pais": "US"
+      }
+    ],
+    "aumento-labios": [
+      {
+        "nombre": "Hyaluronic Acid Vaginal Suppository (HA 5 mg); Hyaluronic Acid Vaginal Suppository (HA 10 mg)",
+        "fabricante": "Hudi Pharma Srl",
+        "k_number": "K260007",
+        "fecha_decision": "2026-04-01",
+        "ano": "2026",
+        "pais": "IT"
+      },
+      {
+        "nombre": "Nitrile Powder-Free Exam Gloves with Hyaluronic Acid, and tested for Use with Chemotherapy Drugs, Opioid Fentanyl Citrate, Simulated Gastric Acid and Xylazine in Fentanyl Citrate",
+        "fabricante": "Basic Medical Technology, Inc.",
+        "k_number": "K250630",
+        "fecha_decision": "2025-05-22",
+        "ano": "2025",
+        "pais": "US"
+      },
+      {
+        "nombre": "Nitrile Patient Examination Gloves with Hyaluronic Acid Blue Colored and Tested for Use with Chemotherapy Drugs and Fentanyl Citrate, aka Synguard C+ Nitrile Exam Gloves",
+        "fabricante": "Anhui Intco Medical Products Co., Ltd.",
+        "k_number": "K231365",
+        "fecha_decision": "2024-03-01",
+        "ano": "2024",
+        "pais": "CN"
+      },
+      {
+        "nombre": "HYALURONIC ACID TOPICAL WOUND CREAM",
+        "fabricante": "Virchow Biotech Pvt, Ltd.",
+        "k_number": "K172747",
+        "fecha_decision": "2018-04-27",
+        "ano": "2018",
+        "pais": "US"
+      }
+    ],
+    "inductores-colageno": [],
+    "liposuccion-papada": [],
+    "lipovaser": []
   }
 }

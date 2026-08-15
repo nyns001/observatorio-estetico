@@ -1,0 +1,583 @@
+{
+  "generado": "2026-08-15T21:54:50Z",
+  "fuente": "EUDAMED - buscador publico (endpoint no oficial)",
+  "aviso": "VERIFICACION PARCIAL. EUDAMED aun se despliega por fases; la ausencia de un dispositivo NO significa que no este certificado. Confirmar siempre con la Declaracion de Conformidad y el certificado del Organismo Notificado del fabricante.",
+  "por_termino": {
+    "Eufoton": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    },
+    "Vaser": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    },
+    "Sculptra": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    },
+    "Radiesse": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    },
+    "Profhilo": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    },
+    "Ellanse": {
+      "encontrados": 10,
+      "dispositivos": [
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-2135NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-265-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Flexicare Medical Limited",
+          "representante_ue": "Flexicare EU Ops Ltd",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "040-08-0140NS",
+          "srn_fabricante": "GB-MF-000034163"
+        },
+        {
+          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-263-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "KD-FIX SOLO",
+          "fabricante": "KD Medical GmbH Hospital Products",
+          "representante_ue": "",
+          "clase_riesgo": "Clase IIA",
+          "estado": "on-the-market",
+          "referencia": "777428M",
+          "srn_fabricante": "DE-MF-000006773"
+        },
+        {
+          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-262-019R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-204-005R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-189-020R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-179-008R",
+          "srn_fabricante": "PK-MF-000010180"
+        },
+        {
+          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
+          "fabricante": "Weldon Instruments",
+          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "clase_riesgo": "Clase I",
+          "estado": "on-the-market",
+          "referencia": "WI-089-034R",
+          "srn_fabricante": "PK-MF-000010180"
+        }
+      ],
+      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+    }
+  }
+}
