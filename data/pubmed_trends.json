@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T21:51:36Z",
+  "generado": "2026-08-15T22:26:59Z",
   "anos": [
     2015,
     2016,
@@ -208,21 +208,21 @@
     "endolift": {
       "categoria": "facial",
       "conteos": [
-        20,
-        22,
-        17,
-        12,
-        16,
-        37,
-        36,
-        39,
-        28,
-        34,
-        48,
-        37
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        3,
+        6,
+        6,
+        3
       ],
-      "total": 346,
-      "delta_3a": 15.5
+      "total": 25,
+      "delta_3a": 66.7
     },
     "rinomodelacion": {
       "categoria": "facial",

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T21:51:36Z",
+  "generado": "2026-08-15T22:26:59Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -369,30 +369,30 @@
     "endolift": [
       {
         "equipo": "Eufoton / Endolift",
-        "menciones": 50
+        "menciones": 100
       },
       {
         "equipo": "Diodo 808 nm",
-        "menciones": 13
+        "menciones": 24
       },
       {
         "equipo": "Laser 1470 nm",
-        "menciones": 7
+        "menciones": 9
       },
       {
-        "equipo": "PRP",
-        "menciones": 6
-      },
-      {
-        "equipo": "Fibra optica laser",
+        "equipo": "Laser 1064 nm",
         "menciones": 5
       },
       {
-        "equipo": "Nd:YAG 1064 nm",
-        "menciones": 3
+        "equipo": "Laser CO2 fraccionado",
+        "menciones": 1
       },
       {
-        "equipo": "Laser CO2 fraccionado",
+        "equipo": "Criolipolisis",
+        "menciones": 1
+      },
+      {
+        "equipo": "Fibra optica laser",
         "menciones": 1
       }
     ],
