@@ -1,0 +1,592 @@
+{
+  "_meta": {
+    "version": "0.2.0",
+    "revisado_por": null,
+    "fecha_revision": null,
+    "nota": "Contenido clinico curado. Debe ser revisado y firmado por un medico colegiado antes de publicarse. Los campos recuperacion, cuidados y complementarios son orientativos y varian por paciente, tecnica y producto."
+  },
+  "tratamientos": [
+    {
+      "id": "toxina-botulinica",
+      "nombre": "Toxina botulinica tipo A",
+      "categoria": "facial",
+      "familia": "Neuromodulador inyectable",
+      "zonas": [
+        "Tercio superior facial",
+        "Entrecejo",
+        "Patas de gallo",
+        "Frente",
+        "Masetero",
+        "Cuello"
+      ],
+      "pubmed_query": "(botulinum toxin[Title/Abstract]) AND (aesthetic[Title/Abstract] OR cosmetic[Title/Abstract] OR wrinkle*[Title/Abstract])",
+      "trends_kw": "botox",
+      "fda_query": "botulinum",
+      "recuperacion": {
+        "downtime": "0-1 dias",
+        "efecto_visible": "3-7 dias, pico a las 2 semanas",
+        "duracion": "3-4 meses",
+        "detalle": "Sin baja social real. Puede aparecer eritema o pequenos hematomas en los puntos de puncion que ceden en 24-48 h."
+      },
+      "cuidados": [
+        "No manipular ni masajear la zona tratada durante 24 h",
+        "Mantener posicion erguida las primeras 4 h",
+        "Evitar ejercicio intenso, sauna y calor local 24-48 h",
+        "Evitar alcohol y antiinflamatorios no esteroideos si no son necesarios",
+        "Consultar ante asimetria o ptosis palpebral progresiva"
+      ],
+      "complementarios": [
+        "acido-hialuronico",
+        "bioestimuladores",
+        "laser-co2-fraccionado"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "acido-hialuronico",
+      "nombre": "Rellenos de acido hialuronico",
+      "categoria": "facial",
+      "familia": "Relleno dermico inyectable",
+      "zonas": [
+        "Labios",
+        "Surco nasogeniano",
+        "Pomulos",
+        "Menton",
+        "Ojeras",
+        "Angulo mandibular",
+        "Nariz"
+      ],
+      "pubmed_query": "(hyaluronic acid filler[Title/Abstract]) AND (facial[Title/Abstract] OR aesthetic[Title/Abstract])",
+      "trends_kw": "acido hialuronico",
+      "fda_query": "hyaluronic",
+      "recuperacion": {
+        "downtime": "1-3 dias",
+        "efecto_visible": "Inmediato, definitivo a los 14 dias",
+        "duracion": "6-18 meses segun producto y zona",
+        "detalle": "Edema y posibles hematomas, mas marcados en labios y ojeras. La zona periocular es la de recuperacion mas lenta."
+      },
+      "cuidados": [
+        "Frio local intermitente las primeras 24 h",
+        "No exponerse a calor extremo ni sauna 1 semana",
+        "Evitar ejercicio intenso 48 h",
+        "No realizar tratamientos con energia sobre la zona durante 2 semanas",
+        "Alarma clinica: dolor desproporcionado, palidez o livedo requieren atencion inmediata por riesgo vascular"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "bioestimuladores",
+        "hilos-pdo"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "hilos-pdo",
+      "nombre": "Hilos tensores de polidioxanona",
+      "categoria": "facial",
+      "familia": "Suspension mecanica reabsorbible",
+      "zonas": [
+        "Tercio medio facial",
+        "Angulo mandibular",
+        "Cuello",
+        "Cejas",
+        "Brazos",
+        "Abdomen"
+      ],
+      "pubmed_query": "(thread lift[Title/Abstract] OR polydioxanone thread[Title/Abstract]) AND (face[Title/Abstract] OR aesthetic[Title/Abstract])",
+      "trends_kw": "hilos tensores",
+      "fda_query": "suture thread lift",
+      "recuperacion": {
+        "downtime": "5-10 dias",
+        "efecto_visible": "Inmediato con mejora progresiva a 4-8 semanas",
+        "duracion": "9-18 meses",
+        "detalle": "Edema, hematoma y sensacion de tirantez. Pueden palparse irregularidades transitorias durante las primeras semanas."
+      },
+      "cuidados": [
+        "Dormir boca arriba y ligeramente incorporado 5-7 dias",
+        "Dieta blanda y evitar apertura bucal amplia 1-2 semanas",
+        "No masajear ni realizar tratamientos manuales faciales 3-4 semanas",
+        "Evitar ejercicio intenso 2 semanas",
+        "Profilaxis antibiotica segun criterio medico"
+      ],
+      "complementarios": [
+        "acido-hialuronico",
+        "bioestimuladores",
+        "hifu"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "hifu",
+      "nombre": "Ultrasonido microenfocado (HIFU)",
+      "categoria": "facial",
+      "familia": "Energia - ultrasonidos",
+      "zonas": [
+        "Tercio inferior facial",
+        "Cuello",
+        "Submenton",
+        "Escote",
+        "Abdomen",
+        "Brazos"
+      ],
+      "pubmed_query": "(microfocused ultrasound[Title/Abstract] OR high-intensity focused ultrasound[Title/Abstract]) AND (skin[Title/Abstract] OR facial[Title/Abstract] OR aesthetic[Title/Abstract])",
+      "trends_kw": "hifu",
+      "fda_query": "focused ultrasound",
+      "recuperacion": {
+        "downtime": "0-2 dias",
+        "efecto_visible": "Progresivo, maximo a los 3-6 meses",
+        "duracion": "12-18 meses",
+        "detalle": "Eritema y edema leves. Puede persistir sensibilidad o molestia muscular en la zona tratada varios dias."
+      },
+      "cuidados": [
+        "Hidratacion y fotoproteccion diaria estricta",
+        "Evitar calor local intenso 48 h",
+        "Analgesia simple si hay molestia muscular",
+        "Consultar ante alteracion de la sensibilidad persistente"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "bioestimuladores",
+        "radiofrecuencia-microneedling"
+      ],
+      "dispositivos_seed": [
+        "Ultherapy",
+        "Ulfit",
+        "Sofwave"
+      ]
+    },
+    {
+      "id": "radiofrecuencia-microneedling",
+      "nombre": "Radiofrecuencia fraccionada con microagujas",
+      "categoria": "facial",
+      "familia": "Energia - radiofrecuencia",
+      "zonas": [
+        "Rostro completo",
+        "Cuello",
+        "Cicatrices de acne",
+        "Abdomen",
+        "Muslos",
+        "Axilas"
+      ],
+      "pubmed_query": "(microneedling radiofrequency[Title/Abstract] OR fractional radiofrequency[Title/Abstract]) AND (skin[Title/Abstract] OR acne scar*[Title/Abstract])",
+      "trends_kw": "radiofrecuencia facial",
+      "fda_query": "radiofrequency microneedle",
+      "recuperacion": {
+        "downtime": "2-5 dias",
+        "efecto_visible": "4-12 semanas, acumulativo entre sesiones",
+        "duracion": "12-24 meses con mantenimiento",
+        "detalle": "Eritema, edema y patron reticular de puntos que desaparece en dias. Descamacion leve posterior."
+      },
+      "cuidados": [
+        "Limpieza suave y emolientes sin activos 3-5 dias",
+        "Fotoproteccion SPF50 estricta 4 semanas",
+        "Suspender retinoides y acidos 5-7 dias",
+        "No maquillar las primeras 24 h",
+        "Evitar piscina, sauna y ejercicio intenso 48-72 h"
+      ],
+      "complementarios": [
+        "bioestimuladores",
+        "toxina-botulinica",
+        "laser-co2-fraccionado"
+      ],
+      "dispositivos_seed": [
+        "Morpheus8",
+        "Secret RF",
+        "Genius",
+        "Potenza"
+      ]
+    },
+    {
+      "id": "laser-co2-fraccionado",
+      "nombre": "Laser CO2 fraccionado",
+      "categoria": "facial",
+      "familia": "Energia - laser ablativo 10.600 nm",
+      "zonas": [
+        "Rostro completo",
+        "Perioral",
+        "Periocular",
+        "Cuello",
+        "Manos",
+        "Cicatrices"
+      ],
+      "pubmed_query": "(fractional carbon dioxide laser[Title/Abstract] OR fractional CO2 laser[Title/Abstract]) AND (skin resurfacing[Title/Abstract] OR rejuvenation[Title/Abstract] OR scar*[Title/Abstract])",
+      "trends_kw": "laser co2",
+      "fda_query": "carbon dioxide laser",
+      "recuperacion": {
+        "downtime": "7-14 dias",
+        "efecto_visible": "1-3 meses, remodelacion hasta 6 meses",
+        "duracion": "2-5 anos segun intensidad",
+        "detalle": "Es el tratamiento de mayor baja social del grupo. Eritema intenso, edema, exudado y descamacion. Eritema residual posible durante semanas."
+      },
+      "cuidados": [
+        "Curas con emoliente oclusivo segun pauta medica hasta reepitelizacion",
+        "Fotoproteccion SPF50 estricta minimo 3 meses",
+        "Profilaxis antiviral en pacientes con antecedente de herpes",
+        "No arrancar costras ni usar activos hasta el alta",
+        "Vigilar signos de infeccion o hiperpigmentacion postinflamatoria"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "bioestimuladores",
+        "acido-hialuronico"
+      ],
+      "dispositivos_seed": [
+        "Fraxel",
+        "UltraPulse",
+        "SmartXide"
+      ]
+    },
+    {
+      "id": "bioestimuladores",
+      "nombre": "Bioestimuladores de colageno (PLLA / CaHA)",
+      "categoria": "facial",
+      "familia": "Inductor de colageno inyectable",
+      "zonas": [
+        "Tercio medio facial",
+        "Cuello",
+        "Escote",
+        "Gluteos",
+        "Brazos",
+        "Abdomen"
+      ],
+      "pubmed_query": "(poly-L-lactic acid[Title/Abstract] OR calcium hydroxylapatite[Title/Abstract]) AND (collagen[Title/Abstract] OR aesthetic[Title/Abstract] OR skin[Title/Abstract])",
+      "trends_kw": "bioestimulador colageno",
+      "fda_query": "poly-L-lactic acid",
+      "recuperacion": {
+        "downtime": "1-3 dias",
+        "efecto_visible": "6-12 semanas, progresivo",
+        "duracion": "18-24 meses",
+        "detalle": "Edema y hematoma leves. Riesgo de nodulos tardios que se reduce con tecnica y protocolo de masaje adecuados."
+      },
+      "cuidados": [
+        "Masaje de la zona segun protocolo del producto los primeros dias",
+        "Evitar calor intenso y ejercicio 24-48 h",
+        "Hidratacion oral adecuada",
+        "Consultar ante nodulos palpables o irregularidades persistentes"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "hifu",
+        "radiofrecuencia-microneedling"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "criolipolisis",
+      "nombre": "Criolipolisis",
+      "categoria": "corporal",
+      "familia": "Energia - enfriamiento controlado",
+      "zonas": [
+        "Abdomen",
+        "Flancos",
+        "Muslos",
+        "Submenton",
+        "Brazos",
+        "Espalda"
+      ],
+      "pubmed_query": "(cryolipolysis[Title/Abstract]) AND (fat[Title/Abstract] OR body contouring[Title/Abstract])",
+      "trends_kw": "criolipolisis",
+      "fda_query": "cryolipolysis",
+      "recuperacion": {
+        "downtime": "0-2 dias",
+        "efecto_visible": "8-12 semanas",
+        "duracion": "Prolongada si se mantiene peso estable",
+        "detalle": "Eritema, edema, entumecimiento y sensibilidad transitorios. La alteracion de sensibilidad puede durar varias semanas."
+      },
+      "cuidados": [
+        "Masaje de la zona tras la sesion segun protocolo",
+        "Hidratacion y actividad fisica regular",
+        "Evitar aplicar calor intenso las primeras 24 h",
+        "Vigilar el raro caso de hiperplasia adiposa paradojica y consultar si la zona aumenta de volumen"
+      ],
+      "complementarios": [
+        "radiofrecuencia-microneedling",
+        "ondas-choque",
+        "emsculpt"
+      ],
+      "dispositivos_seed": [
+        "CoolSculpting",
+        "Clatuu",
+        "Cooltech"
+      ]
+    },
+    {
+      "id": "emsculpt",
+      "nombre": "Estimulacion electromagnetica muscular de alta intensidad",
+      "categoria": "corporal",
+      "familia": "Energia - campo electromagnetico",
+      "zonas": [
+        "Abdomen",
+        "Gluteos",
+        "Brazos",
+        "Muslos",
+        "Pantorrillas",
+        "Suelo pelvico"
+      ],
+      "pubmed_query": "(high-intensity focused electromagnetic[Title/Abstract] OR HIFEM[Title/Abstract]) AND (muscle[Title/Abstract] OR body contouring[Title/Abstract])",
+      "trends_kw": "emsculpt",
+      "fda_query": "electromagnetic muscle stimulation",
+      "recuperacion": {
+        "downtime": "0 dias",
+        "efecto_visible": "4-8 semanas tras completar el protocolo",
+        "duracion": "6 meses con mantenimiento",
+        "detalle": "Sin baja. Puede aparecer agujetas intensas en las 48 h siguientes."
+      },
+      "cuidados": [
+        "Hidratacion y aporte proteico adecuado",
+        "Mantener actividad fisica entre sesiones",
+        "Evitar el tratamiento si hay implantes metalicos o dispositivos electronicos en la zona"
+      ],
+      "complementarios": [
+        "criolipolisis",
+        "radiofrecuencia-microneedling"
+      ],
+      "dispositivos_seed": [
+        "Emsculpt",
+        "Emsculpt Neo"
+      ]
+    },
+    {
+      "id": "ondas-choque",
+      "nombre": "Ondas de choque para celulitis",
+      "categoria": "corporal",
+      "familia": "Energia - acustica",
+      "zonas": [
+        "Muslos",
+        "Gluteos",
+        "Abdomen",
+        "Brazos"
+      ],
+      "pubmed_query": "(extracorporeal shockwave therapy[Title/Abstract]) AND (cellulite[Title/Abstract] OR skin laxity[Title/Abstract])",
+      "trends_kw": "ondas de choque celulitis",
+      "fda_query": "shock wave",
+      "recuperacion": {
+        "downtime": "0 dias",
+        "efecto_visible": "6-12 semanas, requiere protocolo de varias sesiones",
+        "duracion": "6-12 meses con mantenimiento",
+        "detalle": "Eritema y molestia durante la sesion. Ocasionalmente petequias."
+      },
+      "cuidados": [
+        "Hidratacion oral abundante",
+        "Actividad fisica regular entre sesiones",
+        "Evitar antiinflamatorios que interfieran con la respuesta inflamatoria buscada, salvo indicacion medica"
+      ],
+      "complementarios": [
+        "criolipolisis",
+        "emsculpt",
+        "radiofrecuencia-microneedling"
+      ],
+      "dispositivos_seed": [
+        "Cellactor",
+        "Z Wave"
+      ]
+    },
+    {
+      "id": "endolift",
+      "nombre": "Endolift (laser endodermico)",
+      "categoria": "facial",
+      "familia": "Energia - laser diodo endodermico (fibra optica)",
+      "zonas": [
+        "Tercio inferior facial",
+        "Submenton",
+        "Papada",
+        "Cuello",
+        "Brazos",
+        "Rodillas"
+      ],
+      "pubmed_query": "(endolift[Title/Abstract] OR endolaser[Title/Abstract] OR (subdermal[Title/Abstract] AND diode laser[Title/Abstract] AND skin laxity[Title/Abstract]))",
+      "trends_kw": "endolift",
+      "fda_query": "diode laser subdermal",
+      "recuperacion": {
+        "downtime": "1-3 dias",
+        "efecto_visible": "Progresivo, maximo a los 3-6 meses",
+        "duracion": "12-24 meses",
+        "detalle": "Minimamente invasivo con fibra optica bajo la piel. Edema y hematomas leves. Sin cicatrices visibles al usar microfibra."
+      },
+      "cuidados": [
+        "Fotoproteccion estricta las primeras semanas",
+        "Evitar calor local intenso 48-72 h",
+        "Prenda compresiva si se indica en cuello o papada",
+        "Consultar ante induracion o alteracion de sensibilidad persistente"
+      ],
+      "complementarios": [
+        "hifu",
+        "hilos-pdo",
+        "bioestimuladores"
+      ],
+      "dispositivos_seed": [
+        "Eufoton",
+        "Endolift"
+      ]
+    },
+    {
+      "id": "rinomodelacion",
+      "nombre": "Rinomodelacion con acido hialuronico",
+      "categoria": "facial",
+      "familia": "Relleno dermico inyectable (nariz)",
+      "zonas": [
+        "Dorso nasal",
+        "Punta nasal",
+        "Angulo nasolabial",
+        "Surco supratip"
+      ],
+      "pubmed_query": "(non-surgical rhinoplasty[Title/Abstract] OR liquid rhinoplasty[Title/Abstract] OR (hyaluronic acid[Title/Abstract] AND nose[Title/Abstract]))",
+      "trends_kw": "rinomodelacion",
+      "fda_query": "hyaluronic",
+      "recuperacion": {
+        "downtime": "0-1 dias",
+        "efecto_visible": "Inmediato",
+        "duracion": "9-15 meses",
+        "detalle": "Zona de alto riesgo vascular. El dorso y la punta son las areas mas delicadas por proximidad a arterias que irrigan piel y retina."
+      },
+      "cuidados": [
+        "No presionar ni frotar la nariz 1 semana",
+        "Evitar gafas que apoyen sobre la zona tratada varios dias",
+        "Frio local suave las primeras horas",
+        "URGENCIA: dolor intenso, palidez, vision borrosa o manchas cutaneas requieren atencion inmediata por riesgo de oclusion vascular"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "acido-hialuronico"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "aumento-labios",
+      "nombre": "Aumento de labios con acido hialuronico",
+      "categoria": "facial",
+      "familia": "Relleno dermico inyectable (labios)",
+      "zonas": [
+        "Labio superior",
+        "Labio inferior",
+        "Borde bermellon",
+        "Comisuras",
+        "Filtrum"
+      ],
+      "pubmed_query": "(lip augmentation[Title/Abstract] AND (hyaluronic acid[Title/Abstract] OR filler[Title/Abstract]))",
+      "trends_kw": "aumento de labios",
+      "fda_query": "hyaluronic",
+      "recuperacion": {
+        "downtime": "2-4 dias",
+        "efecto_visible": "Inmediato, definitivo a los 14 dias",
+        "duracion": "6-12 meses",
+        "detalle": "Edema marcado las primeras 48-72 h, frecuente sensacion de bultos que se asientan con el masaje y el tiempo. Hematomas comunes."
+      },
+      "cuidados": [
+        "Frio local intermitente las primeras 24-48 h",
+        "Evitar calor, ejercicio y alcohol 48 h",
+        "Hidratacion labial suave",
+        "Consultar ante palidez, dolor desproporcionado o zonas duras persistentes"
+      ],
+      "complementarios": [
+        "toxina-botulinica",
+        "acido-hialuronico"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "inductores-colageno",
+      "nombre": "Inductores de colageno inyectables",
+      "categoria": "facial",
+      "familia": "Bioestimulacion - PLLA / CaHA / PCL",
+      "zonas": [
+        "Tercio medio facial",
+        "Cuello",
+        "Escote",
+        "Gluteos",
+        "Abdomen",
+        "Brazos"
+      ],
+      "pubmed_query": "(collagen stimulator[Title/Abstract] OR (poly-L-lactic acid[Title/Abstract] OR polycaprolactone[Title/Abstract] OR calcium hydroxylapatite[Title/Abstract]) AND biostimulation[Title/Abstract])",
+      "trends_kw": "inductores de colageno",
+      "fda_query": "poly-L-lactic acid",
+      "recuperacion": {
+        "downtime": "1-3 dias",
+        "efecto_visible": "6-12 semanas, progresivo",
+        "duracion": "18-24 meses",
+        "detalle": "Edema y hematoma leves. Riesgo de nodulos tardios que se minimiza con dilucion, tecnica y masaje adecuados."
+      },
+      "cuidados": [
+        "Masaje segun protocolo del producto los primeros dias",
+        "Evitar calor intenso y ejercicio 24-48 h",
+        "Hidratacion oral adecuada",
+        "Consultar ante nodulos palpables persistentes"
+      ],
+      "complementarios": [
+        "hifu",
+        "radiofrecuencia-microneedling",
+        "toxina-botulinica"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "liposuccion-papada",
+      "nombre": "Liposuccion / reduccion de papada",
+      "categoria": "corporal",
+      "familia": "Reduccion de grasa submentoniana",
+      "zonas": [
+        "Submenton",
+        "Papada",
+        "Angulo cervicomandibular"
+      ],
+      "pubmed_query": "(submental fat[Title/Abstract] OR double chin[Title/Abstract] OR submental liposuction[Title/Abstract] OR deoxycholic acid[Title/Abstract])",
+      "trends_kw": "papada",
+      "fda_query": "submental",
+      "recuperacion": {
+        "downtime": "3-7 dias",
+        "efecto_visible": "4-12 semanas",
+        "duracion": "Prolongada si se mantiene peso estable",
+        "detalle": "Segun tecnica (quirurgica, inyectable o energia). Edema, hematoma y prenda compresiva habituales en la variante aspirativa."
+      },
+      "cuidados": [
+        "Prenda compresiva segun pauta",
+        "Frio local y elevacion de la cabeza los primeros dias",
+        "Dieta blanda si hay molestia al tragar",
+        "Consultar ante asimetria, dolor creciente o signos de infeccion"
+      ],
+      "complementarios": [
+        "hifu",
+        "endolift",
+        "criolipolisis"
+      ],
+      "dispositivos_seed": []
+    },
+    {
+      "id": "lipovaser",
+      "nombre": "Lipoescultura ultrasonica (Vaser)",
+      "categoria": "corporal",
+      "familia": "Energia - liposuccion asistida por ultrasonidos",
+      "zonas": [
+        "Abdomen",
+        "Flancos",
+        "Espalda",
+        "Brazos",
+        "Muslos",
+        "Pectoral"
+      ],
+      "pubmed_query": "(vaser[Title/Abstract] OR ultrasound-assisted liposuction[Title/Abstract] OR ultrasonic liposuction[Title/Abstract])",
+      "trends_kw": "lipovaser",
+      "fda_query": "ultrasonic liposuction",
+      "recuperacion": {
+        "downtime": "7-14 dias",
+        "efecto_visible": "6-12 semanas, definitivo a los 6 meses",
+        "duracion": "Prolongada si se mantiene peso estable",
+        "detalle": "Procedimiento quirurgico. Edema, hematomas y prenda compresiva varias semanas. Recuperacion mas exigente del grupo corporal."
+      },
+      "cuidados": [
+        "Prenda compresiva continua segun pauta (semanas)",
+        "Drenaje linfatico manual si se indica",
+        "Reposo relativo y evitar esfuerzos 2-3 semanas",
+        "Vigilar signos de seroma, infeccion o irregularidades del contorno"
+      ],
+      "complementarios": [
+        "criolipolisis",
+        "emsculpt",
+        "radiofrecuencia-microneedling"
+      ],
+      "dispositivos_seed": [
+        "Vaser",
+        "Vaser Lipo"
+      ]
+    }
+  ]
+}
