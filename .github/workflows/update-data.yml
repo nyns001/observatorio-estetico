@@ -39,6 +39,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git diff --staged --quiet || git commit -m "datos: actualizacion automatica"
-          git pull --rebase --autostash origin main
-          git push
+          git diff --staged --quiet && echo "sin cambios" && exit 0
+          git commit -m "datos: actualizacion automatica"
+          for i in 1 2 3 4 5; do
+            git pull --no-rebase -X ours origin main --no-edit && git push && break
+            echo "reintento $i"
+            sleep 5
+          done
