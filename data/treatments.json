@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "revisado_por": null,
     "fecha_revision": null,
     "nota": "Contenido clinico curado. Debe ser revisado y firmado por un medico colegiado antes de publicarse. Los campos recuperacion, cuidados y complementarios son orientativos y varian por paciente, tecnica y producto."
@@ -40,7 +40,8 @@
         "bioestimuladores",
         "laser-co2-fraccionado"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "acido-hialuronico",
@@ -77,7 +78,8 @@
         "bioestimuladores",
         "hilos-pdo"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "hilos-pdo",
@@ -113,7 +115,8 @@
         "bioestimuladores",
         "hifu"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "hifu",
@@ -152,7 +155,8 @@
         "Ultherapy",
         "Ulfit",
         "Sofwave"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "radiofrecuencia-microneedling",
@@ -193,7 +197,8 @@
         "Secret RF",
         "Genius",
         "Potenza"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "laser-co2-fraccionado",
@@ -233,7 +238,8 @@
         "Fraxel",
         "UltraPulse",
         "SmartXide"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "bioestimuladores",
@@ -268,7 +274,8 @@
         "hifu",
         "radiofrecuencia-microneedling"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "criolipolisis",
@@ -307,7 +314,8 @@
         "CoolSculpting",
         "Clatuu",
         "Cooltech"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "emsculpt",
@@ -343,7 +351,8 @@
       "dispositivos_seed": [
         "Emsculpt",
         "Emsculpt Neo"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "ondas-choque",
@@ -378,7 +387,8 @@
       "dispositivos_seed": [
         "Cellactor",
         "Z Wave"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "endolift",
@@ -416,7 +426,8 @@
       "dispositivos_seed": [
         "Eufoton",
         "Endolift"
-      ]
+      ],
+      "usa_maquinaria": true
     },
     {
       "id": "rinomodelacion",
@@ -448,7 +459,8 @@
         "toxina-botulinica",
         "acido-hialuronico"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "aumento-labios",
@@ -481,7 +493,8 @@
         "toxina-botulinica",
         "acido-hialuronico"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "inductores-colageno",
@@ -516,7 +529,8 @@
         "radiofrecuencia-microneedling",
         "toxina-botulinica"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": false
     },
     {
       "id": "liposuccion-papada",
@@ -548,7 +562,8 @@
         "endolift",
         "criolipolisis"
       ],
-      "dispositivos_seed": []
+      "dispositivos_seed": [],
+      "usa_maquinaria": true
     },
     {
       "id": "lipovaser",
@@ -586,7 +601,8 @@
       "dispositivos_seed": [
         "Vaser",
         "Vaser Lipo"
-      ]
+      ],
+      "usa_maquinaria": true
     }
   ]
 }
