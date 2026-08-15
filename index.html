@@ -197,13 +197,16 @@ function stamp(id, data, label){
 
 async function boot(){
   const cat = await loadJSON('data/treatments.json');
-  if(!cat){ $('#panel').innerHTML = `<div class="card"><div class="empty">No se pudo cargar <code>data/treatments.json</code>. Comprueba que el fichero existe en el repositorio.</div></div>`; return; }
-  S.treatments = cat.tratamientos;
-
-  [S.trends, S.gtrends, S.devices, S.mentions] = await Promise.all([
-    loadJSON('data/pubmed_trends.json'), loadJSON('data/google_trends.json'),
-    loadJSON('data/devices.json'), loadJSON('data/device_mentions.json')
-  ]);
+console.log('treatments:', cat);
+// ...
+[S.trends, S.gtrends, S.devices, S.mentions] = await Promise.all([
+  loadJSON('data/pubmed_trends.json'), loadJSON('data/google_trends.json'),
+  loadJSON('data/devices.json'), loadJSON('data/device_mentions.json')
+]);
+console.log('trends:', S.trends);
+console.log('gtrends:', S.gtrends); 
+console.log('devices:', S.devices);
+console.log('mentions:', S.mentions);
   stamp('#st-pubmed', S.trends); stamp('#st-trends', S.gtrends); stamp('#st-fda', S.devices);
 
   const geo = $('#geo');
