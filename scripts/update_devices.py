@@ -17,9 +17,11 @@ import os
 import sys
 import time
 import urllib.parse
-import urllib.request
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fetch_json, build_url  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -29,25 +31,17 @@ POR_TRATAMIENTO = 25
 
 
 def buscar(termino: str, limite: int) -> list:
+    # Solo device_name (no el resumen) para evitar falsos positivos: productos
+    # que solo *mencionan* el termino en su texto quedan fuera.
     params = {
-        "search": f'device_name:"{termino}" OR statement_or_summary:"{termino}"',
+        "search": f'device_name:"{termino}"',
         "limit": limite,
         "sort": "decision_date:desc",
     }
     if API_KEY:
         params["api_key"] = API_KEY
-    url = f"{ENDPOINT}?{urllib.parse.urlencode(params)}"
-    try:
-        with urllib.request.urlopen(url, timeout=45) as response:
-            return json.loads(response.read().decode("utf-8")).get("results", [])
-    except urllib.error.HTTPError as error:
-        if error.code == 404:  # openFDA devuelve 404 cuando no hay coincidencias
-            return []
-        print(f"  HTTP {error.code} para '{termino}'", file=sys.stderr)
-        return []
-    except Exception as error:  # noqa: BLE001
-        print(f"  error para '{termino}': {error}", file=sys.stderr)
-        return []
+    data = fetch_json(build_url(ENDPOINT, params))
+    return (data or {}).get("results", [])
 
 
 def main() -> None:

@@ -1,22 +1,18 @@
 #!/usr/bin/env python3
 """
-Verificacion de certificacion en EUDAMED (base europea de productos sanitarios).
+Verificacion de aprobacion en la Union Europea (marcado CE) para las marcas
+y productos asociados a cada tratamiento del observatorio.
 
-Usa el endpoint del buscador publico de EUDAMED (el mismo que emplea la web
-oficial). NO es una API oficial documentada: es el endpoint interno de la UI,
-mapeado por la comunidad (OpenRegulatory). Puede cambiar sin aviso.
+Recorre el campo "dispositivos_seed" de cada tratamiento en treatments.json
+(equipos y productos inyectables) y consulta el buscador publico de EUDAMED
+para cada marca unica. Si existe una entrada en data/certificacion_manual.json
+para esa marca, el dato manual tiene prioridad sobre el automatico.
 
-Para cada termino de busqueda (marca o fabricante que definas en
-data/verify_targets.json) consulta EUDAMED y guarda los dispositivos que
-encuentra con su fabricante, clase de riesgo y estado.
-
-IMPORTANTE - leer antes de confiar en el resultado:
-  EUDAMED se volvio obligatorio en mayo de 2026 pero NO esta completo: el
-  registro se despliega por fases hasta ~2027. Un dispositivo legitimo y
-  certificado CE puede NO aparecer aqui todavia. Por eso todo resultado se
-  etiqueta como VERIFICACION PARCIAL y debe confirmarse con la documentacion
-  del fabricante (Declaracion de Conformidad y certificado del Organismo
-  Notificado).
+IMPORTANTE:
+  EUDAMED se despliega por fases y esta incompleto. Ausencia de resultado NO
+  significa que el producto no tenga marcado CE. Todo resultado automatico
+  se etiqueta "verificacion parcial - EUDAMED" y toda ausencia "a verificar
+  por experto", salvo que exista un dato manual cargado por el equipo.
 
 Genera data/eudamed.json.
 """
@@ -25,9 +21,11 @@ import json
 import sys
 import time
 import urllib.parse
-import urllib.request
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fetch_json, build_url  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -35,77 +33,82 @@ BASE = "https://ec.europa.eu/tools/eudamed/api/devices/udiDiData"
 UA = "Mozilla/5.0 (compatible; observatorio-estetico/1.0)"
 
 
-def buscar(termino, limite=10):
+def buscar(termino, limite=8):
     params = {
-        "page": 1,
-        "pageSize": limite,
-        "size": limite,
-        "iso2Code": "en",
-        "languageIso2Code": "en",
+        "page": 1, "pageSize": limite, "size": limite,
+        "iso2Code": "en", "languageIso2Code": "en",
         "deviceStatusCode": "refdata.device-model-status.on-the-market",
         "searchText": termino,
     }
-    url = f"{BASE}?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=45) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except Exception as e:  # noqa: BLE001
-        print(f"  sin respuesta para '{termino}': {e}", file=sys.stderr)
-        return None
+    return fetch_json(build_url(BASE, params))
 
 
 def limpiar_clase(code):
-    # "refdata.risk-class.class-iii" -> "Clase III"
     if not code:
         return ""
-    tail = code.split(".")[-1].replace("class-", "").upper()
-    return f"Clase {tail}"
+    return "Clase " + code.split(".")[-1].replace("class-", "").upper()
 
 
 def main():
-    targets_path = DATA / "verify_targets.json"
-    if not targets_path.exists():
-        # semilla inicial: marcas de las fichas comerciales
-        targets_path.write_text(json.dumps({
-            "nota": "Marcas o fabricantes a verificar en EUDAMED. Anade los que necesites.",
-            "terminos": ["Eufoton", "Vaser", "Sculptra", "Radiesse", "Profhilo", "Ellanse"]
-        }, ensure_ascii=False, indent=2), encoding="utf-8")
+    catalog = json.loads((DATA / "treatments.json").read_text(encoding="utf-8"))
 
-    targets = json.loads(targets_path.read_text(encoding="utf-8"))["terminos"]
+    manual_path = DATA / "certificacion_manual.json"
+    if not manual_path.exists():
+        manual_path.write_text(json.dumps({
+            "_nota": "Estado CE indicado a mano para marcas que EUDAMED no encuentra o que quereis confirmar. Formato: 'Nombre marca': {'estado': '...', 'detalle': '...'}",
+            "marcas": {}
+        }, ensure_ascii=False, indent=2), encoding="utf-8")
+    manual = json.loads(manual_path.read_text(encoding="utf-8")).get("marcas", {})
+
+    marca_a_tratamientos = {}
+    for t in catalog["tratamientos"]:
+        for marca in t.get("dispositivos_seed", []):
+            marca_a_tratamientos.setdefault(marca, []).append(t["id"])
+
+    por_marca = {}
+    for marca in sorted(marca_a_tratamientos):
+        print(f"-> EUDAMED: {marca}")
+
+        if marca in manual:
+            por_marca[marca] = {
+                "encontrados_eudamed": None,
+                "dispositivos": [],
+                "estado": manual[marca].get("estado", "confirmado manualmente"),
+                "detalle": manual[marca].get("detalle", ""),
+                "fuente": "dato manual del equipo",
+            }
+            print("   usando dato manual")
+            continue
+
+        data = buscar(marca)
+        dispositivos = []
+        if data and isinstance(data.get("content"), list):
+            for it in data["content"]:
+                dispositivos.append({
+                    "nombre_comercial": it.get("tradeName") or "",
+                    "fabricante": it.get("manufacturerName") or "",
+                    "clase_riesgo": limpiar_clase((it.get("riskClass") or {}).get("code")),
+                    "referencia": it.get("reference") or "",
+                })
+        estado = "verificacion parcial - EUDAMED" if dispositivos else "a verificar por experto"
+        por_marca[marca] = {
+            "encontrados_eudamed": len(dispositivos),
+            "dispositivos": dispositivos,
+            "estado": estado,
+            "detalle": "" if dispositivos else "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+            "fuente": "EUDAMED - buscador publico",
+        }
+        print(f"   {len(dispositivos)} resultados -> {estado}")
+        time.sleep(1.0)
 
     salida = {
         "generado": datetime.utcnow().isoformat(timespec="seconds") + "Z",
-        "fuente": "EUDAMED - buscador publico (endpoint no oficial)",
-        "aviso": "VERIFICACION PARCIAL. EUDAMED aun se despliega por fases; la ausencia de un dispositivo NO significa que no este certificado. Confirmar siempre con la Declaracion de Conformidad y el certificado del Organismo Notificado del fabricante.",
-        "por_termino": {},
+        "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
+        "por_marca": por_marca,
+        "por_tratamiento": marca_a_tratamientos,
     }
-
-    for termino in targets:
-        print(f"-> EUDAMED: {termino}")
-        data = buscar(termino)
-        dispositivos = []
-        if data and isinstance(data.get("content"), list):
-            for d in data["content"]:
-                dispositivos.append({
-                    "nombre_comercial": d.get("tradeName") or "",
-                    "fabricante": d.get("manufacturerName") or "",
-                    "representante_ue": d.get("authorisedRepresentativeName") or "",
-                    "clase_riesgo": limpiar_clase((d.get("riskClass") or {}).get("code")),
-                    "estado": (d.get("deviceStatusType") or {}).get("code", "").split(".")[-1],
-                    "referencia": d.get("reference") or "",
-                    "srn_fabricante": d.get("manufacturerSrn") or "",
-                })
-        salida["por_termino"][termino] = {
-            "encontrados": len(dispositivos),
-            "dispositivos": dispositivos,
-            "estado_verificacion": "parcial - confirmar con documentacion del fabricante",
-        }
-        print(f"   {len(dispositivos)} dispositivos en EUDAMED")
-        time.sleep(1.0)
-
     (DATA / "eudamed.json").write_text(json.dumps(salida, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("Listo: eudamed.json")
+    print(f"\nListo: eudamed.json ({len(por_marca)} marcas)")
 
 
 if __name__ == "__main__":
