@@ -102,7 +102,10 @@ def count_for_year(query: str, year: int) -> int:
     term = f"({query}) AND {year}[dp]"
     raw = call("esearch.fcgi", {"db": "pubmed", "term": term, "retmax": 0, "retmode": "json"})
     throttle()
-    return int(json.loads(raw)["esearchresult"]["count"])
+    try:
+        return int(json.loads(raw)["esearchresult"]["count"])
+    except (KeyError, ValueError, TypeError):
+        return 0  # Si la respuesta no tiene la estructura esperada, asumir 0
 
 
 def recent_abstracts(query: str, limit: int) -> str:
@@ -111,7 +114,10 @@ def recent_abstracts(query: str, limit: int) -> str:
         "sort": "date", "retmode": "json",
     })
     throttle()
-    ids = json.loads(raw)["esearchresult"]["idlist"]
+    try:
+        ids = json.loads(raw)["esearchresult"]["idlist"]
+    except (KeyError, TypeError):
+        return ""
     if not ids:
         return ""
     text = call("efetch.fcgi", {
