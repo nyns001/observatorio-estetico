@@ -1,0 +1,4 @@
+{
+  "_nota": "Estado de certificacion CE indicado a mano por el equipo, para marcas que EUDAMED no encuentra o que quereis confirmar con documentacion del fabricante. Esto tiene prioridad sobre el resultado automatico de EUDAMED. Formato de cada entrada: 'Nombre exacto de la marca (igual que en dispositivos_seed)': { 'estado': 'texto corto', 'detalle': 'explicacion o fuente' }",
+  "marcas": {}
+}

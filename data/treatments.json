@@ -1,9 +1,10 @@
 {
   "_meta": {
-    "version": "0.3.0",
+    "version": "0.7.0",
     "revisado_por": null,
     "fecha_revision": null,
-    "nota": "Contenido clinico curado. Debe ser revisado y firmado por un medico colegiado antes de publicarse. Los campos recuperacion, cuidados y complementarios son orientativos y varian por paciente, tecnica y producto."
+    "nota": "Contenido clinico curado. Debe ser revisado y firmado por un medico colegiado antes de publicarse. Los campos recuperacion, cuidados y complementarios son orientativos y varian por paciente, tecnica y producto.",
+    "esquema": "Cada tratamiento: campos de contenido (nombre, zonas, recuperacion, cuidados, inyectable) + campos de consulta (pubmed_query, trends_kw, fda_query) + flags (usa_maquinaria, inyectable.es_inyectable)."
   },
   "tratamientos": [
     {
@@ -40,8 +41,28 @@
         "bioestimuladores",
         "laser-co2-fraccionado"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "dispositivos_seed": [
+        "Botox",
+        "Azzalure",
+        "Bocouture",
+        "Xeomin"
+      ],
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "bajo",
+          "resumen": "Riesgo vascular minimo al no inyectar volumen de relleno. El riesgo principal es la difusion del producto hacia musculos vecinos, causando ptosis palpebral o asimetria transitoria.",
+          "zonas_alto_riesgo_vascular": []
+        },
+        "buenas_practicas": [
+          "Respetar la dilucion y dosis por punto del fabricante, porque una dosis excesiva aumenta la difusion a musculos vecinos y el riesgo de ptosis o asimetria",
+          "Evitar inyectar a menos de 1 cm del reborde orbitario, porque la difusion hacia el elevador del parpado causa ptosis palpebral",
+          "Marcar los puntos con el paciente en gesto activo, porque la anatomia muscular en reposo no refleja donde actua realmente el musculo",
+          "Mantener la cabeza erguida las horas posteriores, porque tumbarse o presionar la zona puede desplazar el producto antes de que se fije"
+        ],
+        "equipo_diagnostico": []
+      }
     },
     {
       "id": "acido-hialuronico",
@@ -78,8 +99,43 @@
         "bioestimuladores",
         "hilos-pdo"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "dispositivos_seed": [
+        "Juvederm",
+        "Restylane",
+        "Teosyal",
+        "Belotero"
+      ],
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "alto",
+          "resumen": "Riesgo de oclusion vascular por inyeccion intraarterial o compresion externa del vaso, con potencial de necrosis cutanea o, en casos raros, perdida de vision por embolizacion retrograda hacia la arteria oftalmica.",
+          "zonas_alto_riesgo_vascular": [
+            "Glabela",
+            "Dorso nasal",
+            "Surco nasogeniano",
+            "Sien"
+          ]
+        },
+        "buenas_practicas": [
+          "Considerar ecografia de alta resolucion (HRUS) previa en zonas de riesgo, porque permite ver el trayecto real de las arterias, que varia entre pacientes, antes de inyectar",
+          "Preferir canula roma en vez de aguja en zonas de riesgo, porque la punta roma tiende a apartar los vasos en lugar de perforarlos, reduciendo el riesgo de inyeccion intraarterial",
+          "Aspirar antes de inyectar como medida adicional, entendiendo que reduce pero no elimina el riesgo, porque un resultado negativo no descarta la posicion intravascular",
+          "Inyectar lentamente y con poco volumen por punto, porque la inyeccion rapida y a presion es la que puede forzar el producto dentro de una arteria y provocar embolia",
+          "Tener hialuronidasa y un protocolo de oclusion vascular accesibles en la sala, porque ante una oclusion los primeros minutos son criticos para disolver el producto y evitar la necrosis"
+        ],
+        "equipo_diagnostico": [
+          {
+            "zona": "Dorso y punta nasal",
+            "recomendacion": "Ecografo Doppler color de alta resolucion (18-24 MHz) para localizar la arteria dorsal nasal antes de inyectar"
+          },
+          {
+            "zona": "Surco nasogeniano y sien",
+            "recomendacion": "HRUS para mapear la arteria facial y sus ramas antes de tratar"
+          }
+        ]
+      }
     },
     {
       "id": "hilos-pdo",
@@ -115,8 +171,30 @@
         "bioestimuladores",
         "hifu"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "dispositivos_seed": [
+        "Silhouette Soft",
+        "MINT Lift",
+        "Happy Lift"
+      ],
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "medio",
+          "resumen": "El riesgo principal no es vascular sino de lesion nerviosa, extrusion del hilo o irregularidades cutaneas por plano de insercion incorrecto. Riesgo vascular presente pero menor que con rellenos.",
+          "zonas_alto_riesgo_vascular": [
+            "Angulo mandibular",
+            "Region temporal"
+          ]
+        },
+        "buenas_practicas": [
+          "Conocer el recorrido del nervio facial antes de traccionar, porque una insercion o traccion incorrecta puede lesionar una rama y causar debilidad muscular",
+          "Insertar en el plano subdermico correcto segun el tipo de hilo, porque un plano demasiado superficial provoca irregularidades visibles y extrusion del hilo",
+          "Evitar tension excesiva al fijar, porque tensar de mas genera hoyuelos y pliegues antinaturales",
+          "Explicar al paciente los signos de alarma (dolor intenso, asimetria, fiebre), porque permite detectar a tiempo una infeccion o una mala colocacion"
+        ],
+        "equipo_diagnostico": []
+      }
     },
     {
       "id": "hifu",
@@ -156,7 +234,10 @@
         "Ulfit",
         "Sofwave"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "radiofrecuencia-microneedling",
@@ -173,7 +254,7 @@
       ],
       "pubmed_query": "(microneedling radiofrequency[Title/Abstract] OR fractional radiofrequency[Title/Abstract]) AND (skin[Title/Abstract] OR acne scar*[Title/Abstract])",
       "trends_kw": "radiofrecuencia facial",
-      "fda_query": "radiofrequency microneedle",
+      "fda_query": "microneedle",
       "recuperacion": {
         "downtime": "2-5 dias",
         "efecto_visible": "4-12 semanas, acumulativo entre sesiones",
@@ -198,7 +279,10 @@
         "Genius",
         "Potenza"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "laser-co2-fraccionado",
@@ -215,7 +299,7 @@
       ],
       "pubmed_query": "(fractional carbon dioxide laser[Title/Abstract] OR fractional CO2 laser[Title/Abstract]) AND (skin resurfacing[Title/Abstract] OR rejuvenation[Title/Abstract] OR scar*[Title/Abstract])",
       "trends_kw": "laser co2",
-      "fda_query": "carbon dioxide laser",
+      "fda_query": "fractional laser",
       "recuperacion": {
         "downtime": "7-14 dias",
         "efecto_visible": "1-3 meses, remodelacion hasta 6 meses",
@@ -239,7 +323,10 @@
         "UltraPulse",
         "SmartXide"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "bioestimuladores",
@@ -274,8 +361,35 @@
         "hifu",
         "radiofrecuencia-microneedling"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "dispositivos_seed": [
+        "Sculptra",
+        "Radiesse",
+        "Ellanse"
+      ],
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "medio",
+          "resumen": "Riesgo de nodulos tardios si la dilucion o tecnica de deposito no son correctas. Riesgo vascular presente en zonas de vascularizacion superficial.",
+          "zonas_alto_riesgo_vascular": [
+            "Sien",
+            "Zona periorbitaria"
+          ]
+        },
+        "buenas_practicas": [
+          "Respetar la dilucion y el tiempo de reconstitucion del fabricante, porque una reconstitucion insuficiente favorece la formacion de nodulos",
+          "Depositar en plano profundo con tecnica en abanico, porque distribuye el producto y evita acumulos que se palpan como bultos",
+          "Realizar el masaje postratamiento segun el protocolo del producto, porque reparte las particulas y previene nodulos tardios",
+          "Espaciar las sesiones segun la pauta, porque el efecto es progresivo y valorar antes de tiempo lleva a sobretratar"
+        ],
+        "equipo_diagnostico": [
+          {
+            "zona": "Sien y periorbitaria",
+            "recomendacion": "HRUS recomendado antes de tratar por la proximidad de vasos superficiales"
+          }
+        ]
+      }
     },
     {
       "id": "criolipolisis",
@@ -315,7 +429,10 @@
         "Clatuu",
         "Cooltech"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "emsculpt",
@@ -332,7 +449,7 @@
       ],
       "pubmed_query": "(high-intensity focused electromagnetic[Title/Abstract] OR HIFEM[Title/Abstract]) AND (muscle[Title/Abstract] OR body contouring[Title/Abstract])",
       "trends_kw": "emsculpt",
-      "fda_query": "electromagnetic muscle stimulation",
+      "fda_query": "muscle stimulator",
       "recuperacion": {
         "downtime": "0 dias",
         "efecto_visible": "4-8 semanas tras completar el protocolo",
@@ -352,7 +469,10 @@
         "Emsculpt",
         "Emsculpt Neo"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "ondas-choque",
@@ -388,7 +508,10 @@
         "Cellactor",
         "Z Wave"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "endolift",
@@ -405,7 +528,7 @@
       ],
       "pubmed_query": "(endolift[tiab] OR (subdermal[tiab] AND diode laser[tiab] AND (skin[tiab] OR facial[tiab] OR laxity[tiab] OR cellulite[tiab]))) NOT (retina*[tiab] OR macular[tiab] OR vitrectomy[tiab] OR vitreoretinal[tiab] OR ophthalm*[tiab] OR endophthalmitis[tiab] OR photocoagulation[tiab])",
       "trends_kw": "endolift",
-      "fda_query": "diode laser subdermal",
+      "fda_query": "diode laser",
       "recuperacion": {
         "downtime": "1-3 dias",
         "efecto_visible": "Progresivo, maximo a los 3-6 meses",
@@ -427,7 +550,10 @@
         "Eufoton",
         "Endolift"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "rinomodelacion",
@@ -442,7 +568,7 @@
       ],
       "pubmed_query": "(non-surgical rhinoplasty[Title/Abstract] OR liquid rhinoplasty[Title/Abstract] OR (hyaluronic acid[Title/Abstract] AND nose[Title/Abstract]))",
       "trends_kw": "rinomodelacion",
-      "fda_query": "hyaluronic",
+      "fda_query": "dermal filler",
       "recuperacion": {
         "downtime": "0-1 dias",
         "efecto_visible": "Inmediato",
@@ -459,8 +585,38 @@
         "toxina-botulinica",
         "acido-hialuronico"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "dispositivos_seed": [
+        "Juvederm",
+        "Restylane",
+        "Teosyal"
+      ],
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "alto",
+          "resumen": "Es la zona de mayor riesgo vascular de la estetica inyectable: la arteria dorsal nasal se anastomosa con la arteria oftalmica, y se han descrito casos de perdida de vision por embolizacion retrograda.",
+          "zonas_alto_riesgo_vascular": [
+            "Dorso nasal",
+            "Punta nasal",
+            "Columela",
+            "Glabela"
+          ]
+        },
+        "buenas_practicas": [
+          "Ecografia Doppler de alta resolucion previa muy recomendada, porque la nariz es la zona con mayor riesgo documentado: la arteria dorsal nasal conecta con la oftalmica y una embolia puede causar ceguera",
+          "Usar canula en lugar de aguja siempre que la tecnica lo permita, porque reduce la probabilidad de perforar e inyectar dentro de un vaso",
+          "Inyectar en el plano profundo sobre el cartilago/hueso, porque es donde hay menos vasos y el producto queda mas estable",
+          "Volumenes minimos por punto y ritmo lento, porque disminuye la presion capaz de empujar producto hacia la circulacion retrograda",
+          "Hialuronidasa lista de inmediato, porque si aparecen signos de oclusion o alteracion visual hay que actuar en minutos"
+        ],
+        "equipo_diagnostico": [
+          {
+            "zona": "Dorso y punta nasal",
+            "recomendacion": "Ecografo Doppler color de alta resolucion (18-24 MHz) obligatorio como buena practica dado el riesgo de la zona"
+          }
+        ]
+      }
     },
     {
       "id": "aumento-labios",
@@ -476,7 +632,7 @@
       ],
       "pubmed_query": "(lip augmentation[Title/Abstract] AND (hyaluronic acid[Title/Abstract] OR filler[Title/Abstract]))",
       "trends_kw": "aumento de labios",
-      "fda_query": "hyaluronic",
+      "fda_query": "dermal filler",
       "recuperacion": {
         "downtime": "2-4 dias",
         "efecto_visible": "Inmediato, definitivo a los 14 dias",
@@ -493,44 +649,37 @@
         "toxina-botulinica",
         "acido-hialuronico"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
-    },
-    {
-      "id": "inductores-colageno",
-      "nombre": "Inductores de colageno inyectables",
-      "categoria": "facial",
-      "familia": "Bioestimulacion - PLLA / CaHA / PCL",
-      "zonas": [
-        "Tercio medio facial",
-        "Cuello",
-        "Escote",
-        "Gluteos",
-        "Abdomen",
-        "Brazos"
+      "dispositivos_seed": [
+        "Juvederm",
+        "Restylane",
+        "Teosyal",
+        "Belotero"
       ],
-      "pubmed_query": "(collagen stimulator[Title/Abstract] OR (poly-L-lactic acid[Title/Abstract] OR polycaprolactone[Title/Abstract] OR calcium hydroxylapatite[Title/Abstract]) AND biostimulation[Title/Abstract])",
-      "trends_kw": "inductores de colageno",
-      "fda_query": "poly-L-lactic acid",
-      "recuperacion": {
-        "downtime": "1-3 dias",
-        "efecto_visible": "6-12 semanas, progresivo",
-        "duracion": "18-24 meses",
-        "detalle": "Edema y hematoma leves. Riesgo de nodulos tardios que se minimiza con dilucion, tecnica y masaje adecuados."
-      },
-      "cuidados": [
-        "Masaje segun protocolo del producto los primeros dias",
-        "Evitar calor intenso y ejercicio 24-48 h",
-        "Hidratacion oral adecuada",
-        "Consultar ante nodulos palpables persistentes"
-      ],
-      "complementarios": [
-        "hifu",
-        "radiofrecuencia-microneedling",
-        "toxina-botulinica"
-      ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": false
+      "usa_maquinaria": false,
+      "inyectable": {
+        "es_inyectable": true,
+        "riesgo": {
+          "nivel": "medio",
+          "resumen": "Riesgo vascular ligado a la arteria labial superior e inferior. Menos catastrofico que en nariz o glabela, pero puede causar necrosis local si hay inyeccion intraarterial.",
+          "zonas_alto_riesgo_vascular": [
+            "Comisuras labiales",
+            "Filtrum",
+            "Borde bermellon"
+          ]
+        },
+        "buenas_practicas": [
+          "Conocer el trayecto de la arteria labial (suele ir submucosa cerca del borde), porque inyectar a ciegas en ese plano aumenta el riesgo de puncionarla",
+          "Preferir canula en el cuerpo del labio, porque desplaza el vaso en vez de cortarlo y reduce ademas los hematomas",
+          "Inyectar en pequenos depositos sin sobrecorregir en la primera sesion, porque el labio se inflama y sobrecargar impide valorar el resultado real",
+          "Tener hialuronidasa disponible, porque ante palidez o dolor desproporcionado hay que poder revertir el relleno con rapidez"
+        ],
+        "equipo_diagnostico": [
+          {
+            "zona": "Labios",
+            "recomendacion": "HRUS no es rutina en labios salvo antecedentes de cirugia o relleno previo con producto desconocido"
+          }
+        ]
+      }
     },
     {
       "id": "liposuccion-papada",
@@ -544,7 +693,7 @@
       ],
       "pubmed_query": "(submental fat[Title/Abstract] OR double chin[Title/Abstract] OR submental liposuction[Title/Abstract] OR deoxycholic acid[Title/Abstract])",
       "trends_kw": "papada",
-      "fda_query": "submental",
+      "fda_query": "liposuction",
       "recuperacion": {
         "downtime": "3-7 dias",
         "efecto_visible": "4-12 semanas",
@@ -562,8 +711,14 @@
         "endolift",
         "criolipolisis"
       ],
-      "dispositivos_seed": [],
-      "usa_maquinaria": true
+      "dispositivos_seed": [
+        "Vaser",
+        "Belkyra"
+      ],
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     },
     {
       "id": "lipovaser",
@@ -580,7 +735,7 @@
       ],
       "pubmed_query": "(vaser[Title/Abstract] OR ultrasound-assisted liposuction[Title/Abstract] OR ultrasonic liposuction[Title/Abstract])",
       "trends_kw": "lipovaser",
-      "fda_query": "ultrasonic liposuction",
+      "fda_query": "ultrasonic surgical",
       "recuperacion": {
         "downtime": "7-14 dias",
         "efecto_visible": "6-12 semanas, definitivo a los 6 meses",
@@ -602,7 +757,10 @@
         "Vaser",
         "Vaser Lipo"
       ],
-      "usa_maquinaria": true
+      "usa_maquinaria": true,
+      "inyectable": {
+        "es_inyectable": false
+      }
     }
   ]
 }
