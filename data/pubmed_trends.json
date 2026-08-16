@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T22:26:59Z",
+  "generado": "2026-08-16T17:25:59Z",
   "anos": [
     2015,
     2016,
@@ -261,25 +261,6 @@
       ],
       "total": 137,
       "delta_3a": 71.4
-    },
-    "inductores-colageno": {
-      "categoria": "facial",
-      "conteos": [
-        0,
-        0,
-        0,
-        1,
-        1,
-        5,
-        3,
-        1,
-        7,
-        5,
-        7,
-        6
-      ],
-      "total": 36,
-      "delta_3a": 63.6
     },
     "liposuccion-papada": {
       "categoria": "corporal",

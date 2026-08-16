@@ -1,583 +1,2140 @@
 {
-  "generado": "2026-08-15T22:29:35Z",
-  "fuente": "EUDAMED - buscador publico (endpoint no oficial)",
-  "aviso": "VERIFICACION PARCIAL. EUDAMED aun se despliega por fases; la ausencia de un dispositivo NO significa que no este certificado. Confirmar siempre con la Declaracion de Conformidad y el certificado del Organismo Notificado del fabricante.",
-  "por_termino": {
-    "Eufoton": {
-      "encontrados": 10,
+  "generado": "2026-08-16T17:29:14Z",
+  "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
+  "por_marca": {
+    "Azzalure": {
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     },
-    "Vaser": {
-      "encontrados": 10,
+    "Belkyra": {
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     },
-    "Sculptra": {
-      "encontrados": 10,
+    "Belotero": {
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     },
-    "Radiesse": {
-      "encontrados": 10,
+    "Bocouture": {
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     },
-    "Profhilo": {
-      "encontrados": 10,
+    "Botox": {
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Cellactor": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Clatuu": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "CoolSculpting": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Cooltech": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     },
     "Ellanse": {
-      "encontrados": 10,
+      "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-2135NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/17"
         },
         {
-          "nombre_comercial": "WI-265-008R: Non-Sterile, Reusable, Hartmann Nasal Polypus Forceps 20.0Cm / 8\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-265-008R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTO/15"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Flexicare Medical Limited",
-          "representante_ue": "Flexicare EU Ops Ltd",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "040-08-0140NS",
-          "srn_fabricante": "GB-MF-000034163"
+          "referencia": "WTO/13"
         },
         {
-          "nombre_comercial": "WI-263-020R: Non-Sterile, Reusable, Cottle Nasal Specula 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-263-020R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/27"
         },
         {
-          "nombre_comercial": "KD-FIX SOLO",
-          "fabricante": "KD Medical GmbH Hospital Products",
-          "representante_ue": "",
-          "clase_riesgo": "Clase IIA",
-          "estado": "on-the-market",
-          "referencia": "777428M",
-          "srn_fabricante": "DE-MF-000006773"
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
         },
         {
-          "nombre_comercial": "WI-262-019R: Non-Sterile, Reusable, Mod. Wien Nasal Specula 14.5Cm / 5 ¾\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-262-019R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/23"
         },
         {
-          "nombre_comercial": "WI-204-005R: Non-Sterile, Reusable, Wire Cutting Plier 23.0Cm / 9\", T/C",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-204-005R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "WTN/15"
         },
         {
-          "nombre_comercial": "WI-189-020R: Non-Sterile, Reusable, Luer Bone Rongeur Forceps 15.0Cm / 6\"",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
           "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-189-020R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-179-008R: Non-Sterile, Reusable, Bone Holding Forceps 14.0Cm / 5 ½”",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-179-008R",
-          "srn_fabricante": "PK-MF-000010180"
-        },
-        {
-          "nombre_comercial": "WI-089-034R: Non-Sterile, Reusable, Petit-Point Babcock Forceps 16.0Cm / 6 ¼”, Jaw Width 7.5Mm",
-          "fabricante": "Weldon Instruments",
-          "representante_ue": "CMC Medical Devices & Drugs SL",
-          "clase_riesgo": "Clase I",
-          "estado": "on-the-market",
-          "referencia": "WI-089-034R",
-          "srn_fabricante": "PK-MF-000010180"
+          "referencia": "H/DFPN/15"
         }
       ],
-      "estado_verificacion": "parcial - confirmar con documentacion del fabricante"
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Emsculpt": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Emsculpt Neo": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Endolift": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Eufoton": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Fraxel": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Genius": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Happy Lift": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Juvederm": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "MINT Lift": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Morpheus8": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Potenza": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Radiesse": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Restylane": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Sculptra": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Secret RF": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Silhouette Soft": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "SmartXide": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Sofwave": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Teosyal": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Ulfit": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Ultherapy": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "UltraPulse": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Vaser": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Vaser Lipo": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Xeomin": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Z Wave": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/17"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/15"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTO/13"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/27"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/25"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/23"
+        },
+        {
+          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "WTN/15"
+        },
+        {
+          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
+          "fabricante": "Promedics Orthopaedics Limited",
+          "clase_riesgo": "Clase I",
+          "referencia": "H/DFPN/15"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
     }
+  },
+  "por_tratamiento": {
+    "Botox": [
+      "toxina-botulinica"
+    ],
+    "Azzalure": [
+      "toxina-botulinica"
+    ],
+    "Bocouture": [
+      "toxina-botulinica"
+    ],
+    "Xeomin": [
+      "toxina-botulinica"
+    ],
+    "Juvederm": [
+      "acido-hialuronico",
+      "rinomodelacion",
+      "aumento-labios"
+    ],
+    "Restylane": [
+      "acido-hialuronico",
+      "rinomodelacion",
+      "aumento-labios"
+    ],
+    "Teosyal": [
+      "acido-hialuronico",
+      "rinomodelacion",
+      "aumento-labios"
+    ],
+    "Belotero": [
+      "acido-hialuronico",
+      "aumento-labios"
+    ],
+    "Silhouette Soft": [
+      "hilos-pdo"
+    ],
+    "MINT Lift": [
+      "hilos-pdo"
+    ],
+    "Happy Lift": [
+      "hilos-pdo"
+    ],
+    "Ultherapy": [
+      "hifu"
+    ],
+    "Ulfit": [
+      "hifu"
+    ],
+    "Sofwave": [
+      "hifu"
+    ],
+    "Morpheus8": [
+      "radiofrecuencia-microneedling"
+    ],
+    "Secret RF": [
+      "radiofrecuencia-microneedling"
+    ],
+    "Genius": [
+      "radiofrecuencia-microneedling"
+    ],
+    "Potenza": [
+      "radiofrecuencia-microneedling"
+    ],
+    "Fraxel": [
+      "laser-co2-fraccionado"
+    ],
+    "UltraPulse": [
+      "laser-co2-fraccionado"
+    ],
+    "SmartXide": [
+      "laser-co2-fraccionado"
+    ],
+    "Sculptra": [
+      "bioestimuladores"
+    ],
+    "Radiesse": [
+      "bioestimuladores"
+    ],
+    "Ellanse": [
+      "bioestimuladores"
+    ],
+    "CoolSculpting": [
+      "criolipolisis"
+    ],
+    "Clatuu": [
+      "criolipolisis"
+    ],
+    "Cooltech": [
+      "criolipolisis"
+    ],
+    "Emsculpt": [
+      "emsculpt"
+    ],
+    "Emsculpt Neo": [
+      "emsculpt"
+    ],
+    "Cellactor": [
+      "ondas-choque"
+    ],
+    "Z Wave": [
+      "ondas-choque"
+    ],
+    "Eufoton": [
+      "endolift"
+    ],
+    "Endolift": [
+      "endolift"
+    ],
+    "Vaser": [
+      "liposuccion-papada",
+      "lipovaser"
+    ],
+    "Belkyra": [
+      "liposuccion-papada"
+    ],
+    "Vaser Lipo": [
+      "lipovaser"
+    ]
   }
 }

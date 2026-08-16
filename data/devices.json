@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T22:29:22Z",
+  "generado": "2026-08-16T17:28:13Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -40,132 +40,230 @@
     ],
     "hilos-pdo": [],
     "hifu": [],
-    "radiofrecuencia-microneedling": [],
+    "radiofrecuencia-microneedling": [
+      {
+        "nombre": "INTRAcel RF Microneedle System",
+        "fabricante": "Jeisys Medical, Inc.",
+        "k_number": "K183284",
+        "fecha_decision": "2020-01-15",
+        "ano": "2020",
+        "pais": "KR"
+      }
+    ],
     "laser-co2-fraccionado": [
       {
-        "nombre": "Dermatological Carbon Dioxide Laser Systems",
-        "fabricante": "Zhuolu Jontelaser Manufacturing Technology Co., Ltd.",
-        "k_number": "K202250",
-        "fecha_decision": "2020-11-25",
+        "nombre": "HandPICO Fractional Laser Handpiece Tip",
+        "fabricante": "Vydence Medical",
+        "k_number": "K242534",
+        "fecha_decision": "2024-12-20",
+        "ano": "2024",
+        "pais": "BR"
+      },
+      {
+        "nombre": "UltraClear Fractional Laser System",
+        "fabricante": "Fa International, LP",
+        "k_number": "K210847",
+        "fecha_decision": "2021-12-10",
+        "ano": "2021",
+        "pais": "US"
+      },
+      {
+        "nombre": "Medical Non-Ablative Fractional Laser Systems",
+        "fabricante": "Wingderm Electro-Optics , Ltd.",
+        "k_number": "K192350",
+        "fecha_decision": "2020-04-30",
         "ano": "2020",
         "pais": "CN"
       },
       {
-        "nombre": "ACUPULSE 30 AND 40 CARBON DIOXIDE LASER SYSTEM",
-        "fabricante": "Lumenis, Inc.",
-        "k_number": "K082809",
-        "fecha_decision": "2008-12-18",
-        "ano": "2008",
-        "pais": "US"
+        "nombre": "CO2 FRACTIONAL LASER",
+        "fabricante": "Beijing Honkon Technologies Co., Ltd.",
+        "k_number": "K131837",
+        "fecha_decision": "2014-01-22",
+        "ano": "2014",
+        "pais": "CN"
       },
       {
-        "nombre": "LASERPRO CO2 CARBON DIOXIDE LASER SYSTEM",
-        "fabricante": "Photo Medex, Inc.",
-        "k_number": "K040234",
-        "fecha_decision": "2004-04-02",
-        "ano": "2004",
-        "pais": "US"
-      },
-      {
-        "nombre": "ACCU-PULSE CARBON DIOXIDE LASER SYSTEM",
-        "fabricante": "Argus Photonics Group",
-        "k_number": "K971830",
-        "fecha_decision": "1997-08-14",
-        "ano": "1997",
-        "pais": "US"
-      },
-      {
-        "nombre": "CARBON DIOXIDE LASER SYSTEMS W/WAVEGUIDE DELIVERY",
-        "fabricante": "Heraeus Lasersonics, Inc.",
-        "k_number": "K910530",
-        "fecha_decision": "1991-10-31",
-        "ano": "1991",
-        "pais": "US"
-      },
-      {
-        "nombre": "CARBON DIOXIDE LASER SYSTEMS W/ARTHOGUIDE CO2 DEL.",
-        "fabricante": "Heraeus Lasersonics, Inc.",
-        "k_number": "K910496",
-        "fecha_decision": "1991-05-06",
-        "ano": "1991",
-        "pais": "US"
-      },
-      {
-        "nombre": "SURGICAL CARBON DIOXIDE LASER SYST MODEL 20-CH",
-        "fabricante": "Directed Energy, Inc.",
-        "k_number": "K904930",
-        "fecha_decision": "1991-03-21",
-        "ano": "1991",
-        "pais": "US"
-      },
-      {
-        "nombre": "MODEL 20-CH CARBON DIOXIDE LASER W/ADD'L USES",
-        "fabricante": "Pfizer Laser Systems",
-        "k_number": "K900253",
-        "fecha_decision": "1990-04-05",
-        "ano": "1990",
-        "pais": "US"
-      },
-      {
-        "nombre": "35 WATT SURGICAL CARBON DIOXIDE LASER SYSTEM",
-        "fabricante": "Pfizer Laser Systems",
-        "k_number": "K896049",
-        "fecha_decision": "1990-01-11",
-        "ano": "1990",
-        "pais": "US"
-      },
-      {
-        "nombre": "MODEL 20-CH CARBON DIOXIDE LASER W/ACCESSORIES",
-        "fabricante": "Pfizer Laser Systems",
-        "k_number": "K885291",
-        "fecha_decision": "1989-02-03",
-        "ano": "1989",
-        "pais": "US"
-      },
-      {
-        "nombre": "CARBON DIOXIDE LASER SYSTEM MODEL 20-CX W/ATTACH.",
-        "fabricante": "Directed Energy, Inc.",
-        "k_number": "K883738",
-        "fecha_decision": "1988-11-15",
-        "ano": "1988",
-        "pais": "US"
-      },
-      {
-        "nombre": "SURGICAL CARBON DIOXIDE LASER SYS. #20B ULTRALIGHT",
-        "fabricante": "Directed Energy, Inc.",
-        "k_number": "K855210",
-        "fecha_decision": "1986-05-02",
-        "ano": "1986",
-        "pais": "US"
-      },
-      {
-        "nombre": "CARBON DIOXIDE LASER ML 825",
-        "fabricante": "Merrimack Laboratories",
-        "k_number": "K833528",
-        "fecha_decision": "1985-02-19",
-        "ano": "1985",
-        "pais": "US"
-      },
-      {
-        "nombre": "MODEL ML-820 CARBON DIOXIDE LASER SYSTEM FOR SURGERY",
-        "fabricante": "Merrimack Laboratories",
-        "k_number": "K827506",
-        "fecha_decision": "1982-06-11",
-        "ano": "1982",
-        "pais": "US"
-      },
-      {
-        "nombre": "ML-810 CARBON DIOXIDE LASER SYSTEM",
-        "fabricante": "Merrimack Laboratories",
-        "k_number": "K827442",
-        "fecha_decision": "1982-05-19",
-        "ano": "1982",
+        "nombre": "EMERGE FRACTIONAL LASER",
+        "fabricante": "Palomar Medical Products, Inc.",
+        "k_number": "K111840",
+        "fecha_decision": "2011-11-14",
+        "ano": "2011",
         "pais": "US"
       }
     ],
     "bioestimuladores": [],
     "criolipolisis": [],
-    "emsculpt": [],
+    "emsculpt": [
+      {
+        "nombre": "TENS AND EMS (TENS and Muscle Stimulator) (JT1065, JT1080, JT2080, JT9034)",
+        "fabricante": "Shenzhen Jiantuo Electronics Co., Ltd.",
+        "k_number": "K253305",
+        "fecha_decision": "2025-12-31",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Motive Muscle Stimulator for Lower Back (OT01-1003)",
+        "fabricante": "Motive Health, Inc.",
+        "k_number": "K253478",
+        "fecha_decision": "2025-11-06",
+        "ano": "2025",
+        "pais": "US"
+      },
+      {
+        "nombre": "TENS AND EMS (TENS and Muscle Stimulator) ( Model AS8012C,AS8016,AS8019,AS9020E,AS9026)",
+        "fabricante": "Shenzhen Astec Technology Co., Ltd.",
+        "k_number": "K243856",
+        "fecha_decision": "2025-05-29",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Muscle Stimulator Device (PZ-100)",
+        "fabricante": "Zhengzhou PZ Laser Slim Technology Co., Ltd.",
+        "k_number": "K250038",
+        "fecha_decision": "2025-05-19",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "TENS AND EMS (TENS and Muscle Stimulator) (JT8012C,JT8016,JT9020E,JT9026)",
+        "fabricante": "Shenzhen Jiantuo Electronics Co., Ltd.",
+        "k_number": "K250360",
+        "fecha_decision": "2025-05-11",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "TENS AND EMS (TENS and Muscle Stimulator) (JT8012, JT8012B)",
+        "fabricante": "Shenzhen Jiantuo Electronics Co., Ltd.",
+        "k_number": "K250053",
+        "fecha_decision": "2025-05-09",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Levina Pelvic Floor Muscle Stimulator (RS-48)",
+        "fabricante": "Zmi Electronics , Ltd.",
+        "k_number": "K241862",
+        "fecha_decision": "2025-03-27",
+        "ano": "2025",
+        "pais": "TW"
+      },
+      {
+        "nombre": "MYOTouch Muscle Stimulator",
+        "fabricante": "Sunmed, LLC",
+        "k_number": "K233098",
+        "fecha_decision": "2024-08-02",
+        "ano": "2024",
+        "pais": "US"
+      },
+      {
+        "nombre": "Muscle Stimulator",
+        "fabricante": "Shenzhen Yiran Intelligent Co., Ltd.",
+        "k_number": "K231648",
+        "fecha_decision": "2024-03-01",
+        "ano": "2024",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Electronic Muscle Stimulator (Model MP01)",
+        "fabricante": "Shenzhen Hengbosi Industrial Co., Ltd.",
+        "k_number": "K233035",
+        "fecha_decision": "2024-01-08",
+        "ano": "2024",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Pelvic Floor Muscle Stimulator",
+        "fabricante": "Nanjing Vishee Medical Technology Co., Ltd.",
+        "k_number": "K230767",
+        "fecha_decision": "2023-09-21",
+        "ano": "2023",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Powered Muscle Stimulator (Model name:MagGraver F200)",
+        "fabricante": "Nanjing Vishee Medical Technology Co., Ltd.",
+        "k_number": "K222875",
+        "fecha_decision": "2023-03-09",
+        "ano": "2023",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Biofeedback Nerve and Muscle Stimulator",
+        "fabricante": "Shenzhen Konmed Technology Co., Ltd.",
+        "k_number": "K220161",
+        "fecha_decision": "2022-07-20",
+        "ano": "2022",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Electronic Muscle Stimulator (Model: AST-300A, AST-300N, AST-300S, AST-300T, AST-300V, AST-300W)",
+        "fabricante": "Shenzhen Osto Technology Company Limited",
+        "k_number": "K211736",
+        "fecha_decision": "2021-09-05",
+        "ano": "2021",
+        "pais": "CN"
+      },
+      {
+        "nombre": "PowerDot PD-01MT2 Muscle Stimulator",
+        "fabricante": "Smartmissimo Technologies Pte, Ltd.",
+        "k_number": "K210938",
+        "fecha_decision": "2021-07-30",
+        "ano": "2021",
+        "pais": "SG"
+      },
+      {
+        "nombre": "Nerve and Muscle Stimulator",
+        "fabricante": "Shenzhen Xft Medical Limited",
+        "k_number": "K211094",
+        "fecha_decision": "2021-07-08",
+        "ano": "2021",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Storz Medical MAGNETOLITH Muscle Stimulator",
+        "fabricante": "Storz Medical AG",
+        "k_number": "K203710",
+        "fecha_decision": "2021-05-03",
+        "ano": "2021",
+        "pais": "CH"
+      },
+      {
+        "nombre": "TENS and Muscle Stimulator",
+        "fabricante": "Shenzhen Astec Technology Co., Ltd.",
+        "k_number": "K200727",
+        "fecha_decision": "2020-06-18",
+        "ano": "2020",
+        "pais": "CN"
+      },
+      {
+        "nombre": "BionicGym Powered Muscle Stimulator",
+        "fabricante": "Medical Currents, Ltd.",
+        "k_number": "K182794",
+        "fecha_decision": "2019-07-18",
+        "ano": "2019",
+        "pais": "IE"
+      },
+      {
+        "nombre": "PlayMakar Sport Muscle Stimulator, Model PRO-500",
+        "fabricante": "Playmakar, Inc.",
+        "k_number": "K182581",
+        "fecha_decision": "2018-11-21",
+        "ano": "2018",
+        "pais": "US"
+      },
+      {
+        "nombre": "PowerDot(R) PD-01 Muscle Stimulator (with PowerDot(R) Mobile Application)",
+        "fabricante": "Smartmissimo Technologies Pte, Ltd.",
+        "k_number": "K150078",
+        "fecha_decision": "2015-09-30",
+        "ano": "2015",
+        "pais": "SG"
+      }
+    ],
     "ondas-choque": [
       {
         "nombre": "Extracorporeal Shock Wave Lithotripter (U200)",
@@ -216,77 +314,333 @@
         "pais": "US"
       }
     ],
-    "endolift": [],
-    "rinomodelacion": [
+    "endolift": [
       {
-        "nombre": "Hyaluronic Acid Vaginal Suppository (HA 5 mg); Hyaluronic Acid Vaginal Suppository (HA 10 mg)",
-        "fabricante": "Hudi Pharma Srl",
-        "k_number": "K260007",
-        "fecha_decision": "2026-04-01",
+        "nombre": "Diode laser hair removal machine (QDTM-04)",
+        "fabricante": "Beijing Nubway S&T Co., Ltd.",
+        "k_number": "K261693",
+        "fecha_decision": "2026-07-17",
         "ano": "2026",
-        "pais": "IT"
+        "pais": "CN"
       },
       {
-        "nombre": "Nitrile Powder-Free Exam Gloves with Hyaluronic Acid, and tested for Use with Chemotherapy Drugs, Opioid Fentanyl Citrate, Simulated Gastric Acid and Xylazine in Fentanyl Citrate",
-        "fabricante": "Basic Medical Technology, Inc.",
-        "k_number": "K250630",
-        "fecha_decision": "2025-05-22",
+        "nombre": "SOGA Lasers therapy system family of Aurora handpiece (Aurora-S); SOGA Lasers therapy system family of the Dental diode laser ( ILaser III Pro)",
+        "fabricante": "Shenzhen Soga Technology Co., Ltd.",
+        "k_number": "K253309",
+        "fecha_decision": "2026-05-19",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Therapy Systems (V19)",
+        "fabricante": "Weifang Mingliang Electronics Co., Ltd.",
+        "k_number": "K260307",
+        "fecha_decision": "2026-04-15",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "CureLight Medical Diode Laser Systems (CureLight F2-A15;  CureLight F2-B15; CureLight F2-A30; CureLight F2-B30; CureLight F3-AB30; CureLight F3-AB60.)",
+        "fabricante": "Wuhan PHOMED Technology Company , Ltd.",
+        "k_number": "K253965",
+        "fecha_decision": "2026-03-19",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Picasso Pro Diode Laser (002-00460)",
+        "fabricante": "CAO Group, Inc.",
+        "k_number": "K254197",
+        "fecha_decision": "2026-03-11",
+        "ano": "2026",
+        "pais": "US"
+      },
+      {
+        "nombre": "Diode Laser Therapy Systems (WLA-02)",
+        "fabricante": "Wingderm Electro-Optics , Ltd.",
+        "k_number": "K252599",
+        "fecha_decision": "2026-02-24",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Systems (TR-B)",
+        "fabricante": "Baoding Te'Anzhou Electronic Technology Co., Ltd.",
+        "k_number": "K252658",
+        "fecha_decision": "2025-11-28",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Systems (VeinCure)",
+        "fabricante": "Baoding Te'Anzhou Electronic Technology Co., Ltd.",
+        "k_number": "K252564",
+        "fecha_decision": "2025-11-07",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Hair Removal Machine (GLD01)",
+        "fabricante": "Sanhe Meditech Co., Ltd.",
+        "k_number": "K252427",
+        "fecha_decision": "2025-10-31",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "MateLaser Medical Diode Laser Systems (ML-DLS-30)",
+        "fabricante": "Matelaser, Inc.",
+        "k_number": "K250731",
+        "fecha_decision": "2025-10-16",
         "ano": "2025",
         "pais": "US"
       },
       {
-        "nombre": "Nitrile Patient Examination Gloves with Hyaluronic Acid Blue Colored and Tested for Use with Chemotherapy Drugs and Fentanyl Citrate, aka Synguard C+ Nitrile Exam Gloves",
-        "fabricante": "Anhui Intco Medical Products Co., Ltd.",
-        "k_number": "K231365",
-        "fecha_decision": "2024-03-01",
-        "ano": "2024",
+        "nombre": "Medical Diode Laser Systems (BERYLAS-12N); Medical Diode Laser Systems (BERYLAS-15N); Medical Diode Laser Systems (HARLAS-45JN); Medical Diode Laser Systems (HARLAS-46JN)",
+        "fabricante": "Wuhan Dimed Laser Technology Co., Ltd.",
+        "k_number": "K252063",
+        "fecha_decision": "2025-09-25",
+        "ano": "2025",
         "pais": "CN"
       },
       {
-        "nombre": "HYALURONIC ACID TOPICAL WOUND CREAM",
-        "fabricante": "Virchow Biotech Pvt, Ltd.",
-        "k_number": "K172747",
-        "fecha_decision": "2018-04-27",
-        "ano": "2018",
+        "nombre": "Diode laser therapy device (VADER)",
+        "fabricante": "Beijing Superlaser Technology Co., Ltd.",
+        "k_number": "K251457",
+        "fecha_decision": "2025-09-03",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode laser device (BM091)",
+        "fabricante": "Hebei Newangie Technology Co., Ltd.",
+        "k_number": "K251801",
+        "fecha_decision": "2025-08-08",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Hair Removal Machine (models: T60A, T60B, T60C, T60D, T60E)",
+        "fabricante": "Shenzhen Lifotronic Technology Co., Ltd.",
+        "k_number": "K251076",
+        "fecha_decision": "2025-07-30",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Hair Removal Device (PZ-606¿, PZ-BDT68-01, PZ-BDT68-02, PZ-BDT68-03, PZ-BDT68-04)",
+        "fabricante": "Zhengzhou PZ Laser Slim Technology Co., Ltd.",
+        "k_number": "K251339",
+        "fecha_decision": "2025-07-25",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "SurgiLight 1470 Diode Laser System (Model:Halo)",
+        "fabricante": "Micro-Energy Medical Technology Co., Ltd.",
+        "k_number": "K251049",
+        "fecha_decision": "2025-07-02",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode laser device (RF3120-BI)",
+        "fabricante": "Risu Medical Technology Co., Ltd.",
+        "k_number": "K251329",
+        "fecha_decision": "2025-06-27",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Systems (VELAS II-30B, VELAS II-30A, GBOX-15AB, GBOX-20B, CHEESE II-10B)",
+        "fabricante": "Gigaalaser Company , Ltd.",
+        "k_number": "K242755",
+        "fecha_decision": "2025-05-19",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Hair Removal System (MNLT-D1)",
+        "fabricante": "Shandong Moonlight Electronics Tech Co., Ltd.",
+        "k_number": "K250431",
+        "fecha_decision": "2025-05-12",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser (UTU3-F7B,UTU3-F7W,UTU3-G7B,UTU3-G7W,UTU-G20B,UTU-G20W)",
+        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
+        "k_number": "K243764",
+        "fecha_decision": "2025-05-08",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode laser hair removal machine (QDTM-02)",
+        "fabricante": "Beijing Nubway S&T Co., Ltd.",
+        "k_number": "K242951",
+        "fecha_decision": "2025-04-28",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode laser system (Night Universe; Predator)",
+        "fabricante": "Ivylaser (Beijing) Technology Co.,Ltd",
+        "k_number": "K250206",
+        "fecha_decision": "2025-04-24",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser (Models: MZ-GK, MZ-K20, MZ-N75)",
+        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
+        "k_number": "K250656",
+        "fecha_decision": "2025-04-04",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Systems (THEIA808)",
+        "fabricante": "Gigaalaser Company , Ltd.",
+        "k_number": "K250018",
+        "fecha_decision": "2025-04-01",
+        "ano": "2025",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser Systems (GBOX-6H,  GBOX-10D , GBOX-12D,  GBOX-15D, VELAS Pro-30B15D, VELAS II-6H, VELAS II-15D)",
+        "fabricante": "Gigaalaser Company , Ltd.",
+        "k_number": "K241791",
+        "fecha_decision": "2025-03-19",
+        "ano": "2025",
+        "pais": "CN"
+      }
+    ],
+    "rinomodelacion": [],
+    "aumento-labios": [],
+    "liposuccion-papada": [
+      {
+        "nombre": "HK LIPOSUCTION ASPIRATOR, MODEL AP-III & AP230-III",
+        "fabricante": "Hk Surgical, Inc.",
+        "k_number": "K032802",
+        "fecha_decision": "2003-11-19",
+        "ano": "2003",
+        "pais": "US"
+      },
+      {
+        "nombre": "LIPOMATIC; LIPOMATIC LIPOSUCTION DEVICE",
+        "fabricante": "Euromi S.A",
+        "k_number": "K010311",
+        "fecha_decision": "2001-06-29",
+        "ano": "2001",
+        "pais": "US"
+      },
+      {
+        "nombre": "MICRO-FRANCE LIPOSUCTION CANNULAS",
+        "fabricante": "Xomed, Inc.",
+        "k_number": "K992282",
+        "fecha_decision": "1999-09-23",
+        "ano": "1999",
+        "pais": "US"
+      },
+      {
+        "nombre": "PSI-TEC LIPOSUCTION ASPIRATOR",
+        "fabricante": "Byron Medical",
+        "k_number": "K981215",
+        "fecha_decision": "1998-07-01",
+        "ano": "1998",
+        "pais": "US"
+      },
+      {
+        "nombre": "LIPOPLASTY/ LIPOSUCTION ASPIRATION AND TUMESCENT INFUSION CANNULAE AND NEEDLES",
+        "fabricante": "Byron Medical",
+        "k_number": "K981172",
+        "fecha_decision": "1998-06-30",
+        "ano": "1998",
         "pais": "US"
       }
     ],
-    "aumento-labios": [
+    "lipovaser": [
       {
-        "nombre": "Hyaluronic Acid Vaginal Suppository (HA 5 mg); Hyaluronic Acid Vaginal Suppository (HA 10 mg)",
-        "fabricante": "Hudi Pharma Srl",
-        "k_number": "K260007",
-        "fecha_decision": "2026-04-01",
+        "nombre": "neXus Ultrasonic Surgical Aspirator System",
+        "fabricante": "Misonix, LLC",
+        "k_number": "K261448",
+        "fecha_decision": "2026-07-30",
         "ano": "2026",
-        "pais": "IT"
+        "pais": "US"
       },
       {
-        "nombre": "Nitrile Powder-Free Exam Gloves with Hyaluronic Acid, and tested for Use with Chemotherapy Drugs, Opioid Fentanyl Citrate, Simulated Gastric Acid and Xylazine in Fentanyl Citrate",
-        "fabricante": "Basic Medical Technology, Inc.",
-        "k_number": "K250630",
-        "fecha_decision": "2025-05-22",
+        "nombre": "CUSA® Clarity Ultrasonic Surgical Aspirator System",
+        "fabricante": "Integra LifeSciences Corporation",
+        "k_number": "K251162",
+        "fecha_decision": "2025-10-08",
         "ano": "2025",
         "pais": "US"
       },
       {
-        "nombre": "Nitrile Patient Examination Gloves with Hyaluronic Acid Blue Colored and Tested for Use with Chemotherapy Drugs and Fentanyl Citrate, aka Synguard C+ Nitrile Exam Gloves",
-        "fabricante": "Anhui Intco Medical Products Co., Ltd.",
-        "k_number": "K231365",
-        "fecha_decision": "2024-03-01",
+        "nombre": "Ultrasonic Surgical System",
+        "fabricante": "Hunan Handlike Minimally Invasive Surgery Co., Ltd.",
+        "k_number": "K233036",
+        "fecha_decision": "2024-06-18",
         "ano": "2024",
         "pais": "CN"
       },
       {
-        "nombre": "HYALURONIC ACID TOPICAL WOUND CREAM",
-        "fabricante": "Virchow Biotech Pvt, Ltd.",
-        "k_number": "K172747",
-        "fecha_decision": "2018-04-27",
-        "ano": "2018",
+        "nombre": "CUSA Clarity Ultrasonic Surgical Aspirator System",
+        "fabricante": "Integra LifeSciences Corporation",
+        "k_number": "K230427",
+        "fecha_decision": "2023-07-11",
+        "ano": "2023",
+        "pais": "US"
+      },
+      {
+        "nombre": "Ultrasonic Surgical & Electrosurgical Generator",
+        "fabricante": "Surgnova Healthcare Technologies (Zhejiang) Co., Ltd.",
+        "k_number": "K210488",
+        "fecha_decision": "2021-10-25",
+        "ano": "2021",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Ultrasonic Surgical Aspirator System, Model: XD880B",
+        "fabricante": "Smtp Technology Co., Ltd.",
+        "k_number": "K212750",
+        "fecha_decision": "2021-09-27",
+        "ano": "2021",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Ultrasonic Surgical Aspirator System",
+        "fabricante": "Smtp Technology Co., Ltd.",
+        "k_number": "K202299",
+        "fecha_decision": "2021-05-21",
+        "ano": "2021",
+        "pais": "CN"
+      },
+      {
+        "nombre": "CUSA Excel+ Ultrasonic Surgical Aspirator System",
+        "fabricante": "Integra LifeSciences Corporation",
+        "k_number": "K172595",
+        "fecha_decision": "2017-09-28",
+        "ano": "2017",
+        "pais": "US"
+      },
+      {
+        "nombre": "Lotus Series 4 Ultrasonic Surgical System & Accessories",
+        "fabricante": "Sra Developments, Ltd.",
+        "k_number": "K151101",
+        "fecha_decision": "2015-07-17",
+        "ano": "2015",
+        "pais": "GB"
+      },
+      {
+        "nombre": "ULTRASONIC SURGICAL UNIT",
+        "fabricante": "Dong IL Technology , Ltd.",
+        "k_number": "K110881",
+        "fecha_decision": "2011-12-16",
+        "ano": "2011",
         "pais": "US"
       }
-    ],
-    "inductores-colageno": [],
-    "liposuccion-papada": [],
-    "lipovaser": []
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-15T22:26:59Z",
+  "generado": "2026-08-16T17:25:59Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -414,32 +414,6 @@
       {
         "equipo": "LED / fotobiomodulacion",
         "menciones": 2
-      }
-    ],
-    "inductores-colageno": [
-      {
-        "equipo": "Radiesse (CaHA)",
-        "menciones": 24
-      },
-      {
-        "equipo": "Exosomas",
-        "menciones": 13
-      },
-      {
-        "equipo": "PRP",
-        "menciones": 2
-      },
-      {
-        "equipo": "HIFU",
-        "menciones": 1
-      },
-      {
-        "equipo": "Sculptra (PLLA)",
-        "menciones": 1
-      },
-      {
-        "equipo": "PDRN / polinucleotidos",
-        "menciones": 1
       }
     ],
     "liposuccion-papada": [
