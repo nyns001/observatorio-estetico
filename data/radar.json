@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-17T05:32:21Z",
+  "generado": "2026-08-17T17:03:11Z",
   "fuente": "PubMed E-utilities",
   "ventana_reciente": "2025/08/17 a 2026/08/17",
   "ventana_previa": "2024/08/17 a 2025/08/16",
@@ -96,9 +96,9 @@
     {
       "etiqueta": "Bioestimuladores PCL",
       "query": "polycaprolactone AND (collagen OR aesthetic OR skin)",
-      "pubs_ultimos_12m": 230,
+      "pubs_ultimos_12m": 231,
       "pubs_12m_previos": 225,
-      "crecimiento_pct": 2.2,
+      "crecimiento_pct": 2.7,
       "ya_en_observatorio": false
     },
     {
