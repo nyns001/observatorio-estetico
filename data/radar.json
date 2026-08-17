@@ -1,8 +1,8 @@
 {
-  "generado": "2026-08-16T17:42:14Z",
+  "generado": "2026-08-17T05:32:21Z",
   "fuente": "PubMed E-utilities",
-  "ventana_reciente": "2025/08/16 a 2026/08/16",
-  "ventana_previa": "2024/08/16 a 2025/08/15",
+  "ventana_reciente": "2025/08/17 a 2026/08/17",
+  "ventana_previa": "2024/08/17 a 2025/08/16",
   "nota": "Crecimiento de publicaciones ultimos 12 meses vs 12 previos. Candidatos a evaluar, no anadidos automaticamente. La promocion a tratamiento requiere contenido clinico curado.",
   "candidatos": [
     {
@@ -72,9 +72,9 @@
     {
       "etiqueta": "Exosomas en estetica",
       "query": "exosome AND (skin OR aesthetic OR rejuvenation OR alopecia)",
-      "pubs_ultimos_12m": 488,
+      "pubs_ultimos_12m": 487,
       "pubs_12m_previos": 420,
-      "crecimiento_pct": 16.2,
+      "crecimiento_pct": 16.0,
       "ya_en_observatorio": false
     },
     {

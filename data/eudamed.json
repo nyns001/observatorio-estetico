@@ -1,57 +1,57 @@
 {
-  "generado": "2026-08-16T17:43:40Z",
+  "generado": "2026-08-17T05:33:46Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -118,52 +118,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -174,52 +174,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -230,52 +230,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -286,52 +286,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -342,52 +342,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -398,52 +398,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -454,52 +454,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -510,52 +510,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -566,52 +566,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -622,52 +622,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -678,52 +678,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -734,52 +734,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -790,52 +790,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -846,52 +846,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -902,52 +902,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -958,52 +958,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1014,52 +1014,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1070,52 +1070,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1126,52 +1126,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1182,52 +1182,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1238,52 +1238,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1294,52 +1294,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1350,52 +1350,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1406,52 +1406,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1462,52 +1462,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1518,52 +1518,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1574,52 +1574,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1630,52 +1630,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1686,52 +1686,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1742,52 +1742,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1798,52 +1798,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1854,52 +1854,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1910,52 +1910,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1966,52 +1966,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/17"
+          "nombre_comercial": "SmarLumi",
+          "fabricante": "Guangzhou Wondfo Biotech Co., Ltd.",
+          "clase_riesgo": "Clase IVD-GENERAL",
+          "referencia": "WZ54P0001"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTO/15"
+          "nombre_comercial": "E22 Exp",
+          "fabricante": "SONOSCAPE MEDICAL CORP.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "_"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTO/13"
+          "referencia": "Loupe4036"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE LARGE RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
-          "clase_riesgo": "Clase I",
-          "referencia": "WTN/27"
+          "nombre_comercial": "VesSpiral®",
+          "fabricante": "Dongguan TT Medical, Inc.",
+          "clase_riesgo": "Clase III",
+          "referencia": "VSP17526"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/25"
+          "referencia": "Loupe4028"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE SMALL RIGHT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "Reading Glasses",
+          "fabricante": "Wenzhou Hengbo International Trade Co.,Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/23"
+          "referencia": "ELEGANCE VERDE 3"
         },
         {
-          "nombre_comercial": "NEOPRENE WRIST THUMB BRACE MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "KP",
+          "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "WTN/15"
+          "referencia": "Loupe3050"
         },
         {
-          "nombre_comercial": "9 DELTA WRIST BRACE NAVY  MEDIUM LEFT",
-          "fabricante": "Promedics Orthopaedics Limited",
+          "nombre_comercial": "ACETATE FRAME WITH  CLIP ON ",
+          "fabricante": "Jiangxi WTO Eyewear Co.，Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "H/DFPN/15"
+          "referencia": "MB-1671"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
