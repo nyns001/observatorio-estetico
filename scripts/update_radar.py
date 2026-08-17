@@ -16,10 +16,11 @@ import json
 import os
 import sys
 import time
-import urllib.parse
-import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fetch_text, build_url  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -60,14 +61,11 @@ def call(endpoint, params):
         params["email"] = EMAIL
     if API_KEY:
         params["api_key"] = API_KEY
-    url = f"{EUTILS}/{endpoint}?{urllib.parse.urlencode(params)}"
-    for attempt in range(4):
-        try:
-            with urllib.request.urlopen(url, timeout=60) as r:
-                return r.read().decode("utf-8", errors="replace")
-        except Exception as e:  # noqa: BLE001
-            time.sleep(2 ** attempt)
-    raise RuntimeError(f"E-utilities sin respuesta: {params.get('term','')[:50]}")
+    url = build_url(f"{EUTILS}/{endpoint}", params)
+    raw = fetch_text(url)
+    if raw is None:
+        raise RuntimeError(f"E-utilities sin respuesta: {params.get('term','')[:50]}")
+    return raw
 
 
 def throttle():
@@ -79,7 +77,10 @@ def count_range(query, start, end):
     term = f"({query}) AND ({start}[dp] : {end}[dp])"
     raw = call("esearch.fcgi", {"db": "pubmed", "term": term, "retmax": 0, "retmode": "json"})
     throttle()
-    return int(json.loads(raw)["esearchresult"]["count"])
+    try:
+        return int(json.loads(raw)["esearchresult"]["count"])
+    except (KeyError, ValueError, TypeError):
+        return 0
 
 
 def main():

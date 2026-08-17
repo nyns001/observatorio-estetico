@@ -57,6 +57,36 @@ def build_url(base, params):
     return f"{base}?{urllib.parse.urlencode(params)}"
 
 
+def fetch_text(url, *, headers=None, timeout=60, intentos=4):
+    """GET que devuelve texto crudo. Reintenta con espera progresiva.
+
+    Para APIs como E-utilities de NCBI, que devuelven texto plano, XML o JSON
+    segun el endpoint. Devuelve None si agota los intentos.
+    """
+    cabeceras = {"User-Agent": UA}
+    if headers:
+        cabeceras.update(headers)
+
+    for intento in range(intentos):
+        try:
+            req = urllib.request.Request(url, headers=cabeceras)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and intento < intentos - 1:
+                time.sleep(2 ** intento)
+                continue
+            print(f"  HTTP {e.code}: {url[:90]}", file=sys.stderr)
+            return None
+        except Exception as e:  # noqa: BLE001
+            if intento < intentos - 1:
+                time.sleep(2 ** intento)
+                continue
+            print(f"  sin respuesta: {e}", file=sys.stderr)
+            return None
+    return None
+
+
 def leer_json(nombre, por_defecto=None):
     ruta = DATA / nombre
     if not ruta.exists():

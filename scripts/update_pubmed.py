@@ -13,11 +13,12 @@ import os
 import re
 import sys
 import time
-import urllib.parse
-import urllib.request
 from collections import Counter
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import fetch_text, build_url  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -82,16 +83,11 @@ def call(endpoint: str, params: dict) -> str:
         params["email"] = EMAIL
     if API_KEY:
         params["api_key"] = API_KEY
-    url = f"{EUTILS}/{endpoint}?{urllib.parse.urlencode(params)}"
-    for attempt in range(4):
-        try:
-            with urllib.request.urlopen(url, timeout=60) as response:
-                return response.read().decode("utf-8", errors="replace")
-        except Exception as error:  # noqa: BLE001
-            wait = 2 ** attempt
-            print(f"  reintento {attempt + 1} en {wait}s ({error})", file=sys.stderr)
-            time.sleep(wait)
-    raise RuntimeError(f"E-utilities no respondio: {endpoint} {params.get('term', '')[:60]}")
+    url = build_url(f"{EUTILS}/{endpoint}", params)
+    raw = fetch_text(url)
+    if raw is None:
+        raise RuntimeError(f"E-utilities no respondio: {endpoint} {params.get('term', '')[:60]}")
+    return raw
 
 
 def throttle() -> None:

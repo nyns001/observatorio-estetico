@@ -30,7 +30,6 @@ from common import fetch_json, build_url  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 BASE = "https://ec.europa.eu/tools/eudamed/api/devices/udiDiData"
-UA = "Mozilla/5.0 (compatible; observatorio-estetico/1.0)"
 
 
 def buscar(termino, limite=8):
