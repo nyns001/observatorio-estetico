@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "version": "0.1.0-plantilla",
+    "descripcion": "Datos de mercado del radar. Se rellena con los scripts del Bloque 2 (news, competidores, fabricantes). Mientras esté vacío, el dashboard usa datos de ejemplo internos.",
+    "fuentes_previstas": ["NewsData.io", "EUDAMED", "Crossref/OpenAlex", "curado manual"]
+  },
+  "tecnologias": { "candidatos": [] },
+  "fabricantes": [],
+  "geografia_poblacion": [],
+  "geografia_maquinaria": [],
+  "madrid": { "tratamientos": [], "clinicas": [] },
+  "barcelona": { "emergentes": [], "influencers": [], "noticias": [] }
+}

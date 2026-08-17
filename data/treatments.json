@@ -61,7 +61,9 @@
           "Marcar los puntos con el paciente en gesto activo, porque la anatomia muscular en reposo no refleja donde actua realmente el musculo",
           "Mantener la cabeza erguida las horas posteriores, porque tumbarse o presionar la zona puede desplazar el producto antes de que se fije"
         ],
-        "equipo_diagnostico": []
+        "equipo_diagnostico": [],
+        "capa_objetivo": "musculo",
+        "profundidad_desc": "La toxina botulínica se infiltra en el músculo diana para relajarlo."
       }
     },
     {
@@ -134,7 +136,9 @@
             "zona": "Surco nasogeniano y sien",
             "recomendacion": "HRUS para mapear la arteria facial y sus ramas antes de tratar"
           }
-        ]
+        ],
+        "capa_objetivo": "dermis",
+        "profundidad_desc": "El ácido hialurónico se deposita en dermis profunda o plano subcutáneo según la zona."
       }
     },
     {
@@ -193,7 +197,9 @@
           "Evitar tension excesiva al fijar, porque tensar de mas genera hoyuelos y pliegues antinaturales",
           "Explicar al paciente los signos de alarma (dolor intenso, asimetria, fiebre), porque permite detectar a tiempo una infeccion o una mala colocacion"
         ],
-        "equipo_diagnostico": []
+        "equipo_diagnostico": [],
+        "capa_objetivo": "dermis",
+        "profundidad_desc": "Los hilos PDO se colocan en dermis profunda / hipodermis para sostén y estímulo."
       }
     },
     {
@@ -388,7 +394,9 @@
             "zona": "Sien y periorbitaria",
             "recomendacion": "HRUS recomendado antes de tratar por la proximidad de vasos superficiales"
           }
-        ]
+        ],
+        "capa_objetivo": "hipodermis",
+        "profundidad_desc": "Los bioestimuladores se depositan en plano subcutáneo (hipodermis)."
       }
     },
     {
@@ -615,7 +623,9 @@
             "zona": "Dorso y punta nasal",
             "recomendacion": "Ecografo Doppler color de alta resolucion (18-24 MHz) obligatorio como buena practica dado el riesgo de la zona"
           }
-        ]
+        ],
+        "capa_objetivo": "dermis",
+        "profundidad_desc": "En rinomodelación el producto va en plano profundo, supraperióstico; máxima precaución vascular."
       }
     },
     {
@@ -678,7 +688,9 @@
             "zona": "Labios",
             "recomendacion": "HRUS no es rutina en labios salvo antecedentes de cirugia o relleno previo con producto desconocido"
           }
-        ]
+        ],
+        "capa_objetivo": "dermis",
+        "profundidad_desc": "El relleno labial se deposita en dermis/submucosa del labio."
       }
     },
     {
