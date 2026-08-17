@@ -214,13 +214,57 @@ a{color:inherit}
 .paper a:hover{text-decoration:underline}
 .paper p{margin:6px 0 0; font-family:'Inter',sans-serif; font-size:11px; font-weight:500; font-variant-numeric:tabular-nums; color:var(--ink-3)}
 
-/* ---------- radar ---------- */
+/* ---------- skin diagram ---------- */
+.skin-svg{display:block; width:100%; max-width:340px; margin:6px auto 0; height:auto}
+.skin-cap{text-align:center; font-size:12px; color:var(--ink-2); margin:8px 0 2px; padding:0 20px}
+
+/* ---------- view switch ---------- */
+.viewswitch{display:inline-flex; gap:4px; background:var(--card-2); padding:4px; border-radius:var(--r-pill)}
+.viewswitch button{
+  border:0; background:transparent; font:inherit; font-size:13px; font-weight:600;
+  color:var(--ink-2); padding:8px 18px; border-radius:var(--r-pill); cursor:pointer;
+  transition:background .15s, color .15s;
+}
+.viewswitch button[aria-selected="true"]{background:var(--ink); color:#fff}
+.viewswitch button:focus-visible{outline:2px solid var(--ink); outline-offset:2px}
+
+/* ---------- radar view ---------- */
+.rk-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:var(--gap)}
+.rk-card{background:var(--card); border-radius:var(--r-lg); padding:20px; box-shadow:var(--shadow)}
+.rk-card h4{font-size:15px; font-weight:600; letter-spacing:-.02em; margin-bottom:3px}
+.rk-card .rk-sub{font-size:12px; color:var(--ink-3); margin-bottom:14px}
+.rk-item{display:flex; align-items:center; gap:12px; padding:11px 0; border-top:1px solid var(--line-2)}
+.rk-item:first-of-type{border-top:0}
+.rk-rank{flex:0 0 22px; font-size:12px; font-weight:700; color:var(--ink-3); font-variant-numeric:tabular-nums}
+.rk-name{flex:1; font-size:13.5px; min-width:0}
+.rk-name small{display:block; color:var(--ink-3); font-size:11.5px; font-weight:400; margin-top:1px}
+.rk-val{flex:0 0 auto; font-size:12px; font-weight:600; font-variant-numeric:tabular-nums}
+.rk-val.up{color:#2E9E63} .rk-val.down{color:var(--signal)}
+.rk-flag{font-size:15px; flex:0 0 auto}
+.rk-pill{display:inline-block; font-size:10.5px; font-weight:600; padding:3px 9px; border-radius:var(--r-pill); background:var(--card-2); color:var(--ink-2); margin-left:6px}
+.rk-pill.hot{background:var(--signal); color:#fff}
+.rk-pill.soon{background:var(--lime); color:var(--ink)}
+.rk-news{padding:13px 0; border-top:1px solid var(--line-2)}
+.rk-news:first-of-type{border-top:0}
+.rk-news .rk-h{font-size:13.5px; font-weight:500; line-height:1.4}
+.rk-news .rk-h a{color:var(--ink); text-decoration:none; border-bottom:1px solid var(--line); transition:border-color .15s}
+.rk-news .rk-h a:hover{border-color:var(--ink)}
+.rk-news .rk-m{font-size:11.5px; color:var(--ink-3); margin-top:4px; display:flex; gap:8px; flex-wrap:wrap}
+.rk-hero{grid-column:1/-1; background:linear-gradient(120% 100% at 20% 10%,var(--card) 0%,var(--card-2) 100%); border-radius:var(--r-lg); padding:22px 24px; box-shadow:var(--shadow)}
+.rk-hero h3{font-size:18px; font-weight:600; letter-spacing:-.03em}
+.rk-hero p{font-size:13px; color:var(--ink-2); margin-top:6px; max-width:70ch; line-height:1.55}
 .radar-row{display:flex; align-items:center; gap:16px; padding:13px 26px; border-top:1px solid var(--line-2)}
 .radar-row:first-of-type{border-top:0}
 .radar-g{flex:0 0 74px; text-align:right; font-family:'Inter',sans-serif; font-size:13px; font-weight:600; font-variant-numeric:tabular-nums}
 .radar-g.up{color:#2E9E63} .radar-g.down{color:var(--ink-3)}
 .radar-n{flex:1; font-size:13.5px; min-width:0}
 .radar-c{flex:0 0 96px; font-family:'Inter',sans-serif; font-size:11px; font-weight:500; font-variant-numeric:tabular-nums; color:var(--ink-3); text-align:right}
+.radar-row{cursor:pointer}
+.radar-row.open{background:var(--card-2)}
+.radar-src{padding:0 26px 14px; font-size:12px; color:var(--ink-2); line-height:1.6; display:none}
+.radar-src.show{display:block}
+.radar-src code{font-size:11px; background:var(--card-2); padding:2px 6px; border-radius:6px; color:var(--ink); word-break:break-word}
+.radar-src .src-line{margin-top:6px}
 
 /* ---------- related ---------- */
 .rel{display:flex; flex-wrap:wrap; gap:8px; padding:20px 26px 24px}
@@ -253,6 +297,10 @@ a{color:inherit}
 
   <header class="topbar">
     <div class="brand"><b>Observatorio</b><span>medicina estética</span></div>
+    <div class="viewswitch" id="viewswitch" role="tablist" aria-label="Vista">
+      <button data-view="observatorio" aria-selected="true" role="tab">Observatorio</button>
+      <button data-view="radar" aria-selected="false" role="tab">Radar</button>
+    </div>
     <div class="sources">
       <div class="src"><span class="eyebrow">PubMed</span><span class="src-v"><i class="dot off"></i><em id="st-pubmed" style="font-style:normal">—</em></span></div>
       <div class="src"><span class="eyebrow">Google Trends</span><span class="src-v"><i class="dot off"></i><em id="st-trends" style="font-style:normal">—</em></span></div>
@@ -262,6 +310,7 @@ a{color:inherit}
     </div>
   </header>
 
+  <div id="view-observatorio">
   <div class="controls">
     <div class="seg" id="filters" role="group" aria-label="Filtrar por categoría">
       <button data-cat="todos" aria-pressed="true">Todos</button>
@@ -277,6 +326,19 @@ a{color:inherit}
     <nav class="rail" id="rail" aria-label="Tratamientos"></nav>
     <main class="panel" id="panel"></main>
   </div>
+  </div>
+
+  <div id="view-radar" style="display:none">
+    <div class="controls">
+      <div class="seg" id="radar-tabs" role="group" aria-label="Sección del radar">
+        <button data-rtab="tecnologias" aria-pressed="true">Tecnologías emergentes</button>
+        <button data-rtab="europa" aria-pressed="false">Tendencias en Europa</button>
+        <button data-rtab="madrid" aria-pressed="false">Mercado España · Madrid</button>
+        <button data-rtab="local" aria-pressed="false">Local · Barcelona</button>
+      </div>
+    </div>
+    <main class="panel" id="radar-panel"></main>
+  </div>
 
 </div>
 
@@ -286,8 +348,9 @@ a{color:inherit}
    ============================================================ */
 const S = {
   treatments: [], trends: null, gtrends: null, devices: null,
-  mentions: null, eudamed: null, radar: null,
-  cat: 'todos', q: '', geo: 'ES', current: null, cache: {}
+  mentions: null, eudamed: null, radar: null, radarmkt: null,
+  cat: 'todos', q: '', geo: 'ES', current: null, cache: {},
+  rtab: 'tecnologias', radarRendered: false
 };
 
 const $ = s => document.querySelector(s);
@@ -365,11 +428,15 @@ async function boot(){
   }
   S.treatments = cat.tratamientos;
 
-  [S.trends, S.gtrends, S.devices, S.mentions, S.eudamed, S.radar] = await Promise.all([
+  [S.trends, S.gtrends, S.devices, S.mentions, S.eudamed, S.radar, S.radarmkt] = await Promise.all([
     loadJSON('data/pubmed_trends.json'), loadJSON('data/google_trends.json'),
     loadJSON('data/devices.json'), loadJSON('data/device_mentions.json'),
-    loadJSON('data/eudamed.json'), loadJSON('data/radar.json')
+    loadJSON('data/eudamed.json'), loadJSON('data/radar.json'), loadJSON('data/radar_market.json')
   ]);
+  // radar_market solo se usa si trae datos reales; si es la plantilla vacía, se usa el demo
+  if(S.radarmkt && !(S.radarmkt.madrid?.tratamientos?.length || S.radarmkt.fabricantes?.length)){
+    S.radarmkt = null;
+  }
 
   stamp('#st-pubmed', S.trends); stamp('#st-trends', S.gtrends);
   stamp('#st-fda', S.devices); stamp('#st-ce', S.eudamed); stamp('#st-radar', S.radar);
@@ -389,6 +456,24 @@ async function boot(){
   });
   $('#q').addEventListener('input', e => { S.q = e.target.value.toLowerCase().trim(); renderRail(); });
 
+  // Conmutador de vistas Observatorio / Radar
+  $('#viewswitch').addEventListener('click', e => {
+    const b = e.target.closest('button[data-view]'); if(!b) return;
+    const view = b.dataset.view;
+    [...$('#viewswitch').children].forEach(x => x.setAttribute('aria-selected', String(x === b)));
+    $('#view-observatorio').style.display = view === 'observatorio' ? '' : 'none';
+    $('#view-radar').style.display = view === 'radar' ? '' : 'none';
+    if(view === 'radar' && !S.radarRendered){ renderRadar(S.rtab); S.radarRendered = true; }
+  });
+
+  // Pestañas dentro del Radar
+  $('#radar-tabs').addEventListener('click', e => {
+    const b = e.target.closest('button[data-rtab]'); if(!b) return;
+    S.rtab = b.dataset.rtab;
+    [...$('#radar-tabs').children].forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+    renderRadar(S.rtab);
+  });
+
   renderRail();
   select(S.treatments[0].id);
 }
@@ -407,6 +492,267 @@ function visible(){
 
 function serie(id){ return S.trends?.series?.[id] || null; }
 
+/* ============================================================
+   Diagrama SVG de capas de piel — dibujado con la paleta de la
+   plataforma, sin imágenes externas. La profundidad de la aguja
+   y la etiqueta cambian según 'capa_objetivo' del tratamiento.
+   ============================================================ */
+const CAPAS = {
+  epidermis: {y: 44,  label: 'Epidermis'},
+  dermis:    {y: 92,  label: 'Dermis'},
+  hipodermis:{y: 150, label: 'Hipodermis (grasa)'},
+  musculo:   {y: 210, label: 'Músculo'}
+};
+function skinDiagram(objetivo, etiqueta){
+  const target = CAPAS[objetivo] || CAPAS.dermis;
+  const needleTipY = target.y + 6;
+  return `
+  <svg class="skin-svg" viewBox="0 0 340 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${esc(etiqueta || 'Profundidad del tratamiento')}">
+    <defs>
+      <linearGradient id="gEpi" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7E2D4"/><stop offset="1" stop-color="#F1D2BF"/></linearGradient>
+      <linearGradient id="gDer" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ECC3B0"/><stop offset="1" stop-color="#E3B49E"/></linearGradient>
+      <linearGradient id="gHip" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F6E9AC"/><stop offset="1" stop-color="#EFDC8E"/></linearGradient>
+      <linearGradient id="gMus" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CC8079"/><stop offset="1" stop-color="#BE6E67"/></linearGradient>
+    </defs>
+    <rect x="14" y="28" width="240" height="34" rx="7" fill="url(#gEpi)"/>
+    <rect x="14" y="64" width="240" height="58" rx="7" fill="url(#gDer)"/>
+    <rect x="14" y="124" width="240" height="60" rx="7" fill="url(#gHip)"/>
+    <rect x="14" y="186" width="240" height="40" rx="7" fill="url(#gMus)"/>
+    ${Object.entries(CAPAS).map(([k,v]) => `<text x="264" y="${v.y}" font-family="Inter,sans-serif" font-size="10.5" font-weight="${k===objetivo?'700':'400'}" fill="${k===objetivo?'#14171A':'#9AA09C'}">${v.label}</text>`).join('')}
+    <!-- aguja -->
+    <line x1="70" y1="6" x2="120" y2="${needleTipY}" stroke="#9AA09C" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="64" y1="2" x2="78" y2="14" stroke="#5C6360" stroke-width="4" stroke-linecap="round"/>
+    <!-- punto de depósito con halo lima -->
+    <circle cx="120" cy="${needleTipY}" r="11" fill="#D8FA4B" opacity="0.35"/>
+    <circle cx="120" cy="${needleTipY}" r="4.5" fill="#D8FA4B" stroke="#14171A" stroke-width="1"/>
+  </svg>
+  ${etiqueta ? `<p class="skin-cap">${esc(etiqueta)}</p>` : ''}`;
+}
+
+/* ============================================================
+   VISTA RADAR — 4 pestañas de inteligencia de mercado.
+   Lee S.radar (tecnologías, de PubMed) y S.radarmkt (mercado/local,
+   de las fuentes del Bloque 2). Con datos de ejemplo hasta conectar APIs.
+   ============================================================ */
+const FLAG = {alemania:'🇩🇪',francia:'🇫🇷',reino_unido:'🇬🇧',italia:'🇮🇹',espana:'🇪🇸','españa':'🇪🇸',grecia:'🇬🇷',usa:'🇺🇸',israel:'🇮🇱',suiza:'🇨🇭',eslovenia:'🇸🇮',suecia:'🇸🇪'};
+
+const RADAR_DEMO = {
+  tecnologias: { candidatos: [
+    {etiqueta:'Bioregeneración con PDRN', query:'PDRN AND (skin OR aesthetic)', pubs_ultimos_12m:68, pubs_12m_previos:42, crecimiento_pct:61.9, ya_en_observatorio:false},
+    {etiqueta:'Exosomas en estética', query:'exosome AND (skin OR rejuvenation)', pubs_ultimos_12m:95, pubs_12m_previos:70, crecimiento_pct:35.7, ya_en_observatorio:false},
+    {etiqueta:'Endolift / láser endodérmico', query:'endolift OR endolaser', pubs_ultimos_12m:23, pubs_12m_previos:16, crecimiento_pct:43.8, ya_en_observatorio:true},
+  ]},
+  fabricantes: [
+    {categoria:'Láseres', lista:[
+      {nombre:'DEKA M.E.L.A.', pais:'Italia', pais_key:'italia', nota:'CO2 fraccional, diodo'},
+      {nombre:'Eufoton', pais:'Italia', pais_key:'italia', nota:'Endodérmicos (Endolift)'},
+      {nombre:'Lumenis', pais:'Israel', pais_key:'israel', nota:'Multimodal'},
+      {nombre:'Cynosure', pais:'EE.UU.', pais_key:'usa', nota:'PicoSure'},
+    ]},
+    {categoria:'Radiofrecuencia y ultrasonido', lista:[
+      {nombre:'InMode', pais:'Israel', pais_key:'israel', nota:'Morpheus8'},
+      {nombre:'Merz / Ultherapy', pais:'Alemania', pais_key:'alemania', nota:'HIFU'},
+      {nombre:'Alma Lasers', pais:'Israel', pais_key:'israel', nota:'Plataformas RF'},
+    ]},
+    {categoria:'Inyectables', lista:[
+      {nombre:'Allergan (Botox)', pais:'EE.UU.', pais_key:'usa', nota:'Toxina botulínica'},
+      {nombre:'Galderma (Restylane)', pais:'Suecia', pais_key:'suecia', nota:'Ácido hialurónico'},
+      {nombre:'Merz (Xeomin)', pais:'Alemania', pais_key:'alemania', nota:'Toxina botulínica'},
+    ]},
+  ],
+  geografia_poblacion: [
+    {nombre:'Alemania', key:'alemania', valor:13.5, up:true, detalle:'Mercado maduro, mayor CAGR'},
+    {nombre:'Francia', key:'francia', valor:8.0, up:true, detalle:'32% del mercado europeo'},
+    {nombre:'Reino Unido', key:'reino_unido', valor:8.0, up:true, detalle:'Londres y Manchester 40%'},
+    {nombre:'Italia', key:'italia', valor:8.0, up:true, detalle:'Fuerte en estética'},
+    {nombre:'España', key:'espana', valor:16.4, up:true, detalle:'CAGR más alto de Europa'},
+    {nombre:'Grecia', key:'grecia', valor:11.0, up:true, detalle:'Emergente, turismo médico'},
+  ],
+  geografia_maquinaria: [
+    {nombre:'Alemania', key:'alemania', valor:'Distribución', detalle:'Hub europeo, 22% ingresos'},
+    {nombre:'Francia', key:'francia', valor:'Mixto', detalle:'Fabricación + distribución'},
+    {nombre:'Reino Unido', key:'reino_unido', valor:'Distribución', detalle:'Mercado secundario'},
+    {nombre:'Italia', key:'italia', valor:'Fabricación', detalle:'Láseres: DEKA, Eufoton'},
+    {nombre:'España', key:'espana', valor:'Emergente', detalle:'Poca fabricación local'},
+  ],
+  madrid: {
+    tratamientos: [
+      {nombre:'Toxina botulínica', tendencia:12, nota:'Base del mercado'},
+      {nombre:'Ácido hialurónico', tendencia:22, nota:'Alta demanda'},
+      {nombre:'Bioestimuladores', tendencia:34, nota:'Crecimiento fuerte'},
+      {nombre:'HIFU', tendencia:28, nota:'No invasivo, en alza'},
+    ],
+    clinicas: [
+      {nombre:'Grupo Pedro Jaén', ciudad:'Madrid', foco:'Dermatología integral'},
+      {nombre:'Clínicas Esquivel', ciudad:'Madrid', foco:'Medicina estética'},
+      {nombre:'Clínicas Diego de León', ciudad:'Madrid', foco:'Estética avanzada'},
+    ],
+  },
+  barcelona: {
+    emergentes: [
+      {nombre:'Polinucleótidos (PDRN)', fase:'Adopción temprana', senal:'alta'},
+      {nombre:'Exosomas', fase:'Experimental', senal:'media'},
+      {nombre:'Skinboosters', fase:'Creciendo', senal:'alta'},
+    ],
+    influencers: [
+      {tema:'Skinbooster / piel cristal', canal:'Instagram', alcance:'alto'},
+      {tema:'Bioestimulación', canal:'TikTok', alcance:'medio'},
+    ],
+    noticias: [
+      {titulo:'Auge de los tratamientos regenerativos en clínicas de Barcelona', fuente:'La Vanguardia', fecha:'2026-08', url:'https://www.lavanguardia.com', tags:['regenerativo','PDRN']},
+      {titulo:'Instituto Rubí incorpora nueva plataforma de bioestimulación', fuente:'Nota de prensa', fecha:'2026-07', url:'https://institutorubi.com', tags:['equipo nuevo']},
+    ],
+  },
+};
+
+function renderRadar(tab){
+  const panel = $('#radar-panel');
+  const m = S.radarmkt || RADAR_DEMO;
+  if(tab === 'tecnologias') panel.innerHTML = radarTecnologias(m);
+  else if(tab === 'europa') panel.innerHTML = radarEuropa(m);
+  else if(tab === 'madrid') panel.innerHTML = radarMadrid(m);
+  else if(tab === 'local') panel.innerHTML = radarLocal(m);
+
+  // fuentes desplegables (reusa el patrón del radar de ficha)
+  panel.querySelectorAll('[data-radar]').forEach(row => row.addEventListener('click', () => {
+    const i = row.dataset.radar;
+    const src = panel.querySelector(`[data-radar-src="${i}"]`);
+    if(src){ src.classList.toggle('show'); row.classList.toggle('open'); }
+  }));
+}
+
+function radarTecnologias(m){
+  const cands = S.radar?.candidatos?.slice(0,10) || m.tecnologias.candidatos;
+  const fabricantes = m.fabricantes;
+  return `
+    <div class="rk-hero">
+      <h3>Tecnologías emergentes</h3>
+      <p>Maquinaria, equipos y tratamientos con mayor crecimiento en la literatura científica y en los registros regulatorios. Señal académica (PubMed, Crossref, OpenAlex) combinada con novedades en EUDAMED.</p>
+    </div>
+    <div class="rk-grid" style="margin-top:var(--gap)">
+      <div class="rk-card" style="grid-column:1/-1">
+        <h4>Candidatos por crecimiento de publicaciones</h4>
+        <div class="rk-sub">Últimos 12 meses vs 12 previos · toca para ver la fuente</div>
+        ${cands.map((c,i) => `
+          <div class="rk-item" data-radar="${i}" style="cursor:pointer">
+            <span class="rk-rank">${i+1}</span>
+            <span class="rk-name">${esc(c.etiqueta)}${c.ya_en_observatorio ? '<span class="rk-pill">en catálogo</span>' : '<span class="rk-pill soon">candidato</span>'}</span>
+            <span class="rk-val ${c.crecimiento_pct>=0?'up':'down'}">${c.crecimiento_pct>=0?'+':''}${c.crecimiento_pct}%</span>
+          </div>
+          <div class="radar-src" data-radar-src="${i}">
+            <div class="src-line"><b>Consulta PubMed:</b> <code>${esc(c.query||'—')}</code></div>
+            <div class="src-line"><b>Cálculo:</b> ${c.pubs_12m_previos}→${c.pubs_ultimos_12m} publicaciones = ${c.crecimiento_pct>=0?'+':''}${c.crecimiento_pct}%</div>
+          </div>`).join('')}
+      </div>
+      ${fabricantes.map(cat => `
+        <div class="rk-card">
+          <h4>${esc(cat.categoria)}</h4>
+          <div class="rk-sub">Fabricantes líderes por país</div>
+          ${cat.lista.map((f,i) => `
+            <div class="rk-item">
+              <span class="rk-rank">${i+1}</span>
+              <span class="rk-flag">${FLAG[f.pais_key]||''}</span>
+              <span class="rk-name">${esc(f.nombre)}<small>${esc(f.pais)} · ${esc(f.nota||'')}</small></span>
+            </div>`).join('')}
+        </div>`).join('')}
+    </div>`;
+}
+
+function radarEuropa(m){
+  const pob = m.geografia_poblacion, maq = m.geografia_maquinaria;
+  const ranking = (titulo, sub, arr, campo, unidad) => `
+    <div class="rk-card">
+      <h4>${titulo}</h4>
+      <div class="rk-sub">${sub}</div>
+      ${arr.map((p,i) => `
+        <div class="rk-item">
+          <span class="rk-rank">${i+1}</span>
+          <span class="rk-flag">${FLAG[p.key]||''}</span>
+          <span class="rk-name">${esc(p.nombre)}<small>${esc(p.detalle||'')}</small></span>
+          <span class="rk-val ${p.up?'up':''}">${p[campo]}${unidad}</span>
+        </div>`).join('')}
+    </div>`;
+  return `
+    <div class="rk-hero">
+      <h3>Tendencias emergentes en Europa</h3>
+      <p>Dos lecturas distintas: dónde <b>invierte la población</b> en tratamientos (demanda de pacientes) y dónde se concentra la <b>inversión en maquinaria</b> (fabricación y distribución). Lo que despega en Alemania, Francia o Italia suele anticipar lo que llegará a España.</p>
+    </div>
+    <div class="rk-grid" style="margin-top:var(--gap)">
+      ${ranking('Inversión de la población', 'Gasto y demanda de pacientes · crecimiento anual', pob, 'valor', '%')}
+      ${ranking('Inversión en maquinaria', 'Fabricación y distribución de equipos', maq, 'valor', '')}
+    </div>`;
+}
+
+function radarMadrid(m){
+  const d = m.madrid;
+  return `
+    <div class="rk-hero">
+      <h3>Mercado en España · Madrid</h3>
+      <p>Mercado consolidado: los tratamientos que <b>más se realizan</b> en las clínicas de referencia de Madrid. Responde a "qué funciona ya" para decidir qué incorporar con demanda probada.</p>
+    </div>
+    <div class="rk-grid" style="margin-top:var(--gap)">
+      <div class="rk-card" style="grid-column:1/-1">
+        <h4>Tratamientos más realizados en Madrid</h4>
+        <div class="rk-sub">Volumen estimado · clínicas de referencia</div>
+        ${d.tratamientos.map((t,i) => `
+          <div class="rk-item">
+            <span class="rk-rank">${i+1}</span>
+            <span class="rk-name">${esc(t.nombre)}<small>${esc(t.nota||'')}</small></span>
+            <span class="rk-val ${t.tendencia>=0?'up':'down'}">${t.tendencia>=0?'+':''}${t.tendencia}%</span>
+          </div>`).join('')}
+      </div>
+      <div class="rk-card" style="grid-column:1/-1">
+        <h4>Clínicas monitorizadas</h4>
+        <div class="rk-sub">Fuente de señal de mercado en Madrid</div>
+        ${d.clinicas.map(c => `
+          <div class="rk-item">
+            <span class="rk-name">${esc(c.nombre)}<small>${esc(c.ciudad)}</small></span>
+            <span class="rk-val">${esc(c.foco||'')}</span>
+          </div>`).join('')}
+      </div>
+    </div>`;
+}
+
+function radarLocal(m){
+  const d = m.barcelona;
+  return `
+    <div class="rk-hero">
+      <h3>Tendencias locales · Barcelona</h3>
+      <p>Señal temprana: qué está <b>emergiendo</b> antes de ser masivo. Monitorizamos clínicas early-adopter, influencers y redes en Barcelona. Responde a "qué viene" para posicionarte antes que la competencia.</p>
+    </div>
+    <div class="rk-grid" style="margin-top:var(--gap)">
+      <div class="rk-card">
+        <h4>Emergente en Barcelona</h4>
+        <div class="rk-sub">Procedimientos en fase de adopción temprana</div>
+        ${d.emergentes.map((t,i) => `
+          <div class="rk-item">
+            <span class="rk-rank">${i+1}</span>
+            <span class="rk-name">${esc(t.nombre)}<small>${esc(t.fase||'')}</small></span>
+            <span class="rk-val up">${esc(t.senal||'')}</span>
+          </div>`).join('')}
+      </div>
+      <div class="rk-card">
+        <h4>Influencers y divulgación</h4>
+        <div class="rk-sub">Menciones que anticipan demanda</div>
+        ${d.influencers.map(inf => `
+          <div class="rk-item">
+            <span class="rk-name">${esc(inf.tema)}<small>${esc(inf.canal||'')}</small></span>
+            <span class="rk-val">${esc(inf.alcance||'')}</span>
+          </div>`).join('')}
+      </div>
+      <div class="rk-card" style="grid-column:1/-1">
+        <h4>Últimas señales detectadas</h4>
+        <div class="rk-sub">Noticias y publicaciones recientes</div>
+        ${d.noticias.map(n => `
+          <div class="rk-news">
+            <div class="rk-h">${n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.titulo)} ↗</a>` : esc(n.titulo)}</div>
+            <div class="rk-m"><span>${esc(n.fuente)}</span><span>·</span><span>${esc(n.fecha)}</span>${n.tags?n.tags.map(t=>`<span class="rk-pill">${esc(t)}</span>`).join(''):''}</div>
+          </div>`).join('')}
+      </div>
+    </div>`;
+}
+
+
 function renderRail(){
   const list = visible();
   const rail = $('#rail');
@@ -416,7 +762,7 @@ function renderRail(){
   }
   rail.innerHTML = list.map(t => {
     const s = serie(t.id);
-    const vals = s?.por_ano ? Object.values(s.por_ano) : [];
+    const vals = s?.conteos || [];
     const max = Math.max(...vals, 1);
     const spark = vals.length
       ? `<div class="spark">${vals.map(v => `<i style="height:${Math.max(8, v/max*100)}%"></i>`).join('')}</div>`
@@ -441,8 +787,8 @@ function select(id){
   if(!t) return;
 
   const s = serie(id);
-  const anos = s?.por_ano ? Object.keys(s.por_ano) : [];
-  const vals = s?.por_ano ? Object.values(s.por_ano) : [];
+  const anos = S.trends?.anos || [];
+  const vals = s?.conteos || [];
   const max = Math.max(...vals, 1);
   const delta = s?.delta_3a ?? null;
 
@@ -515,6 +861,7 @@ function select(id){
     <div class="risk">
       <span class="risk-b risk-${esc(iny.riesgo.nivel)}">riesgo ${esc(iny.riesgo.nivel)}</span>
     </div>
+    ${skinDiagram(iny.capa_objetivo || 'dermis', iny.profundidad_desc || `${esc(t.nombre)} actúa en: ${(CAPAS[iny.capa_objetivo]||CAPAS.dermis).label.toLowerCase()}`)}
     <p class="note" style="padding-top:6px">${esc(iny.riesgo.resumen)}</p>
     ${iny.riesgo.zonas_alto_riesgo_vascular?.length ? `<div class="pad" style="padding-top:0">
       <span class="eyebrow">Zonas de especial riesgo vascular</span>
@@ -525,14 +872,6 @@ function select(id){
     ${iny.equipo_diagnostico?.length ? `<div class="pad" style="padding:4px 26px 4px"><span class="eyebrow">Diagnóstico por imagen previo, por zona</span></div>
       ${iny.equipo_diagnostico.map(e => `<div class="row"><div><div class="row-n">${esc(e.zona)}</div><div class="row-s">${esc(e.recomendacion)}</div></div></div>`).join('')}` : ''}
   ` : '';
-
-  const radarHtml = S.radar?.candidatos?.length
-    ? S.radar.candidatos.slice(0,8).map(c => `<div class="radar-row">
-        <span class="radar-g ${c.crecimiento_pct >= 0 ? 'up' : 'down'}">${c.crecimiento_pct >= 0 ? '+' : ''}${c.crecimiento_pct}%</span>
-        <span class="radar-n">${esc(c.etiqueta)}</span>
-        <span class="radar-c">${c.pubs_12m_previos}→${c.pubs_ultimos_12m}</span>
-      </div>`).join('')
-    : `<div class="empty">Sin lectura de radar todavía.</div>`;
 
   const rel = (t.complementarios || []).map(rid => {
     const r = S.treatments.find(x => x.id === rid);
@@ -556,21 +895,16 @@ function select(id){
       ${tiles}
     </section>
 
-    <section class="card">
-      <div class="card-head"><h3>Banda de evidencia</h3><span class="eyebrow">PubMed · E-utilities</span></div>
-      ${band}
-    </section>
-
-    <section class="card">
-      <div class="card-head"><h3>Publicaciones recientes</h3><span class="eyebrow" id="live">consultando…</span></div>
-      <div id="papers"><div class="pad"><div class="skel" style="width:78%"></div><div class="skel" style="width:56%"></div><div class="skel" style="width:66%"></div></div></div>
-    </section>
-
     ${inyHtml ? `<section class="card">
       <div class="card-head"><h3>Perfil inyectable</h3><span class="eyebrow">Riesgo y práctica clínica</span></div>
       ${inyHtml}
       <p class="note">Contenido clínico curado, orientativo. Pendiente de revisión y firma por un médico colegiado antes de uso clínico.</p>
     </section>` : ''}
+
+    <section class="card">
+      <div class="card-head"><h3>Banda de evidencia</h3><span class="eyebrow">PubMed · E-utilities</span></div>
+      ${band}
+    </section>
 
     <section class="card">
       <div class="card-head"><h3>Aprobación en la Unión Europea</h3><span class="eyebrow">EUDAMED · marcado CE</span></div>
@@ -584,11 +918,10 @@ function select(id){
       <p class="note">El registro 510(k) es estadounidense: sirve como índice técnico de equipos y fabricantes, no refleja disponibilidad ni marcado CE en Europa.</p>
     </section>`}
 
-    <section class="card">
-      <div class="card-head"><h3>Interés de búsqueda</h3><span class="eyebrow">Google Trends · 5 años</span></div>
-      ${geoBlock}
-      <p class="note">Escala relativa de 0 a 100 dentro de cada país. No es comparable en valor absoluto entre países.</p>
-    </section>
+    ${rel ? `<section class="card">
+      <div class="card-head"><h3>Se combina con</h3></div>
+      <div class="rel">${rel}</div>
+    </section>` : ''}
 
     <section class="card">
       <div class="card-head"><h3>Protocolo clínico</h3><span class="eyebrow">Contenido curado</span></div>
@@ -600,15 +933,15 @@ function select(id){
     </section>
 
     <section class="card">
-      <div class="card-head"><h3>Radar de tecnologías emergentes</h3><span class="eyebrow">Crecimiento 12 meses</span></div>
-      ${radarHtml}
-      <p class="note">Candidatos detectados por crecimiento de publicaciones. Se proponen para evaluación: incorporarlos al catálogo requiere contenido clínico curado.</p>
+      <div class="card-head"><h3>Interés de búsqueda</h3><span class="eyebrow">Google Trends · 5 años</span></div>
+      ${geoBlock}
+      <p class="note">Escala relativa de 0 a 100 dentro de cada país. No es comparable en valor absoluto entre países.</p>
     </section>
 
-    ${rel ? `<section class="card">
-      <div class="card-head"><h3>Se combina con</h3></div>
-      <div class="rel">${rel}</div>
-    </section>` : ''}
+    <section class="card">
+      <div class="card-head"><h3>Publicaciones recientes</h3><span class="eyebrow" id="live">consultando…</span></div>
+      <div id="papers"><div class="pad"><div class="skel" style="width:78%"></div><div class="skel" style="width:56%"></div><div class="skel" style="width:66%"></div></div></div>
+    </section>
   `;
 
   $('#panel').querySelectorAll('[data-go]').forEach(b => b.addEventListener('click', () => select(b.dataset.go)));
