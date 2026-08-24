@@ -1,15 +1,15 @@
 {
-  "generado": "2026-08-17T17:00:49Z",
+  "generado": "2026-08-24T05:33:12Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
       {
         "equipo": "PDRN / polinucleotidos",
-        "menciones": 9
+        "menciones": 7
       },
       {
         "equipo": "Microagujas",
-        "menciones": 6
+        "menciones": 5
       },
       {
         "equipo": "Profhilo",
@@ -203,11 +203,11 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 216
+        "menciones": 215
       },
       {
         "equipo": "PRP",
-        "menciones": 47
+        "menciones": 39
       },
       {
         "equipo": "Microagujas",
@@ -218,15 +218,15 @@
         "menciones": 28
       },
       {
+        "equipo": "Exosomas",
+        "menciones": 19
+      },
+      {
         "equipo": "IPL",
         "menciones": 17
       },
       {
         "equipo": "Pico laser",
-        "menciones": 16
-      },
-      {
-        "equipo": "Exosomas",
         "menciones": 16
       },
       {
@@ -246,7 +246,7 @@
         "menciones": 2
       },
       {
-        "equipo": "LED / fotobiomodulacion",
+        "equipo": "PDRN / polinucleotidos",
         "menciones": 2
       }
     ],
@@ -419,7 +419,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 183
+        "menciones": 184
       },
       {
         "equipo": "HIFU",
