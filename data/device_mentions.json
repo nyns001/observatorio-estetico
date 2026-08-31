@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T05:33:12Z",
+  "generado": "2026-08-31T11:18:03Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -268,12 +268,12 @@
         "menciones": 11
       },
       {
-        "equipo": "Exosomas",
+        "equipo": "Radiesse (CaHA)",
         "menciones": 9
       },
       {
-        "equipo": "Radiesse (CaHA)",
-        "menciones": 7
+        "equipo": "Exosomas",
+        "menciones": 9
       },
       {
         "equipo": "Pico laser",
@@ -281,6 +281,10 @@
       },
       {
         "equipo": "Radiofrecuencia monopolar",
+        "menciones": 1
+      },
+      {
+        "equipo": "Eufoton / Endolift",
         "menciones": 1
       },
       {
@@ -299,7 +303,7 @@
       },
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 8
+        "menciones": 9
       },
       {
         "equipo": "HIFU",
@@ -419,7 +423,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 184
+        "menciones": 183
       },
       {
         "equipo": "HIFU",

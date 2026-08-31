@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T05:33:12Z",
+  "generado": "2026-08-31T11:18:03Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        176
+        179
       ],
-      "total": 1387,
-      "delta_3a": 73.4
+      "total": 1390,
+      "delta_3a": 74.3
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        48
+        49
       ],
-      "total": 402,
-      "delta_3a": 46.5
+      "total": 403,
+      "delta_3a": 47.4
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        107
+        108
       ],
-      "total": 784,
-      "delta_3a": 86.3
+      "total": 785,
+      "delta_3a": 86.9
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        6
+        7
       ],
-      "total": 215,
-      "delta_3a": -56.2
+      "total": 216,
+      "delta_3a": -54.8
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        188
+        191
       ],
-      "total": 1999,
-      "delta_3a": 14.5
+      "total": 2002,
+      "delta_3a": 15.0
     },
     "lipovaser": {
       "categoria": "corporal",
@@ -294,8 +294,8 @@
         16,
         19,
         25,
-        27,
-        18
+        26,
+        19
       ],
       "total": 155,
       "delta_3a": 62.8
