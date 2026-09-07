@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T11:18:03Z",
+  "generado": "2026-09-07T09:54:01Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -103,7 +103,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 509
+        "menciones": 517
       },
       {
         "equipo": "Ultherapy",
@@ -172,15 +172,19 @@
         "menciones": 14
       },
       {
+        "equipo": "Nd:YAG 1064 nm",
+        "menciones": 12
+      },
+      {
         "equipo": "IPL",
         "menciones": 12
       },
       {
-        "equipo": "Nd:YAG 1064 nm",
+        "equipo": "HIFU",
         "menciones": 11
       },
       {
-        "equipo": "HIFU",
+        "equipo": "PDRN / polinucleotidos",
         "menciones": 11
       },
       {
@@ -194,16 +198,12 @@
       {
         "equipo": "Alexandrita 755 nm",
         "menciones": 2
-      },
-      {
-        "equipo": "Diodo 808 nm",
-        "menciones": 2
       }
     ],
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 215
+        "menciones": 217
       },
       {
         "equipo": "PRP",
@@ -231,7 +231,7 @@
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 12
+        "menciones": 11
       },
       {
         "equipo": "Laser 1064 nm",
@@ -268,12 +268,12 @@
         "menciones": 11
       },
       {
-        "equipo": "Radiesse (CaHA)",
+        "equipo": "Exosomas",
         "menciones": 9
       },
       {
-        "equipo": "Exosomas",
-        "menciones": 9
+        "equipo": "Radiesse (CaHA)",
+        "menciones": 7
       },
       {
         "equipo": "Pico laser",
@@ -295,7 +295,7 @@
     "criolipolisis": [
       {
         "equipo": "Criolipolisis",
-        "menciones": 510
+        "menciones": 507
       },
       {
         "equipo": "CoolSculpting",
@@ -423,7 +423,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 183
+        "menciones": 184
       },
       {
         "equipo": "HIFU",

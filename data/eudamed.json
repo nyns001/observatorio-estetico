@@ -1,57 +1,57 @@
 {
-  "generado": "2026-08-31T11:22:02Z",
+  "generado": "2026-09-07T09:57:22Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -118,52 +118,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -174,52 +174,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -230,52 +230,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -286,52 +286,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -342,52 +342,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -398,52 +398,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -454,52 +454,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -510,52 +510,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -566,52 +566,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -622,52 +622,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -678,52 +678,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -734,52 +734,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -790,52 +790,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -846,52 +846,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -902,52 +902,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -958,52 +958,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1014,52 +1014,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1070,52 +1070,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1126,52 +1126,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1182,52 +1182,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1238,52 +1238,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1294,52 +1294,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1350,52 +1350,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1406,52 +1406,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1462,52 +1462,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1518,52 +1518,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1574,52 +1574,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1630,52 +1630,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1686,52 +1686,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1742,52 +1742,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1798,52 +1798,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1854,52 +1854,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1910,52 +1910,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1966,52 +1966,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
+          "nombre_comercial": "Cleaning Brushes for Endoscope",
+          "fabricante": "Jiangsu Vedkang Medical Science and Technology Co., Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "50901515"
-        },
-        {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "referencia": "VDK-CB-06-230-D1+VDK-CB-E"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Danyang Carehope Medical Equipment Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "MC"
-        },
-        {
-          "nombre_comercial": "Absorbent Paper Points 04Taper 25# 100pcs/pack",
-          "fabricante": "Shenzhen Rogin Medical Co., Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "R-P.09.13-04-025-RD-WH-000-00-00"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Weihai Sunway Medical Technology Co.,Ltd",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "DB2319F"
+          "referencia": "Color(3D Promax) D98*20 A2"
+        },
+        {
+          "nombre_comercial": "Nasopharyngeal Airway",
+          "fabricante": "Anping Guardian Medical Equipment Co., Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "AZ-NPAC-03"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Shenzhen Benliju Bio-Tech Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "50901215"
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3"
         },
         {
-          "nombre_comercial": "Disposable Pulse Oximeter Probe",
-          "fabricante": "Shenzhen Med-link Electronics Tech Co., Ltd. ",
+          "nombre_comercial": "Absorbent Paper Points 02Taper 60# 200pcs/pack",
+          "fabricante": "Shenzhen Denco Medical Co., Ltd.",
+          "clase_riesgo": "Clase I",
+          "referencia": "D-P.09.13-02-060-BU-WH-000-00-00"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A3.5"
+        },
+        {
+          "nombre_comercial": "single use hemoclips",
+          "fabricante": "Zhejiang Chuangxiang Medical Technology Co., LTD.",
           "clase_riesgo": "Clase IIB",
-          "referencia": "S0026N-L"
+          "referencia": "MD-A-HR-220-16-090-Y-11"
         },
         {
-          "nombre_comercial": "Kinesiology Tape",
-          "fabricante": "Nanjing 3H Medical Products Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "rule 1"
+          "nombre_comercial": "",
+          "fabricante": "Qinhuangdao Silide Ceramic Technology  Co., LTD.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Color(3D Promax) D98*20 A4"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",

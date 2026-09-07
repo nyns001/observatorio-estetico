@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T11:18:03Z",
+  "generado": "2026-09-07T09:54:01Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        179
+        183
       ],
-      "total": 1390,
-      "delta_3a": 74.3
+      "total": 1394,
+      "delta_3a": 75.5
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        49
+        51
       ],
-      "total": 403,
-      "delta_3a": 47.4
+      "total": 405,
+      "delta_3a": 49.1
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -86,10 +86,10 @@
         40,
         44,
         59,
-        32
+        33
       ],
-      "total": 439,
-      "delta_3a": 26.2
+      "total": 440,
+      "delta_3a": 27.1
     },
     "radiofrecuencia-microneedling": {
       "categoria": "facial",
@@ -105,10 +105,10 @@
         15,
         24,
         20,
-        11
+        12
       ],
-      "total": 210,
-      "delta_3a": -14.1
+      "total": 211,
+      "delta_3a": -12.5
     },
     "laser-co2-fraccionado": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        45
+        47
       ],
-      "total": 415,
-      "delta_3a": 6.5
+      "total": 417,
+      "delta_3a": 8.1
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        108
+        110
       ],
-      "total": 785,
-      "delta_3a": 86.9
+      "total": 787,
+      "delta_3a": 88.0
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        7
+        8
       ],
-      "total": 216,
-      "delta_3a": -54.8
+      "total": 217,
+      "delta_3a": -53.4
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        191
+        195
       ],
-      "total": 2002,
-      "delta_3a": 15.0
+      "total": 2006,
+      "delta_3a": 15.7
     },
     "lipovaser": {
       "categoria": "corporal",
