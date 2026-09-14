@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T09:56:16Z",
+  "generado": "2026-09-14T10:18:48Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -316,6 +316,14 @@
     ],
     "endolift": [
       {
+        "nombre": "Diode Laser Therapy Systems (DL612A)",
+        "fabricante": "Hebei Zollvan Medical Technology Co., Ltd.",
+        "k_number": "K262070",
+        "fecha_decision": "2026-08-19",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
         "nombre": "Diode laser hair removal machine (QDTM-04)",
         "fabricante": "Beijing Nubway S&T Co., Ltd.",
         "k_number": "K261693",
@@ -506,19 +514,19 @@
         "fecha_decision": "2025-04-01",
         "ano": "2025",
         "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser Systems (GBOX-6H,  GBOX-10D , GBOX-12D,  GBOX-15D, VELAS Pro-30B15D, VELAS II-6H, VELAS II-15D)",
-        "fabricante": "Gigaalaser Company , Ltd.",
-        "k_number": "K241791",
-        "fecha_decision": "2025-03-19",
-        "ano": "2025",
-        "pais": "CN"
       }
     ],
     "rinomodelacion": [],
     "aumento-labios": [],
     "liposuccion-papada": [
+      {
+        "nombre": "AYON Power Liposuction Cannulas and AYON Power Liposuction Cannula Adaptors",
+        "fabricante": "Apyx Medical Corporation",
+        "k_number": "K261710",
+        "fecha_decision": "2026-08-21",
+        "ano": "2026",
+        "pais": "US"
+      },
       {
         "nombre": "HK LIPOSUCTION ASPIRATOR, MODEL AP-III & AP230-III",
         "fabricante": "Hk Surgical, Inc.",

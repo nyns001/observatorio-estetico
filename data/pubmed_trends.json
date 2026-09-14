@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T09:54:01Z",
+  "generado": "2026-09-14T10:16:11Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        183
+        186
       ],
-      "total": 1394,
-      "delta_3a": 75.5
+      "total": 1397,
+      "delta_3a": 76.4
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        51
+        52
       ],
-      "total": 405,
-      "delta_3a": 49.1
+      "total": 406,
+      "delta_3a": 50.0
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        47
+        49
       ],
-      "total": 417,
-      "delta_3a": 8.1
+      "total": 419,
+      "delta_3a": 9.7
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        8
+        9
       ],
-      "total": 217,
-      "delta_3a": -53.4
+      "total": 218,
+      "delta_3a": -52.1
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -238,10 +238,10 @@
         35,
         43,
         44,
-        17
+        18
       ],
-      "total": 260,
-      "delta_3a": 20.9
+      "total": 261,
+      "delta_3a": 22.1
     },
     "aumento-labios": {
       "categoria": "facial",
@@ -257,10 +257,10 @@
         7,
         23,
         21,
-        16
+        17
       ],
-      "total": 137,
-      "delta_3a": 71.4
+      "total": 138,
+      "delta_3a": 74.3
     },
     "liposuccion-papada": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        195
+        196
       ],
-      "total": 2006,
-      "delta_3a": 15.7
+      "total": 2007,
+      "delta_3a": 15.9
     },
     "lipovaser": {
       "categoria": "corporal",

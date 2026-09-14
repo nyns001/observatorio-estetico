@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-07T09:54:01Z",
+  "generado": "2026-09-14T10:16:11Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -203,7 +203,7 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 217
+        "menciones": 209
       },
       {
         "equipo": "PRP",
@@ -231,7 +231,7 @@
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 11
+        "menciones": 12
       },
       {
         "equipo": "Laser 1064 nm",
@@ -295,7 +295,7 @@
     "criolipolisis": [
       {
         "equipo": "Criolipolisis",
-        "menciones": 507
+        "menciones": 506
       },
       {
         "equipo": "CoolSculpting",
@@ -423,7 +423,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 184
+        "menciones": 186
       },
       {
         "equipo": "HIFU",
