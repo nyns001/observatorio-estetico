@@ -5,14 +5,14 @@ interes de busqueda y equipos autorizados, tratamiento por tratamiento.
 
 ## Que hace cada fuente
 
-| Seccion | Fuente | Coste | Frecuencia |
-|---|---|---|---|
-| Publicaciones recientes | PubMed E-utilities, llamada desde el navegador | Gratis | En vivo, en cada visita |
-| Banda de evidencia (volumen anual) | PubMed E-utilities via GitHub Actions | Gratis | Semanal |
-| Equipos citados en la evidencia | Mineria de abstracts de PubMed | Gratis | Semanal |
-| Autorizaciones de equipos | openFDA 510(k) | Gratis | Semanal |
-| Interes de busqueda | Google Trends via pytrends (cliente no oficial) | Gratis | Semanal |
-| Recuperacion, cuidados, combinaciones | `data/treatments.json`, curado a mano | — | Manual |
+| Seccion | Fuente | Frecuencia |
+|---|---|---|
+| Publicaciones recientes | PubMed E-utilities, llamada desde el navegador | En vivo, en cada visita |
+| Banda de evidencia (volumen anual) | PubMed E-utilities via GitHub Actions | Semanal |
+| Equipos citados en la evidencia | Mineria de abstracts de PubMed | Semanal |
+| Autorizaciones de equipos | openFDA 510(k) | Semanal |
+| Interes de busqueda | Google Trends via pytrends (cliente no oficial) | Semanal |
+| Recuperacion, cuidados, combinaciones | `data/treatments.json`, curado a mano | Manual |
 
 Fuera de este MVP, previsto para v2: clinicas, doctores, precios, TikTok e Instagram.
 Ninguna de esas cinco tiene hoy una fuente publica y gratuita; las tres primeras exigen
