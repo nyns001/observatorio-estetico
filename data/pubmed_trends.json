@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T10:16:11Z",
+  "generado": "2026-09-21T10:21:37Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        186
+        179
       ],
-      "total": 1397,
-      "delta_3a": 76.4
+      "total": 1390,
+      "delta_3a": 74.3
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -86,10 +86,10 @@
         40,
         44,
         59,
-        33
+        35
       ],
-      "total": 440,
-      "delta_3a": 27.1
+      "total": 442,
+      "delta_3a": 29.0
     },
     "radiofrecuencia-microneedling": {
       "categoria": "facial",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        9
+        8
       ],
-      "total": 218,
-      "delta_3a": -52.1
+      "total": 217,
+      "delta_3a": -53.4
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -257,10 +257,10 @@
         7,
         23,
         21,
-        17
+        16
       ],
-      "total": 138,
-      "delta_3a": 74.3
+      "total": 137,
+      "delta_3a": 71.4
     },
     "liposuccion-papada": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        196
+        198
       ],
-      "total": 2007,
-      "delta_3a": 15.9
+      "total": 2009,
+      "delta_3a": 16.2
     },
     "lipovaser": {
       "categoria": "corporal",

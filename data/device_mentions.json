@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-14T10:16:11Z",
+  "generado": "2026-09-21T10:21:37Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -103,7 +103,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 517
+        "menciones": 509
       },
       {
         "equipo": "Ultherapy",
@@ -122,15 +122,23 @@
         "menciones": 7
       },
       {
+        "equipo": "Nd:YAG 1064 nm",
+        "menciones": 4
+      },
+      {
         "equipo": "Onda / RF fraccionada",
         "menciones": 4
       },
       {
-        "equipo": "Nd:YAG 1064 nm",
-        "menciones": 2
+        "equipo": "Laser 1064 nm",
+        "menciones": 3
       },
       {
         "equipo": "PDRN / polinucleotidos",
+        "menciones": 3
+      },
+      {
+        "equipo": "Alexandrita 755 nm",
         "menciones": 2
       },
       {
@@ -139,14 +147,6 @@
       },
       {
         "equipo": "Diodo 808 nm",
-        "menciones": 1
-      },
-      {
-        "equipo": "Criolipolisis",
-        "menciones": 1
-      },
-      {
-        "equipo": "Radiesse (CaHA)",
         "menciones": 1
       }
     ],
@@ -257,11 +257,11 @@
       },
       {
         "equipo": "PDRN / polinucleotidos",
-        "menciones": 13
+        "menciones": 14
       },
       {
         "equipo": "PRP",
-        "menciones": 12
+        "menciones": 13
       },
       {
         "equipo": "Microagujas",
@@ -281,6 +281,10 @@
       },
       {
         "equipo": "Radiofrecuencia monopolar",
+        "menciones": 1
+      },
+      {
+        "equipo": "HIFU",
         "menciones": 1
       },
       {
@@ -423,7 +427,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 186
+        "menciones": 194
       },
       {
         "equipo": "HIFU",
