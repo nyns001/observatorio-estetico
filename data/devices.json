@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T10:24:27Z",
+  "generado": "2026-09-28T11:26:30Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -316,6 +316,22 @@
     ],
     "endolift": [
       {
+        "nombre": "Diode Laser Therapy System",
+        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
+        "k_number": "K261562",
+        "fecha_decision": "2026-09-10",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
+        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
+        "k_number": "K262426",
+        "fecha_decision": "2026-09-10",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
         "nombre": "Diode Laser Therapy Systems (DL612A)",
         "fabricante": "Hebei Zollvan Medical Technology Co., Ltd.",
         "k_number": "K262070",
@@ -496,22 +512,6 @@
         "fabricante": "Ivylaser (Beijing) Technology Co.,Ltd",
         "k_number": "K250206",
         "fecha_decision": "2025-04-24",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser (Models: MZ-GK, MZ-K20, MZ-N75)",
-        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
-        "k_number": "K250656",
-        "fecha_decision": "2025-04-04",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser Systems (THEIA808)",
-        "fabricante": "Gigaalaser Company , Ltd.",
-        "k_number": "K250018",
-        "fecha_decision": "2025-04-01",
         "ano": "2025",
         "pais": "CN"
       }

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T10:21:37Z",
+  "generado": "2026-09-28T11:23:34Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        179
+        181
       ],
-      "total": 1390,
-      "delta_3a": 74.3
+      "total": 1392,
+      "delta_3a": 74.9
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        52
+        54
       ],
-      "total": 406,
-      "delta_3a": 50.0
+      "total": 408,
+      "delta_3a": 51.8
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -105,10 +105,10 @@
         15,
         24,
         20,
-        12
+        14
       ],
-      "total": 211,
-      "delta_3a": -12.5
+      "total": 213,
+      "delta_3a": -9.4
     },
     "laser-co2-fraccionado": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        49
+        50
       ],
-      "total": 419,
-      "delta_3a": 9.7
+      "total": 420,
+      "delta_3a": 10.5
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        110
+        114
       ],
-      "total": 787,
-      "delta_3a": 88.0
+      "total": 791,
+      "delta_3a": 90.2
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        198
+        204
       ],
-      "total": 2009,
-      "delta_3a": 16.2
+      "total": 2015,
+      "delta_3a": 17.3
     },
     "lipovaser": {
       "categoria": "corporal",

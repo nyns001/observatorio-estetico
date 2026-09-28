@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-21T10:21:37Z",
+  "generado": "2026-09-28T11:23:34Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -153,15 +153,15 @@
     "radiofrecuencia-microneedling": [
       {
         "equipo": "Microagujas",
-        "menciones": 241
+        "menciones": 248
       },
       {
         "equipo": "Onda / RF fraccionada",
-        "menciones": 138
+        "menciones": 135
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 31
+        "menciones": 32
       },
       {
         "equipo": "PRP",
@@ -203,15 +203,15 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 209
+        "menciones": 208
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 39
       },
       {
         "equipo": "PRP",
         "menciones": 39
-      },
-      {
-        "equipo": "Microagujas",
-        "menciones": 37
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -231,7 +231,7 @@
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 12
+        "menciones": 13
       },
       {
         "equipo": "Laser 1064 nm",
@@ -277,10 +277,6 @@
       },
       {
         "equipo": "Pico laser",
-        "menciones": 1
-      },
-      {
-        "equipo": "Radiofrecuencia monopolar",
         "menciones": 1
       },
       {
