@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-28T11:26:30Z",
+  "generado": "2026-10-05T12:02:17Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -316,10 +316,18 @@
     ],
     "endolift": [
       {
-        "nombre": "Diode Laser Therapy System",
-        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
-        "k_number": "K261562",
-        "fecha_decision": "2026-09-10",
+        "nombre": "Dental Diode Laser Device (Laser-Pen)",
+        "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
+        "k_number": "K261047",
+        "fecha_decision": "2026-09-18",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Therapy System (PZ-BDT67-01, PZ-BDT67-02)",
+        "fabricante": "Zhengzhou PZ Laser Slim Technology Co., Ltd.",
+        "k_number": "K261817",
+        "fecha_decision": "2026-09-17",
         "ano": "2026",
         "pais": "CN"
       },
@@ -327,6 +335,14 @@
         "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
         "fabricante": "Wuhan Pioon Technology Co., Ltd.",
         "k_number": "K262426",
+        "fecha_decision": "2026-09-10",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Therapy System",
+        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
+        "k_number": "K261562",
         "fecha_decision": "2026-09-10",
         "ano": "2026",
         "pais": "CN"
@@ -496,22 +512,6 @@
         "fabricante": "Wuhan Pioon Technology Co., Ltd.",
         "k_number": "K243764",
         "fecha_decision": "2025-05-08",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Diode laser hair removal machine (QDTM-02)",
-        "fabricante": "Beijing Nubway S&T Co., Ltd.",
-        "k_number": "K242951",
-        "fecha_decision": "2025-04-28",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Diode laser system (Night Universe; Predator)",
-        "fabricante": "Ivylaser (Beijing) Technology Co.,Ltd",
-        "k_number": "K250206",
-        "fecha_decision": "2025-04-24",
         "ano": "2025",
         "pais": "CN"
       }

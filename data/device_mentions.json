@@ -1,19 +1,23 @@
 {
-  "generado": "2026-09-28T11:23:34Z",
+  "generado": "2026-10-05T11:59:31Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
+      {
+        "equipo": "Microagujas",
+        "menciones": 7
+      },
       {
         "equipo": "PDRN / polinucleotidos",
         "menciones": 7
       },
       {
-        "equipo": "Microagujas",
+        "equipo": "Profhilo",
         "menciones": 5
       },
       {
-        "equipo": "Profhilo",
-        "menciones": 5
+        "equipo": "Laser CO2 fraccionado",
+        "menciones": 3
       },
       {
         "equipo": "Laser 1064 nm",
@@ -28,7 +32,7 @@
         "menciones": 3
       },
       {
-        "equipo": "Laser CO2 fraccionado",
+        "equipo": "Onda / RF fraccionada",
         "menciones": 2
       },
       {
@@ -103,7 +107,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 509
+        "menciones": 504
       },
       {
         "equipo": "Ultherapy",
@@ -153,11 +157,11 @@
     "radiofrecuencia-microneedling": [
       {
         "equipo": "Microagujas",
-        "menciones": 248
+        "menciones": 250
       },
       {
         "equipo": "Onda / RF fraccionada",
-        "menciones": 135
+        "menciones": 136
       },
       {
         "equipo": "Er:YAG 2940 nm",
@@ -242,15 +246,19 @@
         "menciones": 6
       },
       {
-        "equipo": "UltraPulse",
+        "equipo": "PDRN / polinucleotidos",
         "menciones": 2
       },
       {
-        "equipo": "PDRN / polinucleotidos",
+        "equipo": "LED / fotobiomodulacion",
         "menciones": 2
       }
     ],
     "bioestimuladores": [
+      {
+        "equipo": "Microagujas",
+        "menciones": 20
+      },
       {
         "equipo": "Sculptra (PLLA)",
         "menciones": 17
@@ -264,16 +272,12 @@
         "menciones": 13
       },
       {
-        "equipo": "Microagujas",
-        "menciones": 11
-      },
-      {
         "equipo": "Exosomas",
         "menciones": 9
       },
       {
         "equipo": "Radiesse (CaHA)",
-        "menciones": 7
+        "menciones": 6
       },
       {
         "equipo": "Pico laser",
@@ -423,7 +427,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 194
+        "menciones": 192
       },
       {
         "equipo": "HIFU",
