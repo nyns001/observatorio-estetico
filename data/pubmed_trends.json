@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-05T11:59:31Z",
+  "generado": "2026-10-12T12:40:08Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         231,
-        186
+        187
       ],
-      "total": 1397,
-      "delta_3a": 76.4
+      "total": 1398,
+      "delta_3a": 76.7
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -86,10 +86,10 @@
         40,
         44,
         59,
-        36
+        38
       ],
-      "total": 443,
-      "delta_3a": 29.9
+      "total": 445,
+      "delta_3a": 31.8
     },
     "radiofrecuencia-microneedling": {
       "categoria": "facial",
@@ -105,10 +105,10 @@
         15,
         24,
         20,
-        15
+        16
       ],
-      "total": 214,
-      "delta_3a": -7.8
+      "total": 215,
+      "delta_3a": -6.2
     },
     "laser-co2-fraccionado": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        51
+        53
       ],
-      "total": 421,
-      "delta_3a": 11.3
+      "total": 423,
+      "delta_3a": 12.9
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        115
+        116
       ],
-      "total": 792,
-      "delta_3a": 90.7
+      "total": 793,
+      "delta_3a": 91.3
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        8
+        9
       ],
-      "total": 217,
-      "delta_3a": -53.4
+      "total": 218,
+      "delta_3a": -52.1
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         263,
-        207
+        208
       ],
-      "total": 2018,
-      "delta_3a": 17.8
+      "total": 2019,
+      "delta_3a": 17.9
     },
     "lipovaser": {
       "categoria": "corporal",

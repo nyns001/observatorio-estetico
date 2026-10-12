@@ -1,57 +1,57 @@
 {
-  "generado": "2026-10-05T12:03:51Z",
+  "generado": "2026-10-12T12:44:48Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -118,52 +118,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -174,52 +174,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -230,52 +230,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -286,52 +286,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -342,52 +342,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -398,52 +398,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -454,52 +454,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -510,52 +510,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -566,52 +566,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -622,52 +622,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -678,52 +678,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -734,52 +734,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -790,52 +790,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -846,52 +846,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -902,52 +902,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -958,52 +958,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1014,52 +1014,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1070,52 +1070,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1123,76 +1123,223 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Potenza": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Radiesse": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Restylane": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Sculptra": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1203,52 +1350,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1259,52 +1406,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1315,52 +1462,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1371,52 +1518,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1427,52 +1574,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1483,52 +1630,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1539,52 +1686,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1595,52 +1742,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1651,52 +1798,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1707,52 +1854,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1763,52 +1910,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1819,52 +1966,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_077"
-        },
-        {
-          "nombre_comercial": "SanctuaryTM 165mm X 130mm Latex Pre-Framed Dental Dam-Green Medium Mint ",
-          "fabricante": "Sanctuary Health Sdn Bhd",
-          "clase_riesgo": "Clase I",
-          "referencia": "PL121A-FASH0"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_060"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_030"
-        },
-        {
-          "nombre_comercial": "SCALA",
-          "fabricante": "K-jump Health Co., Ltd.",
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
           "clase_riesgo": "Clase IIA",
-          "referencia": "KP-6027"
+          "referencia": "1818A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_054"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_090"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 16 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1816A4"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1106-1516-0SC_022"
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 14 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1815A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 12 mm, S, A4",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1814A4"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 25 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1819A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 20 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1818A35"
+        },
+        {
+          "nombre_comercial": "FINOFRAME ZR HT Dimension PRO, Ø 98 x 18 mm, S, A3,5",
+          "fabricante": "Whitepeaks Dental Solutions GmbH",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "1817A35"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",

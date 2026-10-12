@@ -1,14 +1,14 @@
 {
-  "generado": "2026-10-05T11:59:31Z",
+  "generado": "2026-10-12T12:40:08Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
       {
-        "equipo": "Microagujas",
-        "menciones": 7
+        "equipo": "PDRN / polinucleotidos",
+        "menciones": 9
       },
       {
-        "equipo": "PDRN / polinucleotidos",
+        "equipo": "Microagujas",
         "menciones": 7
       },
       {
@@ -107,7 +107,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 504
+        "menciones": 505
       },
       {
         "equipo": "Ultherapy",
@@ -138,10 +138,6 @@
         "menciones": 3
       },
       {
-        "equipo": "PDRN / polinucleotidos",
-        "menciones": 3
-      },
-      {
         "equipo": "Alexandrita 755 nm",
         "menciones": 2
       },
@@ -152,20 +148,24 @@
       {
         "equipo": "Diodo 808 nm",
         "menciones": 1
+      },
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 1
       }
     ],
     "radiofrecuencia-microneedling": [
       {
         "equipo": "Microagujas",
-        "menciones": 250
+        "menciones": 247
       },
       {
         "equipo": "Onda / RF fraccionada",
-        "menciones": 136
+        "menciones": 135
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 32
+        "menciones": 27
       },
       {
         "equipo": "PRP",
@@ -173,7 +173,7 @@
       },
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 14
+        "menciones": 16
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -207,11 +207,11 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 208
+        "menciones": 204
       },
       {
         "equipo": "Microagujas",
-        "menciones": 39
+        "menciones": 41
       },
       {
         "equipo": "PRP",
@@ -235,7 +235,7 @@
       },
       {
         "equipo": "Er:YAG 2940 nm",
-        "menciones": 13
+        "menciones": 14
       },
       {
         "equipo": "Laser 1064 nm",
@@ -299,7 +299,7 @@
     "criolipolisis": [
       {
         "equipo": "Criolipolisis",
-        "menciones": 506
+        "menciones": 505
       },
       {
         "equipo": "CoolSculpting",
@@ -427,7 +427,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 192
+        "menciones": 191
       },
       {
         "equipo": "HIFU",
