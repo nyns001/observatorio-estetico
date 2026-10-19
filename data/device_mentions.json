@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-12T12:40:08Z",
+  "generado": "2026-10-19T10:27:25Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
       {
         "equipo": "PDRN / polinucleotidos",
-        "menciones": 9
+        "menciones": 10
       },
       {
         "equipo": "Microagujas",
@@ -84,19 +84,27 @@
     ],
     "hilos-pdo": [
       {
-        "equipo": "HIFU",
-        "menciones": 3
+        "equipo": "Microagujas",
+        "menciones": 4
       },
       {
-        "equipo": "Microagujas",
-        "menciones": 2
+        "equipo": "HIFU",
+        "menciones": 3
       },
       {
         "equipo": "Ultherapy",
         "menciones": 1
       },
       {
+        "equipo": "Criolipolisis",
+        "menciones": 1
+      },
+      {
         "equipo": "Profhilo",
+        "menciones": 1
+      },
+      {
+        "equipo": "Belkyra / Kybella",
         "menciones": 1
       },
       {
@@ -107,7 +115,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 505
+        "menciones": 480
       },
       {
         "equipo": "Ultherapy",
@@ -134,6 +142,10 @@
         "menciones": 4
       },
       {
+        "equipo": "HIFEM",
+        "menciones": 3
+      },
+      {
         "equipo": "Laser 1064 nm",
         "menciones": 3
       },
@@ -142,16 +154,12 @@
         "menciones": 2
       },
       {
-        "equipo": "UltraPulse",
-        "menciones": 1
-      },
-      {
         "equipo": "Diodo 808 nm",
-        "menciones": 1
+        "menciones": 2
       },
       {
         "equipo": "Criolipolisis",
-        "menciones": 1
+        "menciones": 2
       }
     ],
     "radiofrecuencia-microneedling": [
@@ -207,7 +215,7 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 204
+        "menciones": 199
       },
       {
         "equipo": "Microagujas",
@@ -222,16 +230,16 @@
         "menciones": 28
       },
       {
+        "equipo": "Pico laser",
+        "menciones": 21
+      },
+      {
         "equipo": "Exosomas",
         "menciones": 19
       },
       {
         "equipo": "IPL",
         "menciones": 17
-      },
-      {
-        "equipo": "Pico laser",
-        "menciones": 16
       },
       {
         "equipo": "Er:YAG 2940 nm",
@@ -277,10 +285,18 @@
       },
       {
         "equipo": "Radiesse (CaHA)",
-        "menciones": 6
+        "menciones": 7
+      },
+      {
+        "equipo": "Thermage",
+        "menciones": 1
       },
       {
         "equipo": "Pico laser",
+        "menciones": 1
+      },
+      {
+        "equipo": "Radiofrecuencia monopolar",
         "menciones": 1
       },
       {
@@ -299,7 +315,7 @@
     "criolipolisis": [
       {
         "equipo": "Criolipolisis",
-        "menciones": 505
+        "menciones": 489
       },
       {
         "equipo": "CoolSculpting",
@@ -307,19 +323,23 @@
       },
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 9
+        "menciones": 10
       },
       {
         "equipo": "HIFU",
-        "menciones": 6
+        "menciones": 7
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 5
       },
       {
         "equipo": "Eufoton / Endolift",
         "menciones": 5
       },
       {
-        "equipo": "Microagujas",
-        "menciones": 3
+        "equipo": "HIFEM",
+        "menciones": 4
       },
       {
         "equipo": "Emsculpt",
@@ -338,10 +358,6 @@
         "menciones": 1
       },
       {
-        "equipo": "HIFEM",
-        "menciones": 1
-      },
-      {
         "equipo": "Vaser",
         "menciones": 1
       }
@@ -349,7 +365,7 @@
     "emsculpt": [
       {
         "equipo": "HIFEM",
-        "menciones": 183
+        "menciones": 186
       },
       {
         "equipo": "Emsculpt",
@@ -357,7 +373,7 @@
       },
       {
         "equipo": "Criolipolisis",
-        "menciones": 6
+        "menciones": 7
       },
       {
         "equipo": "HIFU",
@@ -410,10 +426,6 @@
         "menciones": 5
       },
       {
-        "equipo": "Eufoton / Endolift",
-        "menciones": 5
-      },
-      {
         "equipo": "PRP",
         "menciones": 1
       }
@@ -427,17 +439,25 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 191
+        "menciones": 184
       },
       {
         "equipo": "HIFU",
         "menciones": 6
+      },
+      {
+        "equipo": "Microagujas",
+        "menciones": 2
+      },
+      {
+        "equipo": "Criolipolisis",
+        "menciones": 1
       }
     ],
     "lipovaser": [
       {
         "equipo": "Vaser",
-        "menciones": 108
+        "menciones": 109
       },
       {
         "equipo": "Criolipolisis",
