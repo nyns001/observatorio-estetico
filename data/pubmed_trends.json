@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T10:27:25Z",
+  "generado": "2026-10-26T10:42:51Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         230,
-        189
+        192
       ],
-      "total": 1399,
-      "delta_3a": 77.0
+      "total": 1402,
+      "delta_3a": 77.9
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        56
+        58
       ],
-      "total": 426,
-      "delta_3a": 15.3
+      "total": 428,
+      "delta_3a": 16.9
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        124
+        127
       ],
-      "total": 801,
-      "delta_3a": 95.6
+      "total": 804,
+      "delta_3a": 97.3
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -181,10 +181,10 @@
         9,
         7,
         3,
-        5
+        6
       ],
-      "total": 53,
-      "delta_3a": -37.5
+      "total": 54,
+      "delta_3a": -33.3
     },
     "ondas-choque": {
       "categoria": "corporal",
@@ -238,10 +238,10 @@
         35,
         43,
         44,
-        20
+        21
       ],
-      "total": 263,
-      "delta_3a": 24.4
+      "total": 264,
+      "delta_3a": 25.6
     },
     "aumento-labios": {
       "categoria": "facial",
@@ -257,10 +257,10 @@
         7,
         23,
         21,
-        17
+        19
       ],
-      "total": 138,
-      "delta_3a": 74.3
+      "total": 140,
+      "delta_3a": 80.0
     },
     "liposuccion-papada": {
       "categoria": "corporal",
@@ -275,11 +275,11 @@
         194,
         193,
         219,
-        263,
-        212
+        264,
+        216
       ],
-      "total": 2023,
-      "delta_3a": 18.6
+      "total": 2028,
+      "delta_3a": 19.5
     },
     "lipovaser": {
       "categoria": "corporal",
@@ -295,10 +295,10 @@
         19,
         25,
         26,
-        20
+        22
       ],
-      "total": 156,
-      "delta_3a": 65.1
+      "total": 158,
+      "delta_3a": 69.8
     }
   }
 }

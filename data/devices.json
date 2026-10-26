@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T10:30:15Z",
+  "generado": "2026-10-26T10:45:28Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -316,6 +316,22 @@
     ],
     "endolift": [
       {
+        "nombre": "CureLight Medical Diode Laser Systems (S3-BF45);CureLight Medical Diode Laser Systems (S2-B30);CureLight Medical Diode Laser Systems (S3-BF30);CureLight Medical Diode Laser Systems (S2-F15);CureLight Medical Diode Laser Systems (S2-H7.5)",
+        "fabricante": "Wuhan Phomed Technology Co., Ltd.",
+        "k_number": "K262346",
+        "fecha_decision": "2026-10-08",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
+        "nombre": "Diode Laser Hair Removal Machine (QDTM-03)",
+        "fabricante": "Beijing Nubway S&T Co., Ltd.",
+        "k_number": "K261692",
+        "fecha_decision": "2026-10-07",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
         "nombre": "Dental Diode Laser Device (Laser-Pen)",
         "fabricante": "Guilin Kevin Peter Technology Co., Ltd.",
         "k_number": "K261047",
@@ -496,22 +512,6 @@
         "fabricante": "Gigaalaser Company , Ltd.",
         "k_number": "K242755",
         "fecha_decision": "2025-05-19",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser Hair Removal System (MNLT-D1)",
-        "fabricante": "Shandong Moonlight Electronics Tech Co., Ltd.",
-        "k_number": "K250431",
-        "fecha_decision": "2025-05-12",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser (UTU3-F7B,UTU3-F7W,UTU3-G7B,UTU3-G7W,UTU-G20B,UTU-G20W)",
-        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
-        "k_number": "K243764",
-        "fecha_decision": "2025-05-08",
         "ano": "2025",
         "pais": "CN"
       }

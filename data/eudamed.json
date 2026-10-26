@@ -1,57 +1,57 @@
 {
-  "generado": "2026-10-19T10:36:00Z",
+  "generado": "2026-10-26T10:52:17Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -118,52 +118,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -174,52 +174,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -230,52 +230,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -283,111 +283,62 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Cellactor": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Clatuu": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -398,52 +349,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -454,52 +405,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -510,52 +461,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -566,52 +517,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -619,111 +570,62 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt Neo": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Endolift": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -731,223 +633,76 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Eufoton": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Fraxel": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Genius": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Happy Lift": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -958,52 +713,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1014,52 +769,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1067,167 +822,69 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Morpheus8": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Potenza": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Radiesse": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1238,52 +895,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1294,52 +951,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1347,118 +1004,118 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Secret RF": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
-      "fuente": "EUDAMED - buscador publico"
-    },
-    "Silhouette Soft": {
       "encontrados_eudamed": 0,
       "dispositivos": [],
       "estado": "a verificar por experto",
       "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
-    "SmartXide": {
+    "Silhouette Soft": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
+          "clase_riesgo": "Clase I",
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "SmartXide": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
+        },
+        {
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "RCBS0502C"
+        },
+        {
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-442-31"
+        },
+        {
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
+          "clase_riesgo": "Clase I",
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1469,52 +1126,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1525,52 +1182,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1581,52 +1238,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1637,52 +1294,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1693,52 +1350,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1749,52 +1406,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1802,111 +1459,62 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Vaser Lipo": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
-        },
-        {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
-        },
-        {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Xeomin": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1917,52 +1525,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "Disposable Injection Needle",
-          "fabricante": "Alton (Shanghai) Medical Instruments Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AF-D1818PN2303"
+          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "10-443-20"
         },
         {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2418-N"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 1500"
         },
         {
           "nombre_comercial": "",
           "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
           "clase_riesgo": "Clase I",
-          "referencia": "UGBI0502"
+          "referencia": "RCBS0502C"
         },
         {
-          "nombre_comercial": "Spex",
-          "fabricante": "Spex Ltd",
+          "nombre_comercial": "Orthodontic Ceramic Brackets",
+          "fabricante": "CREATIVE DENTAL",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+        },
+        {
+          "nombre_comercial": "KJ Implant System",
+          "fabricante": "KJ MEDITECH Co., Ltd.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "OFID3708"
+        },
+        {
+          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "1105-1012-0SH_077"
+          "referencia": "10-442-31"
         },
         {
-          "nombre_comercial": "C-Peptide Assay Kit(Chemiluminescent Immunoassay)",
-          "fabricante": "Chengdu Illumaxbio Technology Co.,LTD",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "C0472"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Medotex Biotech (HangZhou) Co., Ltd.",
-          "clase_riesgo": "Clase IVD-GENERAL",
-          "referencia": "HAV-422a"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Ustar Biotechnologies (Hangzhou) Ltd.",
-          "clase_riesgo": "Clase A",
-          "referencia": "U400039-20"
-        },
-        {
-          "nombre_comercial": "VeriEndo",
-          "fabricante": "Promisemed Hangzhou Meditech Co., Ltd.",
+          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
+          "fabricante": "ST&G Corporation",
           "clase_riesgo": "Clase I",
-          "referencia": "EGF-C-2406-N"
+          "referencia": "1121-C3-26R"
+        },
+        {
+          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
+          "fabricante": "Y.B. SURGICO",
+          "clase_riesgo": "Clase I",
+          "referencia": "Y18.444.20R"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-19T10:27:25Z",
+  "generado": "2026-10-26T10:42:51Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -9,7 +9,7 @@
       },
       {
         "equipo": "Microagujas",
-        "menciones": 7
+        "menciones": 6
       },
       {
         "equipo": "Profhilo",
@@ -215,15 +215,15 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 199
+        "menciones": 196
+      },
+      {
+        "equipo": "PRP",
+        "menciones": 45
       },
       {
         "equipo": "Microagujas",
         "menciones": 41
-      },
-      {
-        "equipo": "PRP",
-        "menciones": 39
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -265,7 +265,7 @@
     "bioestimuladores": [
       {
         "equipo": "Microagujas",
-        "menciones": 20
+        "menciones": 17
       },
       {
         "equipo": "Sculptra (PLLA)",
@@ -285,7 +285,7 @@
       },
       {
         "equipo": "Radiesse (CaHA)",
-        "menciones": 7
+        "menciones": 5
       },
       {
         "equipo": "Thermage",
@@ -305,10 +305,6 @@
       },
       {
         "equipo": "Eufoton / Endolift",
-        "menciones": 1
-      },
-      {
-        "equipo": "Profhilo",
         "menciones": 1
       }
     ],
@@ -365,7 +361,7 @@
     "emsculpt": [
       {
         "equipo": "HIFEM",
-        "menciones": 186
+        "menciones": 191
       },
       {
         "equipo": "Emsculpt",
@@ -439,7 +435,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 184
+        "menciones": 182
       },
       {
         "equipo": "HIFU",
@@ -457,7 +453,7 @@
     "lipovaser": [
       {
         "equipo": "Vaser",
-        "menciones": 109
+        "menciones": 108
       },
       {
         "equipo": "Criolipolisis",

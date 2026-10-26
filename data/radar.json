@@ -1,8 +1,8 @@
 {
-  "generado": "2026-10-19T10:29:50Z",
+  "generado": "2026-10-26T10:45:05Z",
   "fuente": "PubMed E-utilities",
-  "ventana_reciente": "2025/10/19 a 2026/10/19",
-  "ventana_previa": "2024/10/19 a 2025/10/18",
+  "ventana_reciente": "2025/10/26 a 2026/10/26",
+  "ventana_previa": "2024/10/26 a 2025/10/25",
   "nota": "Crecimiento de publicaciones ultimos 12 meses vs 12 previos. Candidatos a evaluar, no anadidos automaticamente. La promocion a tratamiento requiere contenido clinico curado.",
   "candidatos": [
     {
@@ -17,8 +17,8 @@
       "etiqueta": "Bioregeneracion con PDRN",
       "query": "PDRN AND (skin OR aesthetic OR wound)",
       "pubs_ultimos_12m": 42,
-      "pubs_12m_previos": 27,
-      "crecimiento_pct": 55.6,
+      "pubs_12m_previos": 28,
+      "crecimiento_pct": 50.0,
       "ya_en_observatorio": false
     },
     {
@@ -30,6 +30,14 @@
       "ya_en_observatorio": false
     },
     {
+      "etiqueta": "Polinucleotidos / salmon DNA",
+      "query": "polynucleotide AND (skin OR rejuvenation OR aesthetic)",
+      "pubs_ultimos_12m": 115,
+      "pubs_12m_previos": 90,
+      "crecimiento_pct": 27.8,
+      "ya_en_observatorio": false
+    },
+    {
       "etiqueta": "Lipolisis laser",
       "query": "laser lipolysis OR laser-assisted lipolysis",
       "pubs_ultimos_12m": 14,
@@ -38,67 +46,51 @@
       "ya_en_observatorio": false
     },
     {
-      "etiqueta": "Polinucleotidos / salmon DNA",
-      "query": "polynucleotide AND (skin OR rejuvenation OR aesthetic)",
-      "pubs_ultimos_12m": 113,
-      "pubs_12m_previos": 90,
-      "crecimiento_pct": 25.6,
-      "ya_en_observatorio": false
-    },
-    {
       "etiqueta": "RF microagujas",
       "query": "microneedling radiofrequency OR fractional radiofrequency",
-      "pubs_ultimos_12m": 119,
-      "pubs_12m_previos": 97,
-      "crecimiento_pct": 22.7,
+      "pubs_ultimos_12m": 116,
+      "pubs_12m_previos": 96,
+      "crecimiento_pct": 20.8,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Toxina liquida / topica",
       "query": "topical botulinum toxin OR liquid botulinum toxin",
-      "pubs_ultimos_12m": 71,
+      "pubs_ultimos_12m": 74,
       "pubs_12m_previos": 62,
-      "crecimiento_pct": 14.5,
+      "crecimiento_pct": 19.4,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Exosomas en estetica",
       "query": "exosome AND (skin OR aesthetic OR rejuvenation OR alopecia)",
       "pubs_ultimos_12m": 483,
-      "pubs_12m_previos": 438,
-      "crecimiento_pct": 10.3,
-      "ya_en_observatorio": false
-    },
-    {
-      "etiqueta": "Toxina para masetero",
-      "query": "botulinum toxin masseter",
-      "pubs_ultimos_12m": 58,
-      "pubs_12m_previos": 53,
-      "crecimiento_pct": 9.4,
-      "ya_en_observatorio": false
-    },
-    {
-      "etiqueta": "Colageno inyectable recombinante",
-      "query": "recombinant collagen injectable skin",
-      "pubs_ultimos_12m": 15,
-      "pubs_12m_previos": 14,
-      "crecimiento_pct": 7.1,
+      "pubs_12m_previos": 439,
+      "crecimiento_pct": 10.0,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Vaser / lipo ultrasonica",
       "query": "vaser OR ultrasound-assisted liposuction",
-      "pubs_ultimos_12m": 27,
+      "pubs_ultimos_12m": 29,
       "pubs_12m_previos": 27,
-      "crecimiento_pct": 0.0,
+      "crecimiento_pct": 7.4,
+      "ya_en_observatorio": false
+    },
+    {
+      "etiqueta": "Toxina para masetero",
+      "query": "botulinum toxin masseter",
+      "pubs_ultimos_12m": 57,
+      "pubs_12m_previos": 56,
+      "crecimiento_pct": 1.8,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Bioestimuladores PCL",
       "query": "polycaprolactone AND (collagen OR aesthetic OR skin)",
-      "pubs_ultimos_12m": 233,
-      "pubs_12m_previos": 236,
-      "crecimiento_pct": -1.3,
+      "pubs_ultimos_12m": 239,
+      "pubs_12m_previos": 237,
+      "crecimiento_pct": 0.8,
       "ya_en_observatorio": false
     },
     {
@@ -110,19 +102,27 @@
       "ya_en_observatorio": true
     },
     {
+      "etiqueta": "Colageno inyectable recombinante",
+      "query": "recombinant collagen injectable skin",
+      "pubs_ultimos_12m": 14,
+      "pubs_12m_previos": 15,
+      "crecimiento_pct": -6.7,
+      "ya_en_observatorio": false
+    },
+    {
       "etiqueta": "Regeneracion capilar PRP",
       "query": "platelet-rich plasma AND (hair OR alopecia)",
-      "pubs_ultimos_12m": 73,
+      "pubs_ultimos_12m": 74,
       "pubs_12m_previos": 83,
-      "crecimiento_pct": -12.0,
+      "crecimiento_pct": -10.8,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Microtoxina / microbotox",
       "query": "microbotox OR intradermal botulinum toxin",
-      "pubs_ultimos_12m": 30,
+      "pubs_ultimos_12m": 31,
       "pubs_12m_previos": 37,
-      "crecimiento_pct": -18.9,
+      "crecimiento_pct": -16.2,
       "ya_en_observatorio": true
     },
     {
@@ -137,16 +137,16 @@
       "etiqueta": "Fototerapia LED",
       "query": "LED phototherapy skin OR photobiomodulation skin",
       "pubs_ultimos_12m": 210,
-      "pubs_12m_previos": 267,
-      "crecimiento_pct": -21.3,
+      "pubs_12m_previos": 269,
+      "crecimiento_pct": -21.9,
       "ya_en_observatorio": false
     },
     {
       "etiqueta": "Rinomodelacion no quirurgica",
       "query": "non-surgical rhinoplasty OR liquid rhinoplasty",
-      "pubs_ultimos_12m": 15,
-      "pubs_12m_previos": 32,
-      "crecimiento_pct": -53.1,
+      "pubs_ultimos_12m": 16,
+      "pubs_12m_previos": 31,
+      "crecimiento_pct": -48.4,
       "ya_en_observatorio": true
     },
     {
