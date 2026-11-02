@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-26T10:45:28Z",
+  "generado": "2026-11-02T13:02:56Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -348,17 +348,17 @@
         "pais": "CN"
       },
       {
-        "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
-        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
-        "k_number": "K262426",
+        "nombre": "Diode Laser Therapy System",
+        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
+        "k_number": "K261562",
         "fecha_decision": "2026-09-10",
         "ano": "2026",
         "pais": "CN"
       },
       {
-        "nombre": "Diode Laser Therapy System",
-        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
-        "k_number": "K261562",
+        "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
+        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
+        "k_number": "K262426",
         "fecha_decision": "2026-09-10",
         "ano": "2026",
         "pais": "CN"

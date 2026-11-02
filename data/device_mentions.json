@@ -1,11 +1,11 @@
 {
-  "generado": "2026-10-26T10:42:51Z",
+  "generado": "2026-11-02T13:00:30Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
       {
         "equipo": "PDRN / polinucleotidos",
-        "menciones": 10
+        "menciones": 11
       },
       {
         "equipo": "Microagujas",
@@ -115,7 +115,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 480
+        "menciones": 484
       },
       {
         "equipo": "Ultherapy",
@@ -215,7 +215,7 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 196
+        "menciones": 194
       },
       {
         "equipo": "PRP",
@@ -227,11 +227,7 @@
       },
       {
         "equipo": "Nd:YAG 1064 nm",
-        "menciones": 28
-      },
-      {
-        "equipo": "Pico laser",
-        "menciones": 21
+        "menciones": 26
       },
       {
         "equipo": "Exosomas",
@@ -244,6 +240,10 @@
       {
         "equipo": "Er:YAG 2940 nm",
         "menciones": 14
+      },
+      {
+        "equipo": "Pico laser",
+        "menciones": 13
       },
       {
         "equipo": "Laser 1064 nm",
@@ -264,20 +264,16 @@
     ],
     "bioestimuladores": [
       {
-        "equipo": "Microagujas",
-        "menciones": 17
-      },
-      {
         "equipo": "Sculptra (PLLA)",
         "menciones": 17
       },
       {
-        "equipo": "PDRN / polinucleotidos",
-        "menciones": 14
+        "equipo": "Microagujas",
+        "menciones": 15
       },
       {
-        "equipo": "PRP",
-        "menciones": 13
+        "equipo": "PDRN / polinucleotidos",
+        "menciones": 14
       },
       {
         "equipo": "Exosomas",
@@ -286,6 +282,10 @@
       {
         "equipo": "Radiesse (CaHA)",
         "menciones": 5
+      },
+      {
+        "equipo": "PRP",
+        "menciones": 4
       },
       {
         "equipo": "Thermage",
@@ -361,7 +361,7 @@
     "emsculpt": [
       {
         "equipo": "HIFEM",
-        "menciones": 191
+        "menciones": 201
       },
       {
         "equipo": "Emsculpt",

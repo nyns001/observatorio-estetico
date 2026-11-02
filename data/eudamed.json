@@ -1,57 +1,57 @@
 {
-  "generado": "2026-10-26T10:52:17Z",
+  "generado": "2026-11-02T13:09:25Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -115,167 +115,69 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Belotero": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Bocouture": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Botox": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -290,111 +192,62 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Clatuu": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "CoolSculpting": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -405,52 +258,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -458,111 +311,62 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Ellanse": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -570,62 +374,111 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt Neo": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "28-310-00"
+        },
+        {
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 4481"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "819-194-22"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Endolift": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -640,69 +493,167 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Fraxel": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "28-310-00"
+        },
+        {
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 4481"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "819-194-22"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Genius": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "28-310-00"
+        },
+        {
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 4481"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "819-194-22"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Happy Lift": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -713,52 +664,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -769,52 +720,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -822,125 +773,174 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Morpheus8": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
-      "fuente": "EUDAMED - buscador publico"
-    },
-    "Potenza": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
-      "fuente": "EUDAMED - buscador publico"
-    },
-    "Radiesse": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
       "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
-    "Restylane": {
+    "Potenza": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "819-194-22"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Radiesse": {
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "fuente": "EUDAMED - buscador publico"
+    },
+    "Restylane": {
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
         },
         {
           "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
           "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
+          "referencia": "CC06-H"
         },
         {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
+          "referencia": "28-310-00"
         },
         {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -948,59 +948,10 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Sculptra": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
-        },
-        {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Secret RF": {
@@ -1014,52 +965,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1070,52 +1021,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1126,52 +1077,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1182,52 +1133,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1238,52 +1189,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1294,52 +1245,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1350,52 +1301,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1406,52 +1357,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1459,62 +1410,111 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Vaser Lipo": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
+          "fabricante": "IAA Surgical Instruments Company",
+          "clase_riesgo": "Clase I",
+          "referencia": "28-310-00"
+        },
+        {
+          "nombre_comercial": "Appasamy",
+          "fabricante": "Appasamy Associates Private Limited",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "AAD 4481"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-5977-012-09"
+        },
+        {
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
+          "clase_riesgo": "Clase I",
+          "referencia": "819-194-22"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Xeomin": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1525,52 +1525,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "TC Metzenbaum-Thorek Scissor 20cm/7¾\", Cvd",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5977-013-09"
+        },
+        {
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase I",
+          "referencia": "00-5983-038-00"
+        },
+        {
+          "nombre_comercial": "Natural Nail®",
+          "fabricante": "Zimmer, Inc.",
+          "clase_riesgo": "Clase IIA",
+          "referencia": "00-2490-014-12"
+        },
+        {
+          "nombre_comercial": "",
+          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
+          "clase_riesgo": "Clase I",
+          "referencia": "CC06-H"
+        },
+        {
+          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
           "fabricante": "IAA Surgical Instruments Company",
           "clase_riesgo": "Clase I",
-          "referencia": "10-443-20"
+          "referencia": "28-310-00"
         },
         {
           "nombre_comercial": "Appasamy",
           "fabricante": "Appasamy Associates Private Limited",
           "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 1500"
+          "referencia": "AAD 4481"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "Huzhou Icon Medical Technology Co.,Ltd.",
-          "clase_riesgo": "Clase I",
-          "referencia": "RCBS0502C"
-        },
-        {
-          "nombre_comercial": "Orthodontic Ceramic Brackets",
-          "fabricante": "CREATIVE DENTAL",
+          "nombre_comercial": "NexGen®",
+          "fabricante": "Zimmer, Inc.",
           "clase_riesgo": "Clase IIA",
-          "referencia": "Thomas C, Self ligating, MBT 0.022\" UL4H"
+          "referencia": "00-5977-012-09"
         },
         {
-          "nombre_comercial": "KJ Implant System",
-          "fabricante": "KJ MEDITECH Co., Ltd.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "OFID3708"
-        },
-        {
-          "nombre_comercial": "TC Metzenbaum Scissor 31cm/12¼\" B/B, Cvd",
-          "fabricante": "IAA Surgical Instruments Company",
+          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
+          "fabricante": "Medical Devices (Pvt) Ltd",
           "clase_riesgo": "Clase I",
-          "referencia": "10-442-31"
-        },
-        {
-          "nombre_comercial": "PRIME Plus Foot, Cat 3, Size 26 Right, Beige",
-          "fabricante": "ST&G Corporation",
-          "clase_riesgo": "Clase I",
-          "referencia": "1121-C3-26R"
-        },
-        {
-          "nombre_comercial": "De Bakey Multi Purpose Clamps 20cm",
-          "fabricante": "Y.B. SURGICO",
-          "clase_riesgo": "Clase I",
-          "referencia": "Y18.444.20R"
+          "referencia": "819-194-22"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-26T10:42:51Z",
+  "generado": "2026-11-02T13:00:30Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         230,
-        192
+        198
       ],
-      "total": 1402,
-      "delta_3a": 77.9
+      "total": 1408,
+      "delta_3a": 79.7
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -67,10 +67,10 @@
         4,
         10,
         13,
-        14
+        15
       ],
-      "total": 85,
-      "delta_3a": 105.6
+      "total": 86,
+      "delta_3a": 111.1
     },
     "hifu": {
       "categoria": "facial",
@@ -86,10 +86,10 @@
         40,
         44,
         59,
-        44
+        45
       ],
-      "total": 451,
-      "delta_3a": 37.4
+      "total": 452,
+      "delta_3a": 38.3
     },
     "radiofrecuencia-microneedling": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        58
+        61
       ],
-      "total": 428,
-      "delta_3a": 16.9
+      "total": 431,
+      "delta_3a": 19.4
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        127
+        129
       ],
-      "total": 804,
-      "delta_3a": 97.3
+      "total": 806,
+      "delta_3a": 98.4
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -181,10 +181,10 @@
         9,
         7,
         3,
-        6
+        7
       ],
-      "total": 54,
-      "delta_3a": -33.3
+      "total": 55,
+      "delta_3a": -29.2
     },
     "ondas-choque": {
       "categoria": "corporal",
@@ -219,10 +219,10 @@
         3,
         6,
         6,
-        3
+        4
       ],
-      "total": 25,
-      "delta_3a": 66.7
+      "total": 26,
+      "delta_3a": 77.8
     },
     "rinomodelacion": {
       "categoria": "facial",
@@ -238,10 +238,10 @@
         35,
         43,
         44,
-        21
+        22
       ],
-      "total": 264,
-      "delta_3a": 25.6
+      "total": 265,
+      "delta_3a": 26.7
     },
     "aumento-labios": {
       "categoria": "facial",
@@ -276,10 +276,10 @@
         193,
         219,
         264,
-        216
+        219
       ],
-      "total": 2028,
-      "delta_3a": 19.5
+      "total": 2031,
+      "delta_3a": 20.0
     },
     "lipovaser": {
       "categoria": "corporal",
