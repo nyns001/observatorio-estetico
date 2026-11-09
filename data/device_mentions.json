@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-02T13:00:30Z",
+  "generado": "2026-11-09T13:33:03Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -115,7 +115,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 484
+        "menciones": 483
       },
       {
         "equipo": "Ultherapy",
@@ -126,12 +126,12 @@
         "menciones": 12
       },
       {
-        "equipo": "Radiofrecuencia monopolar",
-        "menciones": 8
+        "equipo": "IPL",
+        "menciones": 10
       },
       {
-        "equipo": "IPL",
-        "menciones": 7
+        "equipo": "Radiofrecuencia monopolar",
+        "menciones": 8
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -165,11 +165,11 @@
     "radiofrecuencia-microneedling": [
       {
         "equipo": "Microagujas",
-        "menciones": 247
+        "menciones": 253
       },
       {
         "equipo": "Onda / RF fraccionada",
-        "menciones": 135
+        "menciones": 134
       },
       {
         "equipo": "Er:YAG 2940 nm",
@@ -215,7 +215,7 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 194
+        "menciones": 193
       },
       {
         "equipo": "PRP",
@@ -223,7 +223,7 @@
       },
       {
         "equipo": "Microagujas",
-        "menciones": 41
+        "menciones": 34
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -435,11 +435,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 182
-      },
-      {
-        "equipo": "HIFU",
-        "menciones": 6
+        "menciones": 184
       },
       {
         "equipo": "Microagujas",

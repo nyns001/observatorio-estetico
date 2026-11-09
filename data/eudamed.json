@@ -1,57 +1,57 @@
 {
-  "generado": "2026-11-02T13:09:25Z",
+  "generado": "2026-11-09T13:39:11Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -62,52 +62,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -115,69 +115,167 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Belotero": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Bocouture": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Botox": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -185,69 +283,167 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Cellactor": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Clatuu": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "CoolSculpting": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -258,52 +454,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -311,62 +507,111 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Ellanse": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -377,52 +622,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -433,52 +678,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -486,62 +731,111 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Eufoton": {
-      "encontrados_eudamed": 0,
-      "dispositivos": [],
-      "estado": "a verificar por experto",
-      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
+      "encontrados_eudamed": 8,
+      "dispositivos": [
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
+        },
+        {
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
+        }
+      ],
+      "estado": "verificacion parcial - EUDAMED",
+      "detalle": "",
       "fuente": "EUDAMED - buscador publico"
     },
     "Fraxel": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -552,52 +846,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -608,52 +902,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -664,52 +958,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -720,52 +1014,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -776,52 +1070,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.5D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.5D"
         },
         {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+2.0D"
         },
         {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T3UXL24,+29.0D"
         },
         {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T1UXL24,-8.5D"
         },
         {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM2T3UXL22,+35.0D"
         },
         {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM4T4UXL22,+27.0D"
         },
         {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
+          "nombre_comercial": "Prosert®",
+          "fabricante": "Eyebright Medical Technology (Beijing) Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "AM1T6UXL24,+1.5D"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -829,59 +1123,10 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Potenza": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Radiesse": {
@@ -892,59 +1137,10 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Restylane": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Sculptra": {
@@ -962,619 +1158,80 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Silhouette Soft": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "SmartXide": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Sofwave": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Teosyal": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Ulfit": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Ultherapy": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "UltraPulse": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Vaser": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Vaser Lipo": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Xeomin": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Z Wave": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5977-013-09"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase I",
-          "referencia": "00-5983-038-00"
-        },
-        {
-          "nombre_comercial": "Natural Nail®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-2490-014-12"
-        },
-        {
-          "nombre_comercial": "",
-          "fabricante": "shenzhenshi shenkehengjian yiliaokeji youxian gongsi",
-          "clase_riesgo": "Clase I",
-          "referencia": "CC06-H"
-        },
-        {
-          "nombre_comercial": "Cervical Bayonet Style Curette Tip with Black Handle Fig.00, FS, 21.5cm/8½\"",
-          "fabricante": "IAA Surgical Instruments Company",
-          "clase_riesgo": "Clase I",
-          "referencia": "28-310-00"
-        },
-        {
-          "nombre_comercial": "Appasamy",
-          "fabricante": "Appasamy Associates Private Limited",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "AAD 4481"
-        },
-        {
-          "nombre_comercial": "NexGen®",
-          "fabricante": "Zimmer, Inc.",
-          "clase_riesgo": "Clase IIA",
-          "referencia": "00-5977-012-09"
-        },
-        {
-          "nombre_comercial": "Anoscope Hirschmann Large 22 x 65 mm Satin S.S.",
-          "fabricante": "Medical Devices (Pvt) Ltd",
-          "clase_riesgo": "Clase I",
-          "referencia": "819-194-22"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     }
   },
