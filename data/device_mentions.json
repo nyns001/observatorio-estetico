@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T13:33:03Z",
+  "generado": "2026-11-16T13:19:05Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -115,7 +115,7 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 483
+        "menciones": 488
       },
       {
         "equipo": "Ultherapy",
@@ -215,7 +215,7 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 193
+        "menciones": 191
       },
       {
         "equipo": "PRP",
@@ -265,7 +265,7 @@
     "bioestimuladores": [
       {
         "equipo": "Sculptra (PLLA)",
-        "menciones": 17
+        "menciones": 16
       },
       {
         "equipo": "Microagujas",
@@ -277,7 +277,7 @@
       },
       {
         "equipo": "Exosomas",
-        "menciones": 9
+        "menciones": 8
       },
       {
         "equipo": "Radiesse (CaHA)",
@@ -435,7 +435,7 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 184
+        "menciones": 186
       },
       {
         "equipo": "Microagujas",

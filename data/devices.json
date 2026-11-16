@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-09T13:35:39Z",
+  "generado": "2026-11-16T13:21:39Z",
   "fuente": "openFDA - registro 510(k) de dispositivos medicos",
   "aviso": "Autorizaciones de EE.UU. No refleja disponibilidad ni marcado CE en Europa.",
   "por_tratamiento": {
@@ -95,6 +95,14 @@
     "bioestimuladores": [],
     "criolipolisis": [],
     "emsculpt": [
+      {
+        "nombre": "Dual-Channel TENS & EMS Muscle Stimulator (Models TS1111, TS4111)",
+        "fabricante": "Changsha Anxiang Medical Technology Co., Ltd.",
+        "k_number": "K262470",
+        "fecha_decision": "2026-10-30",
+        "ano": "2026",
+        "pais": "CN"
+      },
       {
         "nombre": "Electrical Muscle Stimulator (AST-105DJ, AST-105EJ, AST- 105BJ, AST-105GJ, AST-303J, AST-309J, AST-310J;AST-300Q, AST-300Q-A, AST-500B; AST-500G, AST-500F; AST-500N; AST- 500C, AST- 500K, AST-500A; AST-300E, AST-500M, AST- 500U, AST- 500D; AST- 500E.)",
         "fabricante": "Shenzhen Osto Medical Technology Co.,Ltd",
@@ -254,14 +262,6 @@
         "fecha_decision": "2019-07-18",
         "ano": "2019",
         "pais": "IE"
-      },
-      {
-        "nombre": "PlayMakar Sport Muscle Stimulator, Model PRO-500",
-        "fabricante": "Playmakar, Inc.",
-        "k_number": "K182581",
-        "fecha_decision": "2018-11-21",
-        "ano": "2018",
-        "pais": "US"
       }
     ],
     "ondas-choque": [
@@ -316,6 +316,14 @@
     ],
     "endolift": [
       {
+        "nombre": "Diode laser device (DT25-BI, DT212-BI, DT213-BI, DT214-BI, DT215-BI)",
+        "fabricante": "Risu Medical Technology Co., Ltd.",
+        "k_number": "K262349",
+        "fecha_decision": "2026-10-27",
+        "ano": "2026",
+        "pais": "CN"
+      },
+      {
         "nombre": "CureLight Medical Diode Laser Systems (S3-BF45);CureLight Medical Diode Laser Systems (S2-B30);CureLight Medical Diode Laser Systems (S3-BF30);CureLight Medical Diode Laser Systems (S2-F15);CureLight Medical Diode Laser Systems (S2-H7.5)",
         "fabricante": "Wuhan Phomed Technology Co., Ltd.",
         "k_number": "K262346",
@@ -348,17 +356,17 @@
         "pais": "CN"
       },
       {
-        "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
-        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
-        "k_number": "K262426",
+        "nombre": "Diode Laser Therapy System",
+        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
+        "k_number": "K261562",
         "fecha_decision": "2026-09-10",
         "ano": "2026",
         "pais": "CN"
       },
       {
-        "nombre": "Diode Laser Therapy System",
-        "fabricante": "Sanhe LEFIS Electronics Co., Ltd.",
-        "k_number": "K261562",
+        "nombre": "Medical Diode Laser (S1Pro+, S1Pro K15, S1Pro N6, S1Pro N75)",
+        "fabricante": "Wuhan Pioon Technology Co., Ltd.",
+        "k_number": "K262426",
         "fecha_decision": "2026-09-10",
         "ano": "2026",
         "pais": "CN"
@@ -504,14 +512,6 @@
         "fabricante": "Risu Medical Technology Co., Ltd.",
         "k_number": "K251329",
         "fecha_decision": "2025-06-27",
-        "ano": "2025",
-        "pais": "CN"
-      },
-      {
-        "nombre": "Medical Diode Laser Systems (VELAS II-30B, VELAS II-30A, GBOX-15AB, GBOX-20B, CHEESE II-10B)",
-        "fabricante": "Gigaalaser Company , Ltd.",
-        "k_number": "K242755",
-        "fecha_decision": "2025-05-19",
         "ano": "2025",
         "pais": "CN"
       }
