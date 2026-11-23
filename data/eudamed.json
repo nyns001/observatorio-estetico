@@ -1,113 +1,64 @@
 {
-  "generado": "2026-11-16T13:24:56Z",
+  "generado": "2026-11-23T15:46:02Z",
   "aviso": "Verificacion de marcado CE. EUDAMED esta incompleto (despliegue por fases): la ausencia de un producto no implica que carezca de marcado CE. Confirmar siempre con la documentacion del fabricante.",
   "por_marca": {
     "Azzalure": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Belkyra": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -118,52 +69,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -174,52 +125,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -227,503 +178,111 @@
       "fuente": "EUDAMED - buscador publico"
     },
     "Botox": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Cellactor": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Clatuu": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "CoolSculpting": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Cooltech": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Ellanse": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Emsculpt Neo": {
-      "encontrados_eudamed": 8,
-      "dispositivos": [
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
-        },
-        {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
-        }
-      ],
-      "estado": "verificacion parcial - EUDAMED",
-      "detalle": "",
+      "encontrados_eudamed": 0,
+      "dispositivos": [],
+      "estado": "a verificar por experto",
+      "detalle": "No aparece en EUDAMED. Puede seguir teniendo marcado CE: confirmar con la Declaracion de Conformidad del fabricante.",
       "fuente": "EUDAMED - buscador publico"
     },
     "Endolift": {
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -734,52 +293,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -790,52 +349,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -846,52 +405,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -902,52 +461,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -958,52 +517,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1014,52 +573,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",
@@ -1070,52 +629,52 @@
       "encontrados_eudamed": 8,
       "dispositivos": [
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77376-00068-00"
+          "nombre_comercial": "SURGISPON®",
+          "fabricante": "Aegis Lifesciences Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "SSP-70.10"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00187-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-230-20-B1"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Small, 3.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00149-00"
+          "referencia": "SHL 59735"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00177-00"
+          "nombre_comercial": "Medical Gas Outlet",
+          "fabricante": "Pacific Hospital Supply Co., Ltd.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "082-001303-00"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77375-00026-00"
+          "nombre_comercial": "Mericron XL™ Polyester Surgical Suture U.S.P. ",
+          "fabricante": "Meril Endo Surgery Pvt. Ltd.",
+          "clase_riesgo": "Clase III",
+          "referencia": "ME/BRC/025"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00215-00"
+          "nombre_comercial": "BG-Pro II",
+          "fabricante": "Swiscare Technology Co., Ltd.",
+          "clase_riesgo": "Clase IVD-ANNEX-II-LIST-B",
+          "referencia": "SG07"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
+          "nombre_comercial": "Laryngoscope, Lunalite Mark-IV F/O Handle, Size Medium, 29 mm, 2.5V LED, Rechargeable Battery (Included) Satin, Brass",
+          "fabricante": "SAHIROUN (PVT) LTD.",
           "clase_riesgo": "Clase I",
-          "referencia": "77372-00203-00"
+          "referencia": "SHL 59325"
         },
         {
-          "nombre_comercial": "JOBST® Elvarex®",
-          "fabricante": "BSN-Jobst GmbH",
-          "clase_riesgo": "Clase I",
-          "referencia": "77372-00165-00"
+          "nombre_comercial": "Disposable Polyp Snares",
+          "fabricante": "FORESIGHT TECHNOLOGY CO., LTD.",
+          "clase_riesgo": "Clase IIB",
+          "referencia": "FST-SD-23-180-20-B1"
         }
       ],
       "estado": "verificacion parcial - EUDAMED",

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-16T13:19:05Z",
+  "generado": "2026-11-23T15:37:06Z",
   "anos": [
     2015,
     2016,
@@ -29,10 +29,10 @@
         118,
         174,
         230,
-        209
+        224
       ],
-      "total": 1419,
-      "delta_3a": 83.0
+      "total": 1434,
+      "delta_3a": 87.5
     },
     "acido-hialuronico": {
       "categoria": "facial",
@@ -48,10 +48,10 @@
         40,
         49,
         70,
-        57
+        62
       ],
-      "total": 411,
-      "delta_3a": 54.4
+      "total": 416,
+      "delta_3a": 58.8
     },
     "hilos-pdo": {
       "categoria": "facial",
@@ -67,10 +67,10 @@
         4,
         10,
         13,
-        16
+        17
       ],
-      "total": 87,
-      "delta_3a": 116.7
+      "total": 88,
+      "delta_3a": 122.2
     },
     "hifu": {
       "categoria": "facial",
@@ -86,10 +86,10 @@
         40,
         44,
         59,
-        49
+        58
       ],
-      "total": 456,
-      "delta_3a": 42.1
+      "total": 465,
+      "delta_3a": 50.5
     },
     "radiofrecuencia-microneedling": {
       "categoria": "facial",
@@ -105,10 +105,10 @@
         15,
         24,
         20,
-        18
+        19
       ],
-      "total": 217,
-      "delta_3a": -3.1
+      "total": 218,
+      "delta_3a": -1.6
     },
     "laser-co2-fraccionado": {
       "categoria": "facial",
@@ -124,10 +124,10 @@
         30,
         31,
         56,
-        64
+        66
       ],
-      "total": 434,
-      "delta_3a": 21.8
+      "total": 436,
+      "delta_3a": 23.4
     },
     "bioestimuladores": {
       "categoria": "facial",
@@ -143,10 +143,10 @@
         76,
         104,
         130,
-        134
+        149
       ],
-      "total": 811,
-      "delta_3a": 101.1
+      "total": 826,
+      "delta_3a": 109.3
     },
     "criolipolisis": {
       "categoria": "corporal",
@@ -162,10 +162,10 @@
         29,
         8,
         18,
-        12
+        13
       ],
-      "total": 221,
-      "delta_3a": -47.9
+      "total": 222,
+      "delta_3a": -46.6
     },
     "emsculpt": {
       "categoria": "corporal",
@@ -257,10 +257,10 @@
         7,
         23,
         21,
-        20
+        22
       ],
-      "total": 141,
-      "delta_3a": 82.9
+      "total": 143,
+      "delta_3a": 88.6
     },
     "liposuccion-papada": {
       "categoria": "corporal",
@@ -276,10 +276,10 @@
         193,
         219,
         264,
-        226
+        232
       ],
-      "total": 2038,
-      "delta_3a": 21.2
+      "total": 2044,
+      "delta_3a": 22.2
     },
     "lipovaser": {
       "categoria": "corporal",

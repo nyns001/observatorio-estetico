@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-16T13:19:05Z",
+  "generado": "2026-11-23T15:37:06Z",
   "fuente": "Menciones detectadas en abstracts recientes de PubMed",
   "por_tratamiento": {
     "toxina-botulinica": [
@@ -8,12 +8,16 @@
         "menciones": 11
       },
       {
-        "equipo": "Microagujas",
-        "menciones": 6
+        "equipo": "HIFU",
+        "menciones": 8
       },
       {
-        "equipo": "Profhilo",
-        "menciones": 5
+        "equipo": "Microagujas",
+        "menciones": 4
+      },
+      {
+        "equipo": "PRP",
+        "menciones": 4
       },
       {
         "equipo": "Laser CO2 fraccionado",
@@ -25,10 +29,6 @@
       },
       {
         "equipo": "Exosomas",
-        "menciones": 3
-      },
-      {
-        "equipo": "PRP",
         "menciones": 3
       },
       {
@@ -115,14 +115,14 @@
     "hifu": [
       {
         "equipo": "HIFU",
-        "menciones": 488
-      },
-      {
-        "equipo": "Ultherapy",
-        "menciones": 12
+        "menciones": 461
       },
       {
         "equipo": "Microagujas",
+        "menciones": 13
+      },
+      {
+        "equipo": "Ultherapy",
         "menciones": 12
       },
       {
@@ -138,11 +138,19 @@
         "menciones": 4
       },
       {
+        "equipo": "Belkyra / Kybella",
+        "menciones": 4
+      },
+      {
         "equipo": "Onda / RF fraccionada",
         "menciones": 4
       },
       {
         "equipo": "HIFEM",
+        "menciones": 3
+      },
+      {
+        "equipo": "Criolipolisis",
         "menciones": 3
       },
       {
@@ -152,24 +160,16 @@
       {
         "equipo": "Alexandrita 755 nm",
         "menciones": 2
-      },
-      {
-        "equipo": "Diodo 808 nm",
-        "menciones": 2
-      },
-      {
-        "equipo": "Criolipolisis",
-        "menciones": 2
       }
     ],
     "radiofrecuencia-microneedling": [
       {
         "equipo": "Microagujas",
-        "menciones": 253
+        "menciones": 257
       },
       {
         "equipo": "Onda / RF fraccionada",
-        "menciones": 134
+        "menciones": 132
       },
       {
         "equipo": "Er:YAG 2940 nm",
@@ -215,15 +215,15 @@
     "laser-co2-fraccionado": [
       {
         "equipo": "Laser CO2 fraccionado",
-        "menciones": 191
+        "menciones": 192
       },
       {
         "equipo": "PRP",
-        "menciones": 45
+        "menciones": 52
       },
       {
         "equipo": "Microagujas",
-        "menciones": 34
+        "menciones": 35
       },
       {
         "equipo": "Nd:YAG 1064 nm",
@@ -235,7 +235,7 @@
       },
       {
         "equipo": "IPL",
-        "menciones": 17
+        "menciones": 18
       },
       {
         "equipo": "Er:YAG 2940 nm",
@@ -265,6 +265,10 @@
     "bioestimuladores": [
       {
         "equipo": "Sculptra (PLLA)",
+        "menciones": 18
+      },
+      {
+        "equipo": "PDRN / polinucleotidos",
         "menciones": 16
       },
       {
@@ -272,20 +276,20 @@
         "menciones": 15
       },
       {
-        "equipo": "PDRN / polinucleotidos",
-        "menciones": 14
-      },
-      {
         "equipo": "Exosomas",
-        "menciones": 8
+        "menciones": 9
       },
       {
         "equipo": "Radiesse (CaHA)",
-        "menciones": 5
+        "menciones": 8
       },
       {
         "equipo": "PRP",
         "menciones": 4
+      },
+      {
+        "equipo": "Potenza",
+        "menciones": 1
       },
       {
         "equipo": "Thermage",
@@ -311,15 +315,15 @@
     "criolipolisis": [
       {
         "equipo": "Criolipolisis",
-        "menciones": 489
+        "menciones": 485
       },
       {
         "equipo": "CoolSculpting",
-        "menciones": 29
+        "menciones": 28
       },
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 10
+        "menciones": 13
       },
       {
         "equipo": "HIFU",
@@ -435,15 +439,15 @@
     "liposuccion-papada": [
       {
         "equipo": "Belkyra / Kybella",
-        "menciones": 186
+        "menciones": 180
       },
       {
         "equipo": "Microagujas",
-        "menciones": 2
+        "menciones": 6
       },
       {
         "equipo": "Criolipolisis",
-        "menciones": 1
+        "menciones": 2
       }
     ],
     "lipovaser": [
